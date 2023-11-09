@@ -1,0 +1,123 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/Q-g2/3179/main/AnotherGlobalWeatherRepository.csv"
+    },
+    "background": null,
+    "title": {"text":"Air Quality EPA Index", "align": "center","anchor": "middle", "fontSize": 20,"fontWeight":"bolder", "color":"brown"},
+    "width": "container",
+    "height": 300,
+    "transform": [
+        {
+            "calculate": "datum.air_quality_EPA_index == 1 ? '1' : datum.air_quality_EPA_index",
+            "as": "group_epa_index_type"
+        },
+        {
+            "filter": {"and": [{"field": "air_quality_EPA_index", "gte":1},{"field": "air_quality_EPA_index", "lte":7}]}
+        },
+        {
+            "aggregate": [
+                { "op": "count", "field": "air_quality_EPA_index", "as": "AirQIndexSum" }
+            ],
+            "groupby": ["group_epa_index_type"]
+        }
+    ],
+    "config": {
+        "view": {
+            "stroke": "transparent"
+        },
+        "legend": {
+            "orient": "top-left",
+            "titleFontSize": 12, 
+            "labelFontSize": 12
+        }
+    },
+    "layer": [
+        {
+          "params": [
+            {
+              "name": "Index_highlight",
+              "select": { "type": "point", "fields": ["group_epa_index_type"]},
+              "bind": "legend"
+            }
+          ],
+          "mark": { "type": "arc", "innerRadius": 40, "stroke": "white" },
+            "encoding": {
+                "theta": {
+                    "field": "AirQIndexSum",
+                    "type": "quantitative",
+                    "stack": true
+                },
+                "color": {
+                    "field": "group_epa_index_type",
+                    "type": "nominal",
+                    "scale": {
+                        "range": [
+                            "#ffbf00", "#ff4f00", "#808000", "#8db600", "#0047ab", "#80daeb"
+                        ]
+                    }
+                },
+                "opacity": {
+                  "condition": { "param": "Index_highlight", "value": 1 },
+                  "value": 0.2
+                },
+                "tooltip": [
+                    { "field": "group_epa_index_type", "title": "Air Quality EPA Index Type" },
+                    { "field": "AirQIndexSum", "title": "Total count of Index Type" }
+                ]
+            }
+        },
+        {
+            "mark": { "type": "text", "color": "black", "radiusOffset": 15, "fontSize": 14 }, 
+            "encoding": {
+                "theta": {
+                    "field": "AirQIndexSum",
+                    "type": "quantitative",
+                    "stack": true
+                },
+                "text": { "field": "AirQIndexSum", "type": "quantitative" },
+                "fillOpacity": {
+                  "condition": { "param": "Index_highlight", "value": 1 },
+                  "value": 0
+                }
+            }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dy": -60,
+            "dx": -100,
+            "fontSize": 11.5,
+            "fontStyle": "normal"
+          },
+          "encoding": {
+            "text": {
+              "condition": {
+                "test": "datum['group_epa_index_type'] == 1",
+                "value": ["Air quality EPA index of 1","is the leading index", "found in most continents."]
+              },
+              "value": ""
+            },
+            "color": { "value": "black" },
+            "opacity": {
+              "condition": {
+                "test": "datum['group_epa_index_type'] == 1",
+                "value": 1
+              },
+              "value": 0
+            }
+          }
+        }
+    ],
+    "encoding": {
+        "theta": { "field": "AirQIndexSum", "type": "quantitative", "stack": true, "sort": "ascending" },
+        "radius": { "field": "AirQIndexSum", "scale": { "type": "sqrt", "zero": true, "rangeMin": 100 } },
+        "color": { "field": "group_epa_index_type", "type": "nominal", "title": "Air Quality EPA Index Type" },
+        "tooltip": [
+            { "field": "group_epa_index_type", "title": "Air Quality EPA Index Type" },
+            { "field": "AirQIndexSum", "title": "Total count of the EPA Index" }
+        ]
+    }
+  }

@@ -1,0 +1,102 @@
+
+body,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"]{
+    font-family: 'Noto Serif', serif;
+}
+
+.vis-container{
+    width: 100%;
+    margin:auto;
+}
+    
+.main{
+    background-color: #E0E0E0;
+}
+
+.main-title{
+    background-color:#fffaec;
+    padding: 10px;
+    font-size: x-large;
+    font-family: 'Ultra', serif;
+}
+
+.page{
+    width: 1280px;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.description-right{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: medium;
+    font-family: 'Noto Serif', serif;
+}
+
+.description-left{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: medium;
+    font-family: 'Noto Serif', serif;
+}
+
+.description-centre{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: medium;
+    font-family: 'Noto Serif', serif;
+}
+
+.descripton-tip{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: x-small;
+    font-style: italic;
+    color:#bcb88a;
+    font-family: 'Noto Serif', serif;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Noto Serif', serif;
+}
+
+.divider{
+    height: 50px;
+}
+
+.vis-card {
+    box-shadow: 0 1rem 2rem hsl(0 0% 0% / 20%);
+    border-radius: 2ch;
+}
+
+.p1{
+    background-color: #fffaec;
+    padding: 20px;
+}
+
+
+.pure-u-1-2 {
+    width: 50%;
+    display: inline-block;
+}
+
+.pure-g::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.aug{
+    color:#87c1f5
+}
+
+.sep{
+    color:#f5bb87
+}
