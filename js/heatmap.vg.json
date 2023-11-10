@@ -1,0 +1,47 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/Q-g2/3179/main/VisGlobalWeatherRepository.csv"
+    },
+    "title": {"text":"UV Index 2023", "align": "center","anchor": "middle", "fontSize": 20,"fontWeight":"bolder", "color":"brown" },
+    "width": "container",
+    "height": 300,
+    "background":null,
+    "config": {
+        "view": {
+            "strokeWidth": 0,
+            "step": 13,
+            "stroke": "transparent"
+        },
+        "axis": {
+            "domain": false
+        }
+    
+    },
+    "mark": "rect",
+    "encoding": {
+        "x": {
+            "field": "last_updated",
+            "timeUnit": "date",
+            "type": "ordinal",
+            "title": "Day",
+            "axis": {
+                "labelAngle": 0,
+                "format": "%e"
+            }
+        },
+        "y": {
+            "field": "Continent",
+            "type": "nominal",
+            "title": "Continent"
+        },
+        "color": {
+            "field": "uv_index",
+            "aggregate": "average",
+            "type": "quantitative",
+            "legend": {
+                "title": "UV index Level"
+            }
+        }
+    }
+  }
