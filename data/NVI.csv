@@ -1,0 +1,4678 @@
+country,location_name,uv_index,Continent,day
+Afghanistan,Kabul,7,Asia,29
+Albania,Tirana,6,Europe,29
+Algeria,Algiers,7,Africa,29
+Andorra,Andorra La Vella,4,Europe,29
+Angola,Luanda,6,Africa,29
+Antigua and Barbuda,Saint John's,1,America,29
+Argentina,Buenos Aires,1,America,29
+Armenia,Yerevan,8,Asia,29
+Australia,Canberra,1,Australia,29
+Austria,Vienna,4,Europe,29
+Azerbaijan,Baku,7,Asia,29
+Bahamas,Nassau,1,America,29
+Bahrain,Manama,9,Asia,29
+Bangladesh,Dhaka,7,Asia,29
+Barbados,Bridgetown,1,America,29
+Belarus,Minsk,6,Europe,29
+Belgium,Brussels,5,Europe,29
+Belize,Belmopan,1,America,29
+Benin,Porto-Novo,6,Africa,29
+Bhutan,Thimphu,4,Asia,29
+Bolivia,Sucre,1,America,29
+Bosnia and Herzegovina,Sarajevo,6,Europe,29
+Botswana,Gaborone,5,Africa,29
+Brazil,Bras,1,America,29
+Brunei Darussalam,Bandar Seri Begawan,6,Asia,29
+Bulgaria,Sofia,6,Europe,29
+Burkina Faso,Ouagadougou,7,Africa,29
+Burundi,Bujumbura,7,Africa,29
+Madagascar,Ivory,6,Indian,29
+Cape Verde,Praia,7,Atlantic,29
+Cambodia,Phnom Penh,8,Asia,29
+Cameroon,Bafoussam,5,Africa,29
+Canada,Ottawa,1,America,29
+Central African Republic,Bangui,7,Africa,29
+Chad,N'djamena,7,Africa,29
+Chile,Santiago,1,America,29
+China,Beijing,7,Asia,29
+Bulgaria,Bogot,9,Europe,29
+Comoros,Moroni,5,Indian,29
+Congo,Brazzaville,8,Africa,29
+Costa Rica,San Juan,1,America,29
+Croatia,Zagreb,6,Europe,29
+Cuba,Havana,1,America,29
+Cyprus,Nicosia,8,Asia,29
+Czech Republic,Prague,3,Europe,29
+Democratic Republic of Congo,Kinshasa,8,Africa,29
+Denmark,Copenhagen,5,Europe,29
+Djibouti,Djibouti,9,Africa,29
+Dominica,Roseau,1,America,29
+Dominican Republic,Santo Domingo,1,America,29
+Ecuador,Quito,1,America,29
+Egypt,Cairo,1,Africa,29
+El Salvador,San Salvador,1,America,29
+Equatorial Guinea,Malabo,6,Africa,29
+Eritrea,Asmara,6,Africa,29
+Estonia,Tallinn,5,Europe,29
+Swaziland,Mbabane,5,Africa,29
+Ethiopia,Addis Ababa,3,Africa,29
+Fiji Islands,Suva,1,Pacific,29
+Finland,Helsinki,5,Europe,29
+France,Paris,6,Europe,29
+Gabon,Libreville,6,Africa,29
+Gambia,Banjul,6,Africa,29
+Georgia,Tbilisi,7,Asia,29
+Germany,Berlin,3,Europe,29
+Ghana,Accra,7,Africa,29
+Greece,Athens,8,Europe,29
+Grenada,Saint George's,1,America,29
+Guatemala,Guatemala City,1,America,29
+Guinea,Conakry,5,Africa,29
+Guinea-Bissau,Bissau,6,Africa,29
+Guyana,Georgetown,1,America,29
+Haiti,Port-Au-Prince,1,America,29
+Vatican City,Vatican City,5,Europe,29
+Honduras,Tegucigalpa,1,America,29
+Hungary,Budapest,5,Europe,29
+Iceland,Hella,3,Atlantic,29
+India,New Delhi,9,Asia,29
+Indonesia,Jakarta,8,Asia,29
+Iran,Tehran,8,Asia,29
+Iraq,Baghdad,9,Asia,29
+Ireland,Dublin,4,Europe,29
+Israel,Jerusalem,7,Asia,29
+Italy,Rome,5,Europe,29
+Jamaica,Norman Gardens,1,America,29
+Japan,Tokyo,7,Asia,29
+Jordan,Amman,7,Asia,29
+Kazakhstan,Astana,5,Asia,29
+Kenya,Nairobi,6,Africa,29
+Kiribati,Tarawa,1,Pacific,29
+Kuwait,Kuwait City,9,Asia,29
+Kyrghyzstan,Bishkek,7,Asia,29
+Indonesia,Laos,7,Asia,29
+Latvia,Riga,5,Europe,29
+Lebanon,Beirut,7,Asia,29
+Lesotho,Maseru,5,Africa,29
+Liberia,Monrovia,6,Africa,29
+Thailand,Nan,6,Asia,29
+Liechtenstein,Vaduz,2,Europe,29
+Lithuania,Vilnius,5,Europe,29
+Luxembourg,Luxembourg,4,Europe,29
+Madagascar,Antananarivo,4,Indian,29
+Malawi,Lilongwe,6,Africa,29
+Malaysia,Kuala Lumpur,6,Asia,29
+Maldives,Farukolhufunadhoo,6,Indian,29
+Mali,Bamako,5,Africa,29
+Malta,Valletta,7,Europe,29
+Marshall Islands,Majuro,1,Pacific,29
+Mauritania,Nouakchott,7,Africa,29
+Mauritius,Port Louis,7,Indian,29
+Mexico,Mexico City,1,America,29
+Micronesia,Palikir,1,Pacific,29
+Russia,Chi-Chi-Erh,8,Asia,29
+Monaco,Monaco,6,Europe,29
+Mongolia,Ulaanbaatar,4,Asia,29
+Montenegro,Podgorica,5,Europe,29
+Morocco,Rabat,6,Africa,29
+Mozambique,Maputo,5,Africa,29
+Myanmar,Pathein,8,Asia,29
+Namibia,Windhoek,7,Africa,29
+Turkey,Yaren,8,Europe,29
+Nepal,Kathmandu,5,Asia,29
+Netherlands,Amsterdam,5,Europe,29
+New Zealand,Wellington,1,Pacific,29
+Nicaragua,Managua,1,America,29
+Niger,Niamey,8,Africa,29
+Nigeria,Abuja,6,Africa,29
+North Korea,Pyongyang,5,Asia,29
+Macedonia,Skopje,8,Europe,29
+Norway,Oslo,4,Europe,29
+Oman,Muscat,8,Asia,29
+Pakistan,Islamabad,8,Asia,29
+Palau,Adkip,1,Pacific,29
+Bolivia,National,1,America,29
+Panama,Panama City,1,America,29
+Papua New Guinea,Port Moresby,1,Pacific,29
+Paraguay,Carreria,1,America,29
+Peru,Lima,1,America,29
+Philippines,Manila,6,Asia,29
+Poland,Warsaw,7,Europe,29
+Portugal,Lisbon,6,Europe,29
+Qatar,Doha,9,Asia,29
+Romania,Bucharest,9,Europe,29
+Russia,Moscow,3,Europe,29
+Rwanda,Kigali,7,Africa,29
+Saint Kitts and Nevis,Basseterre,1,America,29
+Saint Lucia,Castries,1,America,29
+Saint Vincent and the Grenadines,Kingstown,1,America,29
+Samoa,Apia,1,Pacific,29
+San Marino,San Marino,6,Europe,29
+Belgium,'S-Gravenwezel,5,Europe,29
+Saudi Arabia,Riyadh,10,Asia,29
+Senegal,Dakar,6,Africa,29
+Serbia,Belgrade,5,Europe,29
+Seychelles Islands,Victoria,6,Indian,29
+Sierra Leone,Freetown,6,Africa,29
+Singapore,Singapore,6,Asia,29
+Slovakia,Bratislava,4,Europe,29
+Slovenia,Ljubljana,4,Europe,29
+Solomon Islands,Honiara,1,Pacific,29
+Somalia,Mogadishu,7,Africa,29
+South Africa,Pretoria,5,Africa,29
+South Korea,Seoul,1,Asia,29
+Sudan,Juba,8,Africa,29
+Spain,Madrid,6,Europe,29
+Sri Lanka,Colombo,6,Asia,29
+Sudan,Khartoum,8,Africa,29
+Suriname,Paramaribo,1,America,29
+Sweden,Stockholm,5,Europe,29
+Switzerland,Bern,4,Europe,29
+Syria,Damascus,8,Asia,29
+Tajikistan,Dushanbe,8,Asia,29
+Tanzania,Dodoma,6,Africa,29
+Thailand,Bangkok,7,Asia,29
+Indonesia,Murong Timor,8,Asia,29
+Bulgaria,Lom,8,Europe,29
+Tonga,Nuku`Aloia,1,Pacific,29
+Trinidad and Tobago,Port Of Spain,1,America,29
+Tunisia,Tunis,7,Africa,29
+Turkey,Ankara,7,Europe,29
+Turkmenistan,Ashgabat,8,Asia,29
+Tuvalu,Funafuti,1,Pacific,29
+Uganda,Kampala,6,Africa,29
+Ukraine,Lviv,7,Europe,29
+United Arab Emirates,Abu Dhabi,9,Asia,29
+United Kingdom,London,5,Europe,29
+United States of America,Washington Park,1,America,29
+Uruguay,Montevideo,1,America,29
+Uzbekistan,Tashkent,8,Asia,29
+Vanuatu,Port Vila,1,Pacific,29
+Venezuela,Caracas,1,America,29
+Vietnam,Hanoi,8,Asia,29
+Yemen,Sanaa,6,Asia,29
+Zambia,Lusaka,5,Africa,29
+Zimbabwe,Harare,5,Africa,29
+Afghanistan,Kabul,6,Asia,30
+Albania,Tirana,1,Europe,30
+Algeria,Algiers,1,Africa,30
+Andorra,Andorra La Vella,1,Europe,30
+Angola,Luanda,1,Africa,30
+Antigua and Barbuda,Saint John's,1,America,29
+Argentina,Buenos Aires,1,America,29
+Armenia,Yerevan,5,Asia,30
+Australia,Canberra,5,Australia,30
+Austria,Vienna,1,Europe,30
+Azerbaijan,Baku,1,Asia,30
+Bahamas,Nassau,1,America,29
+Bahrain,Manama,1,Asia,30
+Bangladesh,Dhaka,8,Asia,30
+Barbados,Bridgetown,1,America,29
+Belarus,Minsk,1,Europe,30
+Belgium,Brussels,1,Europe,30
+Belize,Belmopan,1,America,29
+Benin,Porto-Novo,1,Africa,30
+Bhutan,Thimphu,5,Asia,30
+Bolivia,Sucre,1,America,29
+Bosnia and Herzegovina,Sarajevo,1,Europe,30
+Botswana,Gaborone,1,Africa,30
+Brazil,Bras,1,America,29
+Brunei Darussalam,Bandar Seri Begawan,8,Asia,30
+Bulgaria,Sofia,1,Europe,30
+Burkina Faso,Ouagadougou,1,Africa,30
+Burundi,Bujumbura,1,Africa,30
+Madagascar,Ivory,1,Indian,30
+Cape Verde,Praia,1,Atlantic,30
+Cambodia,Phnom Penh,8,Asia,30
+Cameroon,Bafoussam,1,Africa,30
+Canada,Ottawa,1,America,29
+Central African Republic,Bangui,1,Africa,30
+Chad,N'djamena,1,Africa,30
+Chile,Santiago,1,America,29
+China,Beijing,7,Asia,30
+Bulgaria,Bogot,1,Europe,30
+Comoros,Moroni,1,Indian,30
+Congo,Brazzaville,1,Africa,30
+Costa Rica,San Juan,1,America,29
+Croatia,Zagreb,1,Europe,30
+Cuba,Havana,1,America,29
+Cyprus,Nicosia,1,Asia,30
+Czech Republic,Prague,1,Europe,30
+Democratic Republic of Congo,Kinshasa,1,Africa,30
+Denmark,Copenhagen,1,Europe,30
+Djibouti,Djibouti,7,Africa,30
+Dominica,Roseau,1,America,29
+Dominican Republic,Santo Domingo,1,America,29
+Ecuador,Quito,1,America,29
+Egypt,Cairo,1,Africa,30
+El Salvador,San Salvador,1,America,29
+Equatorial Guinea,Malabo,1,Africa,30
+Eritrea,Asmara,1,Africa,30
+Estonia,Tallinn,1,Europe,30
+Swaziland,Mbabane,1,Africa,30
+Ethiopia,Addis Ababa,1,Africa,30
+Fiji Islands,Suva,6,Pacific,30
+Finland,Helsinki,1,Europe,30
+France,Paris,1,Europe,30
+Gabon,Libreville,1,Africa,30
+Gambia,Banjul,1,Africa,30
+Georgia,Tbilisi,1,Asia,30
+Germany,Berlin,1,Europe,30
+Ghana,Accra,1,Africa,30
+Greece,Athens,1,Europe,30
+Grenada,Saint George's,1,America,29
+Guatemala,Guatemala City,1,America,29
+Guinea,Conakry,1,Africa,30
+Guinea-Bissau,Bissau,1,Africa,30
+Guyana,Georgetown,1,America,29
+Haiti,Port-Au-Prince,1,America,29
+Vatican City,Vatican City,1,Europe,30
+Honduras,Tegucigalpa,1,America,29
+Hungary,Budapest,1,Europe,30
+Iceland,Hella,1,Atlantic,30
+India,New Delhi,8,Asia,30
+Indonesia,Jakarta,7,Asia,30
+Iran,Tehran,1,Asia,30
+Iraq,Baghdad,1,Asia,30
+Ireland,Dublin,1,Europe,30
+Israel,Jerusalem,1,Asia,30
+Italy,Rome,1,Europe,30
+Jamaica,Norman Gardens,1,America,29
+Japan,Tokyo,8,Asia,30
+Jordan,Amman,1,Asia,30
+Kazakhstan,Astana,3,Asia,30
+Kenya,Nairobi,1,Africa,30
+Kiribati,Tarawa,6,Pacific,30
+Kuwait,Kuwait City,8,Asia,30
+Kyrghyzstan,Bishkek,6,Asia,30
+Indonesia,Laos,7,Asia,30
+Latvia,Riga,1,Europe,30
+Lebanon,Beirut,1,Asia,30
+Lesotho,Maseru,1,Africa,30
+Liberia,Monrovia,1,Africa,30
+Thailand,Nan,5,Asia,30
+Liechtenstein,Vaduz,1,Europe,30
+Lithuania,Vilnius,1,Europe,30
+Luxembourg,Luxembourg,1,Europe,30
+Madagascar,Antananarivo,1,Indian,30
+Malawi,Lilongwe,1,Africa,30
+Malaysia,Kuala Lumpur,7,Asia,30
+Maldives,Farukolhufunadhoo,7,Indian,30
+Mali,Bamako,1,Africa,30
+Malta,Valletta,1,Europe,30
+Marshall Islands,Majuro,6,Pacific,30
+Mauritania,Nouakchott,1,Africa,30
+Mauritius,Port Louis,6,Indian,30
+Mexico,Mexico City,1,America,29
+Micronesia,Palikir,6,Pacific,30
+Russia,Chi-Chi-Erh,6,Asia,30
+Monaco,Monaco,1,Europe,30
+Mongolia,Ulaanbaatar,5,Asia,30
+Montenegro,Podgorica,1,Europe,30
+Morocco,Rabat,1,Africa,30
+Mozambique,Maputo,1,Africa,30
+Myanmar,Pathein,6,Asia,30
+Namibia,Windhoek,1,Africa,30
+Turkey,Yaren,1,Europe,30
+Nepal,Kathmandu,5,Asia,30
+Netherlands,Amsterdam,1,Europe,30
+New Zealand,Wellington,3,Pacific,30
+Nicaragua,Managua,1,America,29
+Niger,Niamey,1,Africa,30
+Nigeria,Abuja,1,Africa,30
+North Korea,Pyongyang,5,Asia,30
+Macedonia,Skopje,1,Europe,30
+Norway,Oslo,1,Europe,30
+Oman,Muscat,7,Asia,30
+Pakistan,Islamabad,7,Asia,30
+Palau,Adkip,1,Pacific,30
+Bolivia,National,1,America,29
+Panama,Panama City,1,America,29
+Papua New Guinea,Port Moresby,7,Pacific,30
+Paraguay,Carreria,1,America,29
+Peru,Lima,1,America,29
+Philippines,Manila,6,Asia,30
+Poland,Warsaw,1,Europe,30
+Portugal,Lisbon,1,Europe,30
+Qatar,Doha,8,Asia,30
+Romania,Bucharest,1,Europe,30
+Russia,Moscow,1,Europe,30
+Rwanda,Kigali,1,Africa,30
+Saint Kitts and Nevis,Basseterre,1,America,29
+Saint Lucia,Castries,1,America,29
+Saint Vincent and the Grenadines,Kingstown,1,America,29
+Samoa,Apia,6,Pacific,30
+San Marino,San Marino,1,Europe,30
+Belgium,'S-Gravenwezel,1,Europe,30
+Saudi Arabia,Riyadh,1,Asia,30
+Senegal,Dakar,1,Africa,30
+Serbia,Belgrade,1,Europe,30
+Seychelles Islands,Victoria,6,Indian,30
+Sierra Leone,Freetown,1,Africa,30
+Singapore,Singapore,6,Asia,30
+Slovakia,Bratislava,1,Europe,30
+Slovenia,Ljubljana,1,Europe,30
+Solomon Islands,Honiara,6,Pacific,30
+Somalia,Mogadishu,5,Africa,30
+South Africa,Pretoria,1,Africa,30
+South Korea,Seoul,6,Asia,30
+Sudan,Juba,1,Africa,30
+Spain,Madrid,1,Europe,30
+Sri Lanka,Colombo,6,Asia,30
+Sudan,Khartoum,1,Africa,30
+Suriname,Paramaribo,1,America,30
+Sweden,Stockholm,1,Europe,30
+Switzerland,Bern,1,Europe,30
+Syria,Damascus,1,Asia,30
+Tajikistan,Dushanbe,6,Asia,30
+Tanzania,Dodoma,1,Africa,30
+Thailand,Bangkok,8,Asia,30
+Indonesia,Murong Timor,8,Asia,30
+Bulgaria,Lom,1,Europe,30
+Tonga,Nuku`Aloia,5,Pacific,30
+Trinidad and Tobago,Port Of Spain,1,America,29
+Tunisia,Tunis,1,Africa,30
+Turkey,Ankara,1,Europe,30
+Turkmenistan,Ashgabat,7,Asia,30
+Tuvalu,Funafuti,6,Pacific,30
+Uganda,Kampala,1,Africa,30
+Ukraine,Lviv,1,Europe,30
+United Arab Emirates,Abu Dhabi,8,Asia,30
+United Kingdom,London,1,Europe,30
+United States of America,Washington Park,1,America,29
+Uruguay,Montevideo,1,America,30
+Uzbekistan,Tashkent,7,Asia,30
+Vanuatu,Port Vila,5,Pacific,30
+Venezuela,Caracas,1,America,29
+Vietnam,Hanoi,8,Asia,30
+Yemen,Sanaa,5,Asia,30
+Zambia,Lusaka,1,Africa,30
+Zimbabwe,Harare,1,Africa,30
+Afghanistan,Kabul,1,Asia,31
+Albania,Tirana,1,Europe,31
+Algeria,Algiers,1,Africa,31
+Andorra,Andorra La Vella,1,Europe,31
+Angola,Luanda,1,Africa,31
+Antigua and Barbuda,Saint John's,1,America,30
+Argentina,Buenos Aires,1,America,30
+Armenia,Yerevan,1,Asia,31
+Australia,Canberra,3,Australia,31
+Austria,Vienna,1,Europe,31
+Azerbaijan,Baku,1,Asia,31
+Bahamas,Nassau,8,America,30
+Bahrain,Manama,1,Asia,31
+Bangladesh,Dhaka,1,Asia,31
+Barbados,Bridgetown,1,America,30
+Belarus,Minsk,1,Europe,31
+Belgium,Brussels,1,Europe,31
+Belize,Belmopan,6,America,30
+Benin,Porto-Novo,1,Africa,31
+Bhutan,Thimphu,1,Asia,31
+Bolivia,Sucre,1,America,30
+Bosnia and Herzegovina,Sarajevo,1,Europe,31
+Botswana,Gaborone,1,Africa,31
+Brazil,Bras,1,America,30
+Brunei Darussalam,Bandar Seri Begawan,7,Asia,31
+Bulgaria,Sofia,1,Europe,31
+Burkina Faso,Ouagadougou,1,Africa,30
+Burundi,Bujumbura,1,Africa,31
+Madagascar,Ivory,1,Indian,31
+Cape Verde,Praia,1,Atlantic,30
+Cambodia,Phnom Penh,7,Asia,31
+Cameroon,Bafoussam,1,Africa,31
+Canada,Ottawa,5,America,30
+Central African Republic,Bangui,1,Africa,31
+Chad,N'djamena,1,Africa,31
+Chile,Santiago,1,America,30
+China,Beijing,4,Asia,31
+Bulgaria,Bogot,1,Europe,31
+Comoros,Moroni,1,Indian,31
+Congo,Brazzaville,1,Africa,31
+Costa Rica,San Juan,5,America,30
+Croatia,Zagreb,1,Europe,31
+Cuba,Havana,7,America,30
+Cyprus,Nicosia,1,Asia,31
+Czech Republic,Prague,1,Europe,31
+Democratic Republic of Congo,Kinshasa,1,Africa,31
+Denmark,Copenhagen,1,Europe,31
+Djibouti,Djibouti,1,Africa,31
+Dominica,Roseau,1,America,30
+Dominican Republic,Santo Domingo,1,America,30
+Ecuador,Quito,4,America,30
+Egypt,Cairo,1,Africa,31
+El Salvador,San Salvador,6,America,30
+Equatorial Guinea,Malabo,1,Africa,31
+Eritrea,Asmara,1,Africa,31
+Estonia,Tallinn,1,Europe,31
+Swaziland,Mbabane,1,Africa,31
+Ethiopia,Addis Ababa,1,Africa,31
+Fiji Islands,Suva,5,Pacific,31
+Finland,Helsinki,1,Europe,31
+France,Paris,1,Europe,31
+Gabon,Libreville,1,Africa,31
+Gambia,Banjul,1,Africa,30
+Georgia,Tbilisi,1,Asia,31
+Germany,Berlin,1,Europe,31
+Ghana,Accra,1,Africa,30
+Greece,Athens,1,Europe,31
+Grenada,Saint George's,1,America,30
+Guatemala,Guatemala City,5,America,30
+Guinea,Conakry,1,Africa,30
+Guinea-Bissau,Bissau,1,Africa,30
+Guyana,Georgetown,1,America,30
+Haiti,Port-Au-Prince,6,America,30
+Vatican City,Vatican City,1,Europe,31
+Honduras,Tegucigalpa,5,America,30
+Hungary,Budapest,1,Europe,31
+Iceland,Hella,1,Atlantic,30
+India,New Delhi,1,Asia,31
+Indonesia,Jakarta,7,Asia,31
+Iran,Tehran,1,Asia,31
+Iraq,Baghdad,1,Asia,31
+Ireland,Dublin,1,Europe,31
+Israel,Jerusalem,1,Asia,31
+Italy,Rome,1,Europe,31
+Jamaica,Norman Gardens,7,America,30
+Japan,Tokyo,7,Asia,31
+Jordan,Amman,1,Asia,31
+Kazakhstan,Astana,1,Asia,31
+Kenya,Nairobi,1,Africa,31
+Kiribati,Tarawa,6,Pacific,31
+Kuwait,Kuwait City,1,Asia,31
+Kyrghyzstan,Bishkek,1,Asia,31
+Indonesia,Laos,6,Asia,31
+Latvia,Riga,1,Europe,31
+Lebanon,Beirut,1,Asia,31
+Lesotho,Maseru,1,Africa,31
+Liberia,Monrovia,1,Africa,30
+Thailand,Nan,1,Asia,31
+Liechtenstein,Vaduz,1,Europe,31
+Lithuania,Vilnius,1,Europe,31
+Luxembourg,Luxembourg,1,Europe,31
+Madagascar,Antananarivo,1,Indian,31
+Malawi,Lilongwe,1,Africa,31
+Malaysia,Kuala Lumpur,1,Asia,31
+Maldives,Farukolhufunadhoo,1,Indian,31
+Mali,Bamako,1,Africa,30
+Malta,Valletta,1,Europe,31
+Marshall Islands,Majuro,6,Pacific,31
+Mauritania,Nouakchott,1,Africa,30
+Mauritius,Port Louis,1,Indian,31
+Mexico,Mexico City,6,America,30
+Micronesia,Palikir,6,Pacific,31
+Russia,Chi-Chi-Erh,5,Asia,31
+Monaco,Monaco,1,Europe,31
+Mongolia,Ulaanbaatar,6,Asia,31
+Montenegro,Podgorica,1,Europe,31
+Morocco,Rabat,1,Africa,31
+Mozambique,Maputo,1,Africa,31
+Myanmar,Pathein,7,Asia,31
+Namibia,Windhoek,1,Africa,31
+Turkey,Yaren,1,Europe,31
+Nepal,Kathmandu,4,Asia,31
+Netherlands,Amsterdam,1,Europe,31
+New Zealand,Wellington,4,Pacific,31
+Nicaragua,Managua,7,America,30
+Niger,Niamey,1,Africa,31
+Nigeria,Abuja,1,Africa,31
+North Korea,Pyongyang,6,Asia,31
+Macedonia,Skopje,1,Europe,31
+Norway,Oslo,1,Europe,31
+Oman,Muscat,1,Asia,31
+Pakistan,Islamabad,1,Asia,31
+Palau,Adkip,1,Pacific,31
+Bolivia,National,1,America,30
+Panama,Panama City,6,America,30
+Papua New Guinea,Port Moresby,6,Pacific,31
+Paraguay,Carreria,1,America,30
+Peru,Lima,5,America,30
+Philippines,Manila,6,Asia,31
+Poland,Warsaw,1,Europe,31
+Portugal,Lisbon,1,Europe,31
+Qatar,Doha,1,Asia,31
+Romania,Bucharest,1,Europe,31
+Russia,Moscow,1,Europe,31
+Rwanda,Kigali,1,Africa,31
+Saint Kitts and Nevis,Basseterre,1,America,30
+Saint Lucia,Castries,1,America,30
+Saint Vincent and the Grenadines,Kingstown,1,America,30
+Samoa,Apia,7,Pacific,31
+San Marino,San Marino,1,Europe,31
+Belgium,'S-Gravenwezel,1,Europe,31
+Saudi Arabia,Riyadh,1,Asia,31
+Senegal,Dakar,1,Africa,30
+Serbia,Belgrade,1,Europe,31
+Seychelles Islands,Victoria,1,Indian,31
+Sierra Leone,Freetown,1,Africa,30
+Singapore,Singapore,1,Asia,31
+Slovakia,Bratislava,1,Europe,31
+Slovenia,Ljubljana,1,Europe,31
+Solomon Islands,Honiara,6,Pacific,31
+Somalia,Mogadishu,1,Africa,31
+South Africa,Pretoria,1,Africa,31
+South Korea,Seoul,5,Asia,31
+Sudan,Juba,1,Africa,31
+Spain,Madrid,1,Europe,31
+Sri Lanka,Colombo,1,Asia,31
+Sudan,Khartoum,1,Africa,31
+Suriname,Paramaribo,1,America,30
+Sweden,Stockholm,1,Europe,31
+Switzerland,Bern,1,Europe,31
+Syria,Damascus,1,Asia,31
+Tajikistan,Dushanbe,1,Asia,31
+Tanzania,Dodoma,1,Africa,31
+Thailand,Bangkok,1,Asia,31
+Indonesia,Murong Timor,6,Asia,31
+Bulgaria,Lom,1,Europe,31
+Tonga,Nuku`Aloia,5,Pacific,31
+Trinidad and Tobago,Port Of Spain,1,America,30
+Tunisia,Tunis,1,Africa,31
+Turkey,Ankara,1,Europe,31
+Turkmenistan,Ashgabat,1,Asia,31
+Tuvalu,Funafuti,6,Pacific,31
+Uganda,Kampala,1,Africa,31
+Ukraine,Lviv,1,Europe,31
+United Arab Emirates,Abu Dhabi,1,Asia,31
+United Kingdom,London,1,Europe,31
+United States of America,Washington Park,7,America,30
+Uruguay,Montevideo,1,America,30
+Uzbekistan,Tashkent,1,Asia,31
+Vanuatu,Port Vila,6,Pacific,31
+Venezuela,Caracas,1,America,30
+Vietnam,Hanoi,6,Asia,31
+Yemen,Sanaa,1,Asia,31
+Zambia,Lusaka,1,Africa,31
+Zimbabwe,Harare,1,Africa,31
+Afghanistan,Kabul,1,Asia,1
+Albania,Tirana,1,Europe,1
+Algeria,Algiers,1,Africa,1
+Andorra,Andorra La Vella,1,Europe,1
+Angola,Luanda,1,Africa,1
+Antigua and Barbuda,Saint John's,1,America,31
+Argentina,Buenos Aires,1,America,31
+Armenia,Yerevan,1,Asia,1
+Australia,Canberra,3,Australia,1
+Austria,Vienna,1,Europe,1
+Azerbaijan,Baku,1,Asia,1
+Bahamas,Nassau,8,America,31
+Bahrain,Manama,1,Asia,1
+Bangladesh,Dhaka,1,Asia,1
+Barbados,Bridgetown,1,America,31
+Belarus,Minsk,1,Europe,1
+Belgium,Brussels,1,Europe,1
+Belize,Belmopan,6,America,31
+Benin,Porto-Novo,1,Africa,1
+Bhutan,Thimphu,1,Asia,1
+Bolivia,Sucre,1,America,31
+Bosnia and Herzegovina,Sarajevo,1,Europe,1
+Botswana,Gaborone,1,Africa,1
+Brazil,Bras,1,America,31
+Brunei Darussalam,Bandar Seri Begawan,6,Asia,1
+Bulgaria,Sofia,1,Europe,1
+Burkina Faso,Ouagadougou,1,Africa,31
+Burundi,Bujumbura,1,Africa,1
+Madagascar,Ivory,1,Indian,1
+Cape Verde,Praia,1,Atlantic,31
+Cambodia,Phnom Penh,6,Asia,1
+Cameroon,Bafoussam,1,Africa,1
+Canada,Ottawa,6,America,31
+Central African Republic,Bangui,1,Africa,1
+Chad,N'djamena,1,Africa,1
+Chile,Santiago,1,America,31
+China,Beijing,6,Asia,1
+Bulgaria,Bogot,1,Europe,1
+Comoros,Moroni,1,Indian,1
+Congo,Brazzaville,1,Africa,1
+Costa Rica,San Juan,5,America,31
+Croatia,Zagreb,1,Europe,1
+Cuba,Havana,7,America,31
+Cyprus,Nicosia,1,Asia,1
+Czech Republic,Prague,1,Europe,1
+Democratic Republic of Congo,Kinshasa,1,Africa,1
+Denmark,Copenhagen,1,Europe,1
+Djibouti,Djibouti,1,Africa,1
+Dominica,Roseau,1,America,31
+Dominican Republic,Santo Domingo,1,America,31
+Ecuador,Quito,3,America,31
+Egypt,Cairo,1,Africa,1
+El Salvador,San Salvador,6,America,31
+Equatorial Guinea,Malabo,1,Africa,1
+Eritrea,Asmara,1,Africa,1
+Estonia,Tallinn,1,Europe,1
+Swaziland,Mbabane,1,Africa,1
+Ethiopia,Addis Ababa,1,Africa,1
+Fiji Islands,Suva,5,Pacific,1
+Finland,Helsinki,1,Europe,1
+France,Paris,1,Europe,1
+Gabon,Libreville,1,Africa,1
+Gambia,Banjul,1,Africa,31
+Georgia,Tbilisi,1,Asia,1
+Germany,Berlin,1,Europe,1
+Ghana,Accra,1,Africa,31
+Greece,Athens,1,Europe,1
+Grenada,Saint George's,1,America,31
+Guatemala,Guatemala City,5,America,31
+Guinea,Conakry,1,Africa,31
+Guinea-Bissau,Bissau,1,Africa,31
+Guyana,Georgetown,1,America,31
+Haiti,Port-Au-Prince,6,America,31
+Vatican City,Vatican City,1,Europe,1
+Honduras,Tegucigalpa,7,America,31
+Hungary,Budapest,1,Europe,1
+Iceland,Hella,1,Atlantic,31
+India,New Delhi,1,Asia,1
+Indonesia,Jakarta,7,Asia,1
+Iran,Tehran,1,Asia,1
+Iraq,Baghdad,1,Asia,1
+Ireland,Dublin,1,Europe,1
+Israel,Jerusalem,1,Asia,1
+Italy,Rome,1,Europe,1
+Jamaica,Norman Gardens,7,America,31
+Japan,Tokyo,7,Asia,1
+Jordan,Amman,1,Asia,1
+Kazakhstan,Astana,1,Asia,1
+Kenya,Nairobi,1,Africa,1
+Kiribati,Tarawa,6,Pacific,1
+Kuwait,Kuwait City,1,Asia,1
+Kyrghyzstan,Bishkek,1,Asia,1
+Indonesia,Laos,5,Asia,1
+Latvia,Riga,1,Europe,1
+Lebanon,Beirut,1,Asia,1
+Lesotho,Maseru,1,Africa,1
+Liberia,Monrovia,1,Africa,31
+Thailand,Nan,1,Asia,1
+Liechtenstein,Vaduz,1,Europe,1
+Lithuania,Vilnius,1,Europe,1
+Luxembourg,Luxembourg,1,Europe,1
+Madagascar,Antananarivo,1,Indian,1
+Malawi,Lilongwe,1,Africa,1
+Malaysia,Kuala Lumpur,1,Asia,1
+Maldives,Farukolhufunadhoo,1,Indian,1
+Mali,Bamako,1,Africa,31
+Malta,Valletta,1,Europe,1
+Marshall Islands,Majuro,6,Pacific,1
+Mauritania,Nouakchott,1,Africa,31
+Mauritius,Port Louis,1,Indian,1
+Mexico,Mexico City,5,America,31
+Micronesia,Palikir,7,Pacific,1
+Russia,Chi-Chi-Erh,4,Asia,1
+Monaco,Monaco,1,Europe,1
+Mongolia,Ulaanbaatar,6,Asia,1
+Montenegro,Podgorica,1,Europe,1
+Morocco,Rabat,1,Africa,1
+Mozambique,Maputo,1,Africa,1
+Myanmar,Pathein,6,Asia,1
+Namibia,Windhoek,1,Africa,1
+Turkey,Yaren,1,Europe,1
+Nepal,Kathmandu,6,Asia,1
+Netherlands,Amsterdam,1,Europe,1
+New Zealand,Wellington,4,Pacific,1
+Nicaragua,Managua,7,America,31
+Niger,Niamey,1,Africa,1
+Nigeria,Abuja,1,Africa,1
+North Korea,Pyongyang,5,Asia,1
+Macedonia,Skopje,1,Europe,1
+Norway,Oslo,1,Europe,1
+Oman,Muscat,1,Asia,1
+Pakistan,Islamabad,1,Asia,1
+Palau,Adkip,1,Pacific,1
+Bolivia,National,1,America,31
+Panama,Panama City,6,America,31
+Papua New Guinea,Port Moresby,7,Pacific,1
+Paraguay,Carreria,1,America,31
+Peru,Lima,4,America,31
+Philippines,Manila,6,Asia,1
+Poland,Warsaw,1,Europe,1
+Portugal,Lisbon,1,Europe,1
+Qatar,Doha,1,Asia,1
+Romania,Bucharest,1,Europe,1
+Russia,Moscow,1,Europe,1
+Rwanda,Kigali,1,Africa,1
+Saint Kitts and Nevis,Basseterre,1,America,31
+Saint Lucia,Castries,1,America,31
+Saint Vincent and the Grenadines,Kingstown,1,America,31
+Samoa,Apia,7,Pacific,1
+San Marino,San Marino,1,Europe,1
+Belgium,'S-Gravenwezel,1,Europe,1
+Saudi Arabia,Riyadh,1,Asia,1
+Senegal,Dakar,1,Africa,31
+Serbia,Belgrade,1,Europe,1
+Seychelles Islands,Victoria,1,Indian,1
+Sierra Leone,Freetown,1,Africa,31
+Singapore,Singapore,1,Asia,1
+Slovakia,Bratislava,1,Europe,1
+Slovenia,Ljubljana,1,Europe,1
+Solomon Islands,Honiara,6,Pacific,1
+Somalia,Mogadishu,1,Africa,1
+South Africa,Pretoria,1,Africa,1
+South Korea,Seoul,6,Asia,1
+Sudan,Juba,1,Africa,1
+Spain,Madrid,1,Europe,1
+Sri Lanka,Colombo,1,Asia,1
+Sudan,Khartoum,1,Africa,1
+Suriname,Paramaribo,1,America,31
+Sweden,Stockholm,1,Europe,1
+Switzerland,Bern,1,Europe,1
+Syria,Damascus,1,Asia,1
+Tajikistan,Dushanbe,1,Asia,1
+Tanzania,Dodoma,1,Africa,1
+Thailand,Bangkok,1,Asia,1
+Indonesia,Murong Timor,6,Asia,1
+Bulgaria,Lom,1,Europe,1
+Tonga,Nuku`Aloia,5,Pacific,1
+Trinidad and Tobago,Port Of Spain,1,America,31
+Tunisia,Tunis,1,Africa,1
+Turkey,Ankara,1,Europe,1
+Turkmenistan,Ashgabat,1,Asia,1
+Tuvalu,Funafuti,1,Pacific,1
+Uganda,Kampala,1,Africa,1
+Ukraine,Lviv,1,Europe,1
+United Arab Emirates,Abu Dhabi,1,Asia,1
+United Kingdom,London,1,Europe,1
+United States of America,Washington Park,4,America,31
+Uruguay,Montevideo,1,America,31
+Uzbekistan,Tashkent,1,Asia,1
+Vanuatu,Port Vila,5,Pacific,1
+Venezuela,Caracas,1,America,31
+Vietnam,Hanoi,6,Asia,1
+Yemen,Sanaa,1,Asia,1
+Zambia,Lusaka,1,Africa,1
+Zimbabwe,Harare,1,Africa,1
+Afghanistan,Kabul,1,Asia,2
+Albania,Tirana,1,Europe,2
+Algeria,Algiers,1,Africa,2
+Andorra,Andorra La Vella,1,Europe,2
+Angola,Luanda,1,Africa,2
+Antigua and Barbuda,Saint John's,1,America,1
+Argentina,Buenos Aires,1,America,1
+Armenia,Yerevan,1,Asia,2
+Australia,Canberra,3,Australia,2
+Austria,Vienna,1,Europe,2
+Azerbaijan,Baku,1,Asia,2
+Bahamas,Nassau,7,America,1
+Bahrain,Manama,1,Asia,2
+Bangladesh,Dhaka,1,Asia,2
+Barbados,Bridgetown,1,America,1
+Belarus,Minsk,1,Europe,2
+Belgium,Brussels,1,Europe,2
+Belize,Belmopan,8,America,1
+Benin,Porto-Novo,1,Africa,2
+Bhutan,Thimphu,1,Asia,2
+Bolivia,Sucre,1,America,1
+Bosnia and Herzegovina,Sarajevo,1,Europe,2
+Botswana,Gaborone,1,Africa,2
+Brazil,Bras,1,America,1
+Brunei Darussalam,Bandar Seri Begawan,7,Asia,2
+Bulgaria,Sofia,1,Europe,2
+Burkina Faso,Ouagadougou,1,Africa,1
+Burundi,Bujumbura,1,Africa,2
+Madagascar,Ivory,1,Indian,2
+Cape Verde,Praia,1,Atlantic,1
+Cambodia,Phnom Penh,6,Asia,2
+Cameroon,Bafoussam,1,Africa,2
+Canada,Ottawa,7,America,1
+Central African Republic,Bangui,1,Africa,2
+Chad,N'djamena,1,Africa,2
+Chile,Santiago,1,America,1
+China,Beijing,6,Asia,2
+Bulgaria,Bogot,1,Europe,2
+Comoros,Moroni,1,Indian,2
+Congo,Brazzaville,1,Africa,2
+Costa Rica,San Juan,5,America,1
+Croatia,Zagreb,1,Europe,2
+Cuba,Havana,7,America,1
+Cyprus,Nicosia,1,Asia,2
+Czech Republic,Prague,1,Europe,2
+Democratic Republic of Congo,Kinshasa,1,Africa,2
+Denmark,Copenhagen,1,Europe,2
+Djibouti,Djibouti,1,Africa,2
+Dominica,Roseau,1,America,1
+Dominican Republic,Santo Domingo,1,America,1
+Ecuador,Quito,3,America,1
+Egypt,Cairo,1,Africa,2
+El Salvador,San Salvador,6,America,1
+Equatorial Guinea,Malabo,1,Africa,2
+Eritrea,Asmara,1,Africa,2
+Estonia,Tallinn,1,Europe,2
+Swaziland,Mbabane,1,Africa,2
+Ethiopia,Addis Ababa,1,Africa,2
+Fiji Islands,Suva,7,Pacific,2
+Finland,Helsinki,1,Europe,2
+France,Paris,1,Europe,2
+Gabon,Libreville,1,Africa,2
+Gambia,Banjul,1,Africa,1
+Georgia,Tbilisi,1,Asia,2
+Germany,Berlin,1,Europe,2
+Ghana,Accra,1,Africa,1
+Greece,Athens,1,Europe,2
+Grenada,Saint George's,1,America,1
+Guatemala,Guatemala City,5,America,1
+Guinea,Conakry,1,Africa,1
+Guinea-Bissau,Bissau,1,Africa,1
+Guyana,Georgetown,1,America,1
+Haiti,Port-Au-Prince,6,America,1
+Vatican City,Vatican City,1,Europe,2
+Honduras,Tegucigalpa,4,America,1
+Hungary,Budapest,1,Europe,2
+Iceland,Hella,1,Atlantic,1
+India,New Delhi,1,Asia,2
+Indonesia,Jakarta,7,Asia,2
+Iran,Tehran,1,Asia,2
+Iraq,Baghdad,1,Asia,2
+Ireland,Dublin,1,Europe,2
+Israel,Jerusalem,1,Asia,2
+Italy,Rome,1,Europe,2
+Jamaica,Norman Gardens,6,America,1
+Japan,Tokyo,7,Asia,2
+Jordan,Amman,1,Asia,2
+Kazakhstan,Astana,1,Asia,2
+Kenya,Nairobi,1,Africa,2
+Kiribati,Tarawa,6,Pacific,2
+Kuwait,Kuwait City,1,Asia,2
+Kyrghyzstan,Bishkek,1,Asia,2
+Indonesia,Laos,5,Asia,2
+Latvia,Riga,1,Europe,2
+Lebanon,Beirut,1,Asia,2
+Lesotho,Maseru,1,Africa,2
+Liberia,Monrovia,1,Africa,1
+Thailand,Nan,1,Asia,2
+Liechtenstein,Vaduz,1,Europe,2
+Lithuania,Vilnius,1,Europe,2
+Luxembourg,Luxembourg,1,Europe,2
+Madagascar,Antananarivo,1,Indian,2
+Malawi,Lilongwe,1,Africa,2
+Malaysia,Kuala Lumpur,1,Asia,2
+Maldives,Farukolhufunadhoo,1,Indian,2
+Mali,Bamako,1,Africa,1
+Malta,Valletta,1,Europe,2
+Marshall Islands,Majuro,6,Pacific,2
+Mauritania,Nouakchott,1,Africa,1
+Mauritius,Port Louis,1,Indian,2
+Mexico,Mexico City,6,America,1
+Micronesia,Palikir,6,Pacific,2
+Russia,Chi-Chi-Erh,3,Asia,2
+Monaco,Monaco,1,Europe,2
+Mongolia,Ulaanbaatar,5,Asia,2
+Montenegro,Podgorica,1,Europe,2
+Morocco,Rabat,1,Africa,2
+Mozambique,Maputo,1,Africa,2
+Myanmar,Pathein,6,Asia,2
+Namibia,Windhoek,1,Africa,2
+Turkey,Yaren,1,Europe,2
+Nepal,Kathmandu,5,Asia,2
+Netherlands,Amsterdam,1,Europe,2
+New Zealand,Wellington,4,Pacific,2
+Nicaragua,Managua,6,America,1
+Niger,Niamey,1,Africa,2
+Nigeria,Abuja,1,Africa,2
+North Korea,Pyongyang,5,Asia,2
+Macedonia,Skopje,1,Europe,2
+Norway,Oslo,1,Europe,2
+Oman,Muscat,1,Asia,2
+Pakistan,Islamabad,1,Asia,2
+Palau,Adkip,1,Pacific,2
+Bolivia,National,1,America,1
+Panama,Panama City,6,America,1
+Papua New Guinea,Port Moresby,7,Pacific,2
+Paraguay,Carreria,1,America,1
+Peru,Lima,5,America,1
+Philippines,Manila,6,Asia,2
+Poland,Warsaw,1,Europe,2
+Portugal,Lisbon,1,Europe,2
+Qatar,Doha,1,Asia,2
+Romania,Bucharest,1,Europe,2
+Russia,Moscow,1,Europe,2
+Rwanda,Kigali,1,Africa,2
+Saint Kitts and Nevis,Basseterre,1,America,1
+Saint Lucia,Castries,1,America,1
+Saint Vincent and the Grenadines,Kingstown,1,America,1
+Samoa,Apia,7,Pacific,2
+San Marino,San Marino,1,Europe,2
+Belgium,'S-Gravenwezel,1,Europe,2
+Saudi Arabia,Riyadh,1,Asia,2
+Senegal,Dakar,1,Africa,1
+Serbia,Belgrade,1,Europe,2
+Seychelles Islands,Victoria,1,Indian,2
+Sierra Leone,Freetown,1,Africa,1
+Singapore,Singapore,1,Asia,2
+Slovakia,Bratislava,1,Europe,2
+Slovenia,Ljubljana,1,Europe,2
+Solomon Islands,Honiara,7,Pacific,2
+Somalia,Mogadishu,1,Africa,2
+South Africa,Pretoria,1,Africa,2
+South Korea,Seoul,6,Asia,2
+Sudan,Juba,1,Africa,2
+Spain,Madrid,1,Europe,2
+Sri Lanka,Colombo,1,Asia,2
+Sudan,Khartoum,1,Africa,2
+Suriname,Paramaribo,1,America,1
+Sweden,Stockholm,1,Europe,2
+Switzerland,Bern,1,Europe,2
+Syria,Damascus,1,Asia,2
+Tajikistan,Dushanbe,1,Asia,2
+Tanzania,Dodoma,1,Africa,2
+Thailand,Bangkok,1,Asia,2
+Indonesia,Murong Timor,6,Asia,2
+Bulgaria,Lom,1,Europe,2
+Tonga,Nuku`Aloia,6,Pacific,2
+Trinidad and Tobago,Port Of Spain,1,America,1
+Tunisia,Tunis,1,Africa,2
+Turkey,Ankara,1,Europe,2
+Turkmenistan,Ashgabat,1,Asia,2
+Uganda,Kampala,1,Africa,2
+Ukraine,Lviv,1,Europe,2
+United Arab Emirates,Abu Dhabi,1,Asia,2
+United Kingdom,London,1,Europe,2
+United States of America,Washington Park,7,America,1
+Uruguay,Montevideo,1,America,1
+Uzbekistan,Tashkent,1,Asia,2
+Vanuatu,Port Vila,6,Pacific,2
+Venezuela,Caracas,1,America,1
+Vietnam,Hanoi,6,Asia,2
+Yemen,Sanaa,1,Asia,2
+Zambia,Lusaka,1,Africa,2
+Zimbabwe,Harare,1,Africa,2
+Afghanistan,Kabul,1,Asia,3
+Albania,Tirana,1,Europe,3
+Algeria,Algiers,1,Africa,3
+Andorra,Andorra La Vella,1,Europe,3
+Angola,Luanda,1,Africa,3
+Antigua and Barbuda,Saint John's,1,America,2
+Argentina,Buenos Aires,1,America,2
+Armenia,Yerevan,1,Asia,3
+Australia,Canberra,4,Australia,3
+Austria,Vienna,1,Europe,3
+Azerbaijan,Baku,1,Asia,3
+Bahamas,Nassau,7,America,2
+Bahrain,Manama,1,Asia,3
+Bangladesh,Dhaka,1,Asia,3
+Barbados,Bridgetown,1,America,2
+Belarus,Minsk,1,Europe,3
+Belgium,Brussels,1,Europe,3
+Belize,Belmopan,6,America,2
+Benin,Porto-Novo,1,Africa,3
+Bhutan,Thimphu,1,Asia,3
+Bolivia,Sucre,1,America,2
+Bosnia and Herzegovina,Sarajevo,1,Europe,3
+Botswana,Gaborone,1,Africa,3
+Brazil,Bras,1,America,2
+Brunei Darussalam,Bandar Seri Begawan,5,Asia,3
+Bulgaria,Sofia,1,Europe,3
+Burkina Faso,Ouagadougou,1,Africa,2
+Burundi,Bujumbura,1,Africa,3
+Madagascar,Ivory,1,Indian,3
+Cape Verde,Praia,1,Atlantic,2
+Cambodia,Phnom Penh,7,Asia,3
+Cameroon,Bafoussam,1,Africa,3
+Canada,Ottawa,6,America,2
+Central African Republic,Bangui,1,Africa,3
+Chad,N'djamena,1,Africa,3
+Chile,Santiago,1,America,2
+China,Beijing,5,Asia,3
+Bulgaria,Bogot,1,Europe,3
+Comoros,Moroni,1,Indian,3
+Congo,Brazzaville,1,Africa,3
+Costa Rica,San Juan,5,America,2
+Croatia,Zagreb,1,Europe,3
+Cuba,Havana,7,America,2
+Cyprus,Nicosia,1,Asia,3
+Czech Republic,Prague,1,Europe,3
+Democratic Republic of Congo,Kinshasa,1,Africa,3
+Denmark,Copenhagen,1,Europe,3
+Djibouti,Djibouti,1,Africa,3
+Dominica,Roseau,1,America,2
+Dominican Republic,Santo Domingo,1,America,2
+Ecuador,Quito,3,America,2
+Egypt,Cairo,1,Africa,3
+El Salvador,San Salvador,6,America,2
+Equatorial Guinea,Malabo,1,Africa,3
+Eritrea,Asmara,1,Africa,3
+Estonia,Tallinn,1,Europe,3
+Swaziland,Mbabane,1,Africa,3
+Ethiopia,Addis Ababa,1,Africa,3
+Fiji Islands,Suva,7,Pacific,3
+Finland,Helsinki,1,Europe,3
+France,Paris,1,Europe,3
+Gabon,Libreville,1,Africa,3
+Gambia,Banjul,1,Africa,2
+Georgia,Tbilisi,1,Asia,3
+Germany,Berlin,1,Europe,3
+Ghana,Accra,1,Africa,2
+Greece,Athens,1,Europe,3
+Grenada,Saint George's,1,America,2
+Guatemala,Guatemala City,5,America,2
+Guinea,Conakry,1,Africa,2
+Guinea-Bissau,Bissau,1,Africa,2
+Guyana,Georgetown,1,America,2
+Haiti,Port-Au-Prince,6,America,2
+Vatican City,Vatican City,1,Europe,3
+Honduras,Tegucigalpa,7,America,2
+Hungary,Budapest,1,Europe,3
+Iceland,Hella,1,Atlantic,2
+India,New Delhi,1,Asia,3
+Indonesia,Jakarta,7,Asia,3
+Iran,Tehran,1,Asia,3
+Iraq,Baghdad,1,Asia,3
+Ireland,Dublin,1,Europe,3
+Israel,Jerusalem,1,Asia,3
+Italy,Rome,1,Europe,3
+Jamaica,Norman Gardens,7,America,2
+Japan,Tokyo,7,Asia,3
+Jordan,Amman,1,Asia,3
+Kazakhstan,Astana,1,Asia,3
+Kenya,Nairobi,1,Africa,3
+Kiribati,Tarawa,6,Pacific,3
+Kuwait,Kuwait City,1,Asia,3
+Kyrghyzstan,Bishkek,1,Asia,3
+Indonesia,Laos,5,Asia,3
+Latvia,Riga,1,Europe,3
+Lebanon,Beirut,1,Asia,3
+Lesotho,Maseru,1,Africa,3
+Liberia,Monrovia,1,Africa,2
+Thailand,Nan,1,Asia,3
+Liechtenstein,Vaduz,1,Europe,3
+Lithuania,Vilnius,1,Europe,3
+Luxembourg,Luxembourg,1,Europe,3
+Madagascar,Antananarivo,1,Indian,3
+Malawi,Lilongwe,1,Africa,3
+Malaysia,Kuala Lumpur,1,Asia,3
+Maldives,Farukolhufunadhoo,1,Indian,3
+Mali,Bamako,1,Africa,2
+Malta,Valletta,1,Europe,3
+Marshall Islands,Majuro,6,Pacific,3
+Mauritania,Nouakchott,1,Africa,2
+Mauritius,Port Louis,1,Indian,3
+Mexico,Mexico City,7,America,2
+Micronesia,Palikir,6,Pacific,3
+Russia,Chi-Chi-Erh,4,Asia,3
+Monaco,Monaco,1,Europe,3
+Mongolia,Ulaanbaatar,6,Asia,3
+Montenegro,Podgorica,1,Europe,3
+Morocco,Rabat,1,Africa,3
+Mozambique,Maputo,1,Africa,3
+Myanmar,Pathein,7,Asia,3
+Namibia,Windhoek,1,Africa,3
+Turkey,Yaren,1,Europe,3
+Nepal,Kathmandu,5,Asia,3
+Netherlands,Amsterdam,1,Europe,3
+New Zealand,Wellington,4,Pacific,3
+Nicaragua,Managua,6,America,2
+Niger,Niamey,1,Africa,3
+Nigeria,Abuja,1,Africa,3
+North Korea,Pyongyang,6,Asia,3
+Macedonia,Skopje,1,Europe,3
+Norway,Oslo,1,Europe,3
+Oman,Muscat,1,Asia,3
+Pakistan,Islamabad,1,Asia,3
+Palau,Adkip,1,Pacific,3
+Bolivia,National,1,America,2
+Panama,Panama City,6,America,2
+Papua New Guinea,Port Moresby,7,Pacific,3
+Paraguay,Carreria,1,America,2
+Peru,Lima,5,America,2
+Philippines,Manila,6,Asia,3
+Poland,Warsaw,1,Europe,3
+Portugal,Lisbon,1,Europe,3
+Qatar,Doha,1,Asia,3
+Romania,Bucharest,1,Europe,3
+Russia,Moscow,1,Europe,3
+Rwanda,Kigali,1,Africa,3
+Saint Kitts and Nevis,Basseterre,1,America,2
+Saint Lucia,Castries,1,America,2
+Saint Vincent and the Grenadines,Kingstown,1,America,2
+Samoa,Apia,6,Pacific,3
+San Marino,San Marino,1,Europe,3
+Belgium,'S-Gravenwezel,1,Europe,3
+Saudi Arabia,Riyadh,1,Asia,3
+Senegal,Dakar,1,Africa,2
+Serbia,Belgrade,1,Europe,3
+Seychelles Islands,Victoria,1,Indian,3
+Sierra Leone,Freetown,1,Africa,2
+Singapore,Singapore,1,Asia,3
+Slovakia,Bratislava,1,Europe,3
+Slovenia,Ljubljana,1,Europe,3
+Solomon Islands,Honiara,7,Pacific,3
+Somalia,Mogadishu,1,Africa,3
+South Africa,Pretoria,1,Africa,3
+South Korea,Seoul,1,Asia,3
+Sudan,Juba,1,Africa,3
+Spain,Madrid,1,Europe,3
+Sri Lanka,Colombo,1,Asia,3
+Sudan,Khartoum,1,Africa,3
+Suriname,Paramaribo,1,America,2
+Sweden,Stockholm,1,Europe,3
+Switzerland,Bern,1,Europe,3
+Syria,Damascus,1,Asia,3
+Tajikistan,Dushanbe,1,Asia,3
+Tanzania,Dodoma,1,Africa,3
+Thailand,Bangkok,1,Asia,3
+Indonesia,Murong Timor,5,Asia,3
+Bulgaria,Lom,1,Europe,3
+Tonga,Nuku`Aloia,6,Pacific,3
+Trinidad and Tobago,Port Of Spain,1,America,2
+Tunisia,Tunis,1,Africa,3
+Turkey,Ankara,1,Europe,3
+Turkmenistan,Ashgabat,1,Asia,3
+Tuvalu,Funafuti,6,Pacific,3
+Uganda,Kampala,1,Africa,3
+Ukraine,Lviv,1,Europe,3
+United Arab Emirates,Abu Dhabi,1,Asia,3
+United Kingdom,London,1,Europe,3
+United States of America,Washington Park,8,America,2
+Uruguay,Montevideo,1,America,2
+Uzbekistan,Tashkent,1,Asia,3
+Vanuatu,Port Vila,5,Pacific,3
+Venezuela,Caracas,1,America,2
+Vietnam,Hanoi,6,Asia,3
+Yemen,Sanaa,1,Asia,3
+Zambia,Lusaka,1,Africa,3
+Zimbabwe,Harare,1,Africa,3
+Afghanistan,Kabul,1,Asia,4
+Albania,Tirana,1,Europe,4
+Algeria,Algiers,1,Africa,4
+Andorra,Andorra La Vella,1,Europe,4
+Angola,Luanda,1,Africa,4
+Antigua and Barbuda,Saint John's,1,America,3
+Argentina,Buenos Aires,1,America,3
+Armenia,Yerevan,1,Asia,4
+Australia,Canberra,4,Australia,4
+Austria,Vienna,1,Europe,4
+Azerbaijan,Baku,1,Asia,4
+Bahamas,Nassau,7,America,3
+Bahrain,Manama,1,Asia,4
+Bangladesh,Dhaka,1,Asia,4
+Barbados,Bridgetown,1,America,3
+Belarus,Minsk,1,Europe,4
+Belgium,Brussels,1,Europe,4
+Belize,Belmopan,7,America,3
+Benin,Porto-Novo,1,Africa,4
+Bhutan,Thimphu,1,Asia,4
+Bolivia,Sucre,1,America,3
+Bosnia and Herzegovina,Sarajevo,1,Europe,4
+Botswana,Gaborone,1,Africa,4
+Brazil,Bras,1,America,3
+Brunei Darussalam,Bandar Seri Begawan,7,Asia,4
+Bulgaria,Sofia,1,Europe,4
+Burkina Faso,Ouagadougou,1,Africa,3
+Burundi,Bujumbura,1,Africa,4
+Madagascar,Ivory,1,Indian,4
+Cape Verde,Praia,1,Atlantic,3
+Cambodia,Phnom Penh,6,Asia,4
+Cameroon,Bafoussam,1,Africa,4
+Canada,Ottawa,7,America,3
+Central African Republic,Bangui,1,Africa,4
+Chad,N'djamena,1,Africa,4
+Chile,Santiago,1,America,3
+China,Beijing,6,Asia,4
+Bulgaria,Bogot,1,Europe,4
+Comoros,Moroni,1,Indian,4
+Congo,Brazzaville,1,Africa,4
+Costa Rica,San Juan,5,America,3
+Croatia,Zagreb,1,Europe,4
+Cuba,Havana,7,America,3
+Cyprus,Nicosia,1,Asia,4
+Czech Republic,Prague,1,Europe,4
+Democratic Republic of Congo,Kinshasa,1,Africa,4
+Denmark,Copenhagen,1,Europe,4
+Djibouti,Djibouti,1,Africa,4
+Dominica,Roseau,1,America,3
+Dominican Republic,Santo Domingo,1,America,3
+Ecuador,Quito,3,America,3
+Egypt,Cairo,1,Africa,4
+El Salvador,San Salvador,5,America,3
+Equatorial Guinea,Malabo,1,Africa,4
+Eritrea,Asmara,1,Africa,4
+Estonia,Tallinn,1,Europe,4
+Swaziland,Mbabane,1,Africa,4
+Ethiopia,Addis Ababa,1,Africa,4
+Fiji Islands,Suva,7,Pacific,4
+Finland,Helsinki,1,Europe,4
+France,Paris,1,Europe,4
+Gabon,Libreville,1,Africa,4
+Gambia,Banjul,1,Africa,3
+Georgia,Tbilisi,1,Asia,4
+Germany,Berlin,1,Europe,4
+Ghana,Accra,1,Africa,3
+Greece,Athens,1,Europe,4
+Grenada,Saint George's,1,America,3
+Guatemala,Guatemala City,5,America,3
+Guinea,Conakry,1,Africa,3
+Guinea-Bissau,Bissau,1,Africa,3
+Guyana,Georgetown,1,America,3
+Haiti,Port-Au-Prince,7,America,3
+Vatican City,Vatican City,1,Europe,4
+Honduras,Tegucigalpa,5,America,3
+Hungary,Budapest,1,Europe,4
+Iceland,Hella,1,Atlantic,3
+India,New Delhi,1,Asia,4
+Indonesia,Jakarta,7,Asia,4
+Iran,Tehran,1,Asia,4
+Iraq,Baghdad,1,Asia,4
+Ireland,Dublin,1,Europe,4
+Israel,Jerusalem,1,Asia,4
+Italy,Rome,1,Europe,4
+Jamaica,Norman Gardens,6,America,3
+Japan,Tokyo,6,Asia,4
+Jordan,Amman,1,Asia,4
+Kazakhstan,Astana,1,Asia,4
+Kenya,Nairobi,1,Africa,4
+Kiribati,Tarawa,6,Pacific,4
+Kuwait,Kuwait City,1,Asia,4
+Kyrghyzstan,Bishkek,1,Asia,4
+Indonesia,Laos,5,Asia,4
+Latvia,Riga,1,Europe,4
+Lebanon,Beirut,1,Asia,4
+Lesotho,Maseru,1,Africa,4
+Liberia,Monrovia,1,Africa,3
+Thailand,Nan,1,Asia,4
+Liechtenstein,Vaduz,1,Europe,4
+Lithuania,Vilnius,1,Europe,4
+Luxembourg,Luxembourg,1,Europe,4
+Madagascar,Antananarivo,1,Indian,4
+Malawi,Lilongwe,1,Africa,4
+Malaysia,Kuala Lumpur,1,Asia,4
+Maldives,Farukolhufunadhoo,1,Indian,4
+Mali,Bamako,1,Africa,3
+Malta,Valletta,1,Europe,4
+Marshall Islands,Majuro,7,Pacific,4
+Mauritania,Nouakchott,1,Africa,3
+Mauritius,Port Louis,1,Indian,4
+Mexico,Mexico City,6,America,3
+Micronesia,Palikir,7,Pacific,4
+Russia,Chi-Chi-Erh,4,Asia,4
+Monaco,Monaco,1,Europe,4
+Mongolia,Ulaanbaatar,6,Asia,4
+Montenegro,Podgorica,1,Europe,4
+Morocco,Rabat,1,Africa,4
+Mozambique,Maputo,1,Africa,4
+Myanmar,Pathein,6,Asia,4
+Namibia,Windhoek,1,Africa,4
+Turkey,Yaren,1,Europe,4
+Nepal,Kathmandu,4,Asia,4
+Netherlands,Amsterdam,1,Europe,4
+New Zealand,Wellington,4,Pacific,4
+Nicaragua,Managua,7,America,3
+Niger,Niamey,1,Africa,4
+Nigeria,Abuja,1,Africa,4
+North Korea,Pyongyang,5,Asia,4
+Macedonia,Skopje,1,Europe,4
+Norway,Oslo,1,Europe,4
+Oman,Muscat,1,Asia,4
+Pakistan,Islamabad,1,Asia,4
+Palau,Adkip,1,Pacific,4
+Bolivia,National,1,America,3
+Panama,Panama City,6,America,3
+Papua New Guinea,Port Moresby,7,Pacific,4
+Paraguay,Carreria,1,America,3
+Peru,Lima,5,America,3
+Philippines,Manila,6,Asia,4
+Poland,Warsaw,1,Europe,4
+Portugal,Lisbon,1,Europe,4
+Qatar,Doha,1,Asia,4
+Romania,Bucharest,1,Europe,4
+Russia,Moscow,1,Europe,4
+Rwanda,Kigali,1,Africa,4
+Saint Kitts and Nevis,Basseterre,1,America,3
+Saint Lucia,Castries,1,America,3
+Saint Vincent and the Grenadines,Kingstown,1,America,3
+Samoa,Apia,6,Pacific,4
+San Marino,San Marino,1,Europe,4
+Belgium,'S-Gravenwezel,1,Europe,4
+Saudi Arabia,Riyadh,1,Asia,4
+Senegal,Dakar,1,Africa,3
+Serbia,Belgrade,1,Europe,4
+Seychelles Islands,Victoria,1,Indian,4
+Sierra Leone,Freetown,1,Africa,3
+Singapore,Singapore,1,Asia,4
+Slovakia,Bratislava,1,Europe,4
+Slovenia,Ljubljana,1,Europe,4
+Solomon Islands,Honiara,7,Pacific,4
+Somalia,Mogadishu,1,Africa,4
+South Africa,Pretoria,1,Africa,4
+South Korea,Seoul,5,Asia,4
+Sudan,Juba,1,Africa,4
+Spain,Madrid,1,Europe,4
+Sri Lanka,Colombo,1,Asia,4
+Sudan,Khartoum,1,Africa,4
+Suriname,Paramaribo,1,America,3
+Sweden,Stockholm,1,Europe,4
+Switzerland,Bern,1,Europe,4
+Syria,Damascus,1,Asia,4
+Tajikistan,Dushanbe,1,Asia,4
+Tanzania,Dodoma,1,Africa,4
+Thailand,Bangkok,1,Asia,4
+Indonesia,Murong Timor,5,Asia,4
+Bulgaria,Lom,1,Europe,4
+Tonga,Nuku`Aloia,6,Pacific,4
+Trinidad and Tobago,Port Of Spain,1,America,3
+Tunisia,Tunis,1,Africa,4
+Turkey,Ankara,1,Europe,4
+Turkmenistan,Ashgabat,1,Asia,4
+Tuvalu,Funafuti,6,Pacific,4
+Uganda,Kampala,1,Africa,4
+Ukraine,Lviv,1,Europe,4
+United Arab Emirates,Abu Dhabi,1,Asia,4
+United Kingdom,London,1,Europe,4
+United States of America,Washington Park,7,America,3
+Uruguay,Montevideo,1,America,3
+Uzbekistan,Tashkent,1,Asia,4
+Vanuatu,Port Vila,6,Pacific,4
+Venezuela,Caracas,1,America,3
+Vietnam,Hanoi,5,Asia,4
+Yemen,Sanaa,1,Asia,4
+Zambia,Lusaka,1,Africa,4
+Zimbabwe,Harare,1,Africa,4
+Afghanistan,Kabul,1,Asia,5
+Albania,Tirana,1,Europe,5
+Algeria,Algiers,1,Africa,5
+Andorra,Andorra La Vella,1,Europe,5
+Angola,Luanda,1,Africa,5
+Antigua and Barbuda,Saint John's,1,America,4
+Argentina,Buenos Aires,1,America,4
+Armenia,Yerevan,1,Asia,5
+Australia,Canberra,4,Australia,5
+Austria,Vienna,1,Europe,5
+Azerbaijan,Baku,1,Asia,5
+Bahamas,Nassau,7,America,4
+Bahrain,Manama,1,Asia,5
+Bangladesh,Dhaka,1,Asia,5
+Barbados,Bridgetown,1,America,4
+Belarus,Minsk,1,Europe,5
+Belgium,Brussels,1,Europe,5
+Belize,Belmopan,8,America,4
+Benin,Porto-Novo,1,Africa,5
+Bhutan,Thimphu,1,Asia,5
+Bolivia,Sucre,1,America,4
+Bosnia and Herzegovina,Sarajevo,1,Europe,5
+Botswana,Gaborone,1,Africa,5
+Brazil,Bras,1,America,4
+Brunei Darussalam,Bandar Seri Begawan,6,Asia,5
+Bulgaria,Sofia,1,Europe,5
+Burkina Faso,Ouagadougou,1,Africa,4
+Burundi,Bujumbura,1,Africa,5
+Madagascar,Ivory,1,Indian,5
+Cape Verde,Praia,1,Atlantic,4
+Cambodia,Phnom Penh,7,Asia,5
+Cameroon,Bafoussam,1,Africa,5
+Canada,Ottawa,7,America,4
+Central African Republic,Bangui,1,Africa,5
+Chad,N'djamena,1,Africa,5
+Chile,Santiago,1,America,4
+China,Beijing,6,Asia,5
+Bulgaria,Bogot,1,Europe,5
+Comoros,Moroni,1,Indian,5
+Congo,Brazzaville,1,Africa,5
+Costa Rica,San Juan,4,America,4
+Croatia,Zagreb,1,Europe,5
+Cuba,Havana,6,America,4
+Cyprus,Nicosia,1,Asia,5
+Czech Republic,Prague,1,Europe,5
+Democratic Republic of Congo,Kinshasa,1,Africa,5
+Denmark,Copenhagen,1,Europe,5
+Djibouti,Djibouti,1,Africa,5
+Dominica,Roseau,1,America,4
+Dominican Republic,Santo Domingo,1,America,4
+Ecuador,Quito,3,America,4
+Egypt,Cairo,1,Africa,5
+El Salvador,San Salvador,6,America,4
+Equatorial Guinea,Malabo,1,Africa,5
+Eritrea,Asmara,1,Africa,5
+Estonia,Tallinn,1,Europe,5
+Swaziland,Mbabane,1,Africa,5
+Ethiopia,Addis Ababa,1,Africa,5
+Fiji Islands,Suva,6,Pacific,5
+Finland,Helsinki,1,Europe,5
+France,Paris,1,Europe,5
+Gabon,Libreville,1,Africa,5
+Gambia,Banjul,1,Africa,4
+Georgia,Tbilisi,1,Asia,5
+Germany,Berlin,1,Europe,5
+Ghana,Accra,1,Africa,4
+Greece,Athens,1,Europe,5
+Grenada,Saint George's,1,America,4
+Guatemala,Guatemala City,5,America,4
+Guinea,Conakry,1,Africa,4
+Guinea-Bissau,Bissau,1,Africa,4
+Guyana,Georgetown,1,America,4
+Haiti,Port-Au-Prince,7,America,4
+Vatican City,Vatican City,1,Europe,5
+Honduras,Tegucigalpa,5,America,4
+Hungary,Budapest,1,Europe,5
+Iceland,Hella,1,Atlantic,4
+India,New Delhi,1,Asia,5
+Indonesia,Jakarta,6,Asia,5
+Iran,Tehran,1,Asia,5
+Iraq,Baghdad,1,Asia,5
+Ireland,Dublin,1,Europe,5
+Israel,Jerusalem,1,Asia,5
+Italy,Rome,1,Europe,5
+Jamaica,Norman Gardens,7,America,4
+Japan,Tokyo,7,Asia,5
+Jordan,Amman,1,Asia,5
+Kazakhstan,Astana,1,Asia,5
+Kenya,Nairobi,1,Africa,5
+Kiribati,Tarawa,6,Pacific,5
+Kuwait,Kuwait City,1,Asia,5
+Kyrghyzstan,Bishkek,1,Asia,5
+Indonesia,Laos,5,Asia,5
+Latvia,Riga,1,Europe,5
+Lebanon,Beirut,1,Asia,5
+Lesotho,Maseru,1,Africa,5
+Liberia,Monrovia,1,Africa,4
+Thailand,Nan,1,Asia,5
+Liechtenstein,Vaduz,1,Europe,5
+Lithuania,Vilnius,1,Europe,5
+Luxembourg,Luxembourg,1,Europe,5
+Madagascar,Antananarivo,1,Indian,5
+Malawi,Lilongwe,1,Africa,5
+Malaysia,Kuala Lumpur,1,Asia,5
+Maldives,Farukolhufunadhoo,1,Indian,5
+Mali,Bamako,1,Africa,4
+Malta,Valletta,1,Europe,5
+Marshall Islands,Majuro,6,Pacific,5
+Mauritania,Nouakchott,1,Africa,4
+Mauritius,Port Louis,1,Indian,5
+Mexico,Mexico City,7,America,4
+Micronesia,Palikir,7,Pacific,5
+Russia,Chi-Chi-Erh,1,Asia,5
+Monaco,Monaco,1,Europe,5
+Mongolia,Ulaanbaatar,7,Asia,5
+Montenegro,Podgorica,1,Europe,5
+Morocco,Rabat,1,Africa,5
+Mozambique,Maputo,1,Africa,5
+Myanmar,Pathein,5,Asia,5
+Namibia,Windhoek,1,Africa,5
+Turkey,Yaren,1,Europe,5
+Nepal,Kathmandu,4,Asia,5
+Netherlands,Amsterdam,1,Europe,5
+New Zealand,Wellington,3,Pacific,5
+Nicaragua,Managua,6,America,4
+Niger,Niamey,1,Africa,5
+Nigeria,Abuja,1,Africa,5
+North Korea,Pyongyang,6,Asia,5
+Macedonia,Skopje,1,Europe,5
+Norway,Oslo,1,Europe,5
+Oman,Muscat,1,Asia,5
+Pakistan,Islamabad,1,Asia,5
+Palau,Adkip,1,Pacific,5
+Bolivia,National,1,America,4
+Panama,Panama City,6,America,4
+Papua New Guinea,Port Moresby,7,Pacific,5
+Paraguay,Carreria,1,America,4
+Peru,Lima,5,America,4
+Philippines,Manila,6,Asia,5
+Poland,Warsaw,1,Europe,5
+Portugal,Lisbon,1,Europe,5
+Qatar,Doha,1,Asia,5
+Romania,Bucharest,1,Europe,5
+Russia,Moscow,1,Europe,5
+Rwanda,Kigali,1,Africa,5
+Saint Kitts and Nevis,Basseterre,1,America,4
+Saint Lucia,Castries,1,America,4
+Saint Vincent and the Grenadines,Kingstown,1,America,4
+Samoa,Apia,7,Pacific,5
+San Marino,San Marino,1,Europe,5
+Belgium,'S-Gravenwezel,1,Europe,5
+Saudi Arabia,Riyadh,1,Asia,5
+Senegal,Dakar,1,Africa,4
+Serbia,Belgrade,1,Europe,5
+Seychelles Islands,Victoria,1,Indian,5
+Sierra Leone,Freetown,1,Africa,4
+Singapore,Singapore,1,Asia,5
+Slovakia,Bratislava,1,Europe,5
+Slovenia,Ljubljana,1,Europe,5
+Solomon Islands,Honiara,7,Pacific,5
+Somalia,Mogadishu,1,Africa,5
+South Africa,Pretoria,1,Africa,5
+South Korea,Seoul,7,Asia,5
+Sudan,Juba,1,Africa,5
+Spain,Madrid,1,Europe,5
+Sri Lanka,Colombo,1,Asia,5
+Sudan,Khartoum,1,Africa,5
+Suriname,Paramaribo,1,America,4
+Sweden,Stockholm,1,Europe,5
+Switzerland,Bern,1,Europe,5
+Syria,Damascus,1,Asia,5
+Tajikistan,Dushanbe,1,Asia,5
+Tanzania,Dodoma,1,Africa,5
+Thailand,Bangkok,1,Asia,5
+Indonesia,Murong Timor,5,Asia,5
+Bulgaria,Lom,1,Europe,5
+Tonga,Nuku`Aloia,6,Pacific,5
+Trinidad and Tobago,Port Of Spain,1,America,4
+Tunisia,Tunis,1,Africa,5
+Turkey,Ankara,1,Europe,5
+Turkmenistan,Ashgabat,1,Asia,5
+Tuvalu,Funafuti,6,Pacific,5
+Uganda,Kampala,1,Africa,5
+Ukraine,Lviv,1,Europe,5
+United Arab Emirates,Abu Dhabi,1,Asia,5
+United Kingdom,London,1,Europe,5
+United States of America,Washington Park,6,America,4
+Uruguay,Montevideo,1,America,4
+Uzbekistan,Tashkent,1,Asia,5
+Vanuatu,Port Vila,5,Pacific,5
+Venezuela,Caracas,1,America,4
+Vietnam,Hanoi,6,Asia,5
+Yemen,Sanaa,1,Asia,5
+Zambia,Lusaka,1,Africa,5
+Zimbabwe,Harare,1,Africa,5
+Afghanistan,Kabul,1,Asia,6
+Albania,Tirana,1,Europe,6
+Algeria,Algiers,1,Africa,6
+Andorra,Andorra La Vella,1,Europe,6
+Angola,Luanda,1,Africa,6
+Antigua and Barbuda,Saint John's,1,America,5
+Argentina,Buenos Aires,1,America,5
+Armenia,Yerevan,1,Asia,6
+Australia,Canberra,3,Australia,6
+Austria,Vienna,1,Europe,6
+Azerbaijan,Baku,1,Asia,6
+Bahamas,Nassau,7,America,5
+Bahrain,Manama,1,Asia,6
+Bangladesh,Dhaka,1,Asia,6
+Barbados,Bridgetown,1,America,5
+Belarus,Minsk,1,Europe,6
+Belgium,Brussels,1,Europe,6
+Belize,Belmopan,8,America,5
+Benin,Porto-Novo,1,Africa,6
+Bhutan,Thimphu,1,Asia,6
+Bolivia,Sucre,1,America,5
+Bosnia and Herzegovina,Sarajevo,1,Europe,6
+Botswana,Gaborone,1,Africa,6
+Brazil,Bras,1,America,5
+Brunei Darussalam,Bandar Seri Begawan,6,Asia,6
+Bulgaria,Sofia,1,Europe,6
+Burkina Faso,Ouagadougou,1,Africa,5
+Burundi,Bujumbura,1,Africa,6
+Madagascar,Ivory,1,Indian,6
+Cape Verde,Praia,1,Atlantic,5
+Cambodia,Phnom Penh,6,Asia,6
+Cameroon,Bafoussam,1,Africa,6
+Canada,Ottawa,8,America,5
+Central African Republic,Bangui,1,Africa,6
+Chad,N'djamena,1,Africa,6
+Chile,Santiago,1,America,5
+China,Beijing,6,Asia,6
+Bulgaria,Bogot,1,Europe,6
+Comoros,Moroni,1,Indian,6
+Congo,Brazzaville,1,Africa,6
+Costa Rica,San Juan,4,America,5
+Croatia,Zagreb,1,Europe,6
+Cuba,Havana,7,America,5
+Cyprus,Nicosia,1,Asia,6
+Czech Republic,Prague,1,Europe,6
+Democratic Republic of Congo,Kinshasa,1,Africa,6
+Denmark,Copenhagen,1,Europe,6
+Djibouti,Djibouti,1,Africa,6
+Dominica,Roseau,1,America,5
+Dominican Republic,Santo Domingo,1,America,5
+Ecuador,Quito,5,America,5
+Egypt,Cairo,1,Africa,6
+El Salvador,San Salvador,6,America,5
+Equatorial Guinea,Malabo,1,Africa,6
+Eritrea,Asmara,1,Africa,6
+Estonia,Tallinn,1,Europe,6
+Swaziland,Mbabane,1,Africa,6
+Ethiopia,Addis Ababa,1,Africa,6
+Fiji Islands,Suva,5,Pacific,6
+Finland,Helsinki,1,Europe,6
+France,Paris,1,Europe,6
+Gabon,Libreville,1,Africa,6
+Gambia,Banjul,1,Africa,5
+Georgia,Tbilisi,1,Asia,6
+Germany,Berlin,1,Europe,6
+Ghana,Accra,1,Africa,5
+Greece,Athens,1,Europe,6
+Grenada,Saint George's,1,America,5
+Guatemala,Guatemala City,4,America,5
+Guinea,Conakry,1,Africa,5
+Guinea-Bissau,Bissau,1,Africa,5
+Guyana,Georgetown,1,America,5
+Haiti,Port-Au-Prince,1,America,5
+Vatican City,Vatican City,1,Europe,6
+Honduras,Tegucigalpa,5,America,5
+Hungary,Budapest,1,Europe,6
+Iceland,Hella,1,Atlantic,5
+India,New Delhi,1,Asia,6
+Indonesia,Jakarta,7,Asia,6
+Iran,Tehran,1,Asia,6
+Iraq,Baghdad,1,Asia,6
+Ireland,Dublin,1,Europe,6
+Israel,Jerusalem,1,Asia,6
+Italy,Rome,1,Europe,6
+Jamaica,Norman Gardens,6,America,5
+Japan,Tokyo,7,Asia,6
+Jordan,Amman,1,Asia,6
+Kazakhstan,Astana,1,Asia,6
+Kenya,Nairobi,1,Africa,6
+Kiribati,Tarawa,7,Pacific,6
+Kuwait,Kuwait City,1,Asia,6
+Kyrghyzstan,Bishkek,1,Asia,6
+Indonesia,Laos,5,Asia,6
+Latvia,Riga,1,Europe,6
+Lebanon,Beirut,1,Asia,6
+Lesotho,Maseru,1,Africa,6
+Liberia,Monrovia,1,Africa,5
+Thailand,Nan,1,Asia,6
+Liechtenstein,Vaduz,1,Europe,6
+Lithuania,Vilnius,1,Europe,6
+Luxembourg,Luxembourg,1,Europe,6
+Madagascar,Antananarivo,1,Indian,6
+Malawi,Lilongwe,1,Africa,6
+Malaysia,Kuala Lumpur,1,Asia,6
+Maldives,Farukolhufunadhoo,1,Indian,6
+Mali,Bamako,1,Africa,5
+Malta,Valletta,1,Europe,6
+Marshall Islands,Majuro,6,Pacific,6
+Mauritania,Nouakchott,1,Africa,5
+Mauritius,Port Louis,1,Indian,6
+Mexico,Mexico City,7,America,5
+Micronesia,Palikir,6,Pacific,6
+Russia,Chi-Chi-Erh,1,Asia,6
+Monaco,Monaco,1,Europe,6
+Mongolia,Ulaanbaatar,7,Asia,6
+Montenegro,Podgorica,1,Europe,6
+Morocco,Rabat,1,Africa,6
+Mozambique,Maputo,1,Africa,6
+Myanmar,Pathein,1,Asia,6
+Namibia,Windhoek,1,Africa,6
+Turkey,Yaren,1,Europe,6
+Nepal,Kathmandu,1,Asia,6
+Netherlands,Amsterdam,1,Europe,6
+New Zealand,Wellington,3,Pacific,6
+Nicaragua,Managua,7,America,5
+Niger,Niamey,1,Africa,6
+Nigeria,Abuja,1,Africa,6
+North Korea,Pyongyang,6,Asia,6
+Macedonia,Skopje,1,Europe,6
+Norway,Oslo,1,Europe,6
+Oman,Muscat,1,Asia,6
+Pakistan,Islamabad,1,Asia,6
+Palau,Adkip,1,Pacific,6
+Bolivia,National,1,America,5
+Panama,Panama City,6,America,5
+Papua New Guinea,Port Moresby,7,Pacific,6
+Paraguay,Carreria,1,America,5
+Peru,Lima,4,America,5
+Philippines,Manila,7,Asia,6
+Poland,Warsaw,1,Europe,6
+Portugal,Lisbon,1,Europe,6
+Qatar,Doha,1,Asia,6
+Romania,Bucharest,1,Europe,6
+Russia,Moscow,1,Europe,6
+Rwanda,Kigali,1,Africa,6
+Saint Kitts and Nevis,Basseterre,1,America,5
+Saint Lucia,Castries,1,America,5
+Saint Vincent and the Grenadines,Kingstown,1,America,5
+Samoa,Apia,7,Pacific,6
+San Marino,San Marino,1,Europe,6
+Belgium,'S-Gravenwezel,1,Europe,6
+Saudi Arabia,Riyadh,1,Asia,6
+Senegal,Dakar,1,Africa,5
+Serbia,Belgrade,1,Europe,6
+Seychelles Islands,Victoria,1,Indian,6
+Sierra Leone,Freetown,1,Africa,5
+Singapore,Singapore,6,Asia,6
+Slovakia,Bratislava,1,Europe,6
+Slovenia,Ljubljana,1,Europe,6
+Solomon Islands,Honiara,7,Pacific,6
+Somalia,Mogadishu,1,Africa,6
+South Africa,Pretoria,1,Africa,6
+South Korea,Seoul,6,Asia,6
+Sudan,Juba,1,Africa,6
+Spain,Madrid,1,Europe,6
+Sri Lanka,Colombo,1,Asia,6
+Sudan,Khartoum,1,Africa,6
+Suriname,Paramaribo,1,America,5
+Sweden,Stockholm,1,Europe,6
+Switzerland,Bern,1,Europe,6
+Syria,Damascus,1,Asia,6
+Tajikistan,Dushanbe,1,Asia,6
+Tanzania,Dodoma,1,Africa,6
+Thailand,Bangkok,1,Asia,6
+Indonesia,Murong Timor,6,Asia,6
+Bulgaria,Lom,1,Europe,6
+Tonga,Nuku`Aloia,6,Pacific,6
+Trinidad and Tobago,Port Of Spain,1,America,5
+Tunisia,Tunis,1,Africa,6
+Turkey,Ankara,1,Europe,6
+Turkmenistan,Ashgabat,1,Asia,6
+Tuvalu,Funafuti,6,Pacific,6
+Uganda,Kampala,1,Africa,6
+Ukraine,Lviv,1,Europe,6
+United Arab Emirates,Abu Dhabi,1,Asia,6
+United Kingdom,London,1,Europe,6
+United States of America,Washington Park,6,America,5
+Uruguay,Montevideo,1,America,5
+Uzbekistan,Tashkent,1,Asia,6
+Vanuatu,Port Vila,5,Pacific,6
+Venezuela,Caracas,1,America,5
+Vietnam,Hanoi,6,Asia,6
+Yemen,Sanaa,1,Asia,6
+Zambia,Lusaka,1,Africa,6
+Zimbabwe,Harare,1,Africa,6
+Afghanistan,Kabul,1,Asia,7
+Albania,Tirana,1,Europe,7
+Algeria,Algiers,1,Africa,7
+Andorra,Andorra La Vella,1,Europe,7
+Angola,Luanda,1,Africa,7
+Antigua and Barbuda,Saint John's,1,America,6
+Argentina,Buenos Aires,1,America,6
+Armenia,Yerevan,1,Asia,7
+Australia,Canberra,4,Australia,7
+Austria,Vienna,1,Europe,7
+Azerbaijan,Baku,1,Asia,7
+Bahamas,Nassau,7,America,6
+Bahrain,Manama,1,Asia,7
+Bangladesh,Dhaka,1,Asia,7
+Barbados,Bridgetown,1,America,6
+Belarus,Minsk,1,Europe,7
+Belgium,Brussels,1,Europe,7
+Belize,Belmopan,7,America,6
+Benin,Porto-Novo,1,Africa,7
+Bhutan,Thimphu,1,Asia,7
+Bolivia,Sucre,1,America,6
+Bosnia and Herzegovina,Sarajevo,1,Europe,7
+Botswana,Gaborone,1,Africa,7
+Brazil,Bras,1,America,6
+Brunei Darussalam,Bandar Seri Begawan,5,Asia,7
+Bulgaria,Sofia,1,Europe,7
+Burkina Faso,Ouagadougou,1,Africa,6
+Burundi,Bujumbura,1,Africa,7
+Madagascar,Ivory,1,Indian,7
+Cape Verde,Praia,1,Atlantic,6
+Cambodia,Phnom Penh,6,Asia,7
+Cameroon,Bafoussam,1,Africa,7
+Canada,Ottawa,6,America,6
+Central African Republic,Bangui,1,Africa,7
+Chad,N'djamena,1,Africa,7
+Chile,Santiago,1,America,6
+China,Beijing,6,Asia,7
+Bulgaria,Bogot,1,Europe,7
+Comoros,Moroni,1,Indian,7
+Congo,Brazzaville,1,Africa,7
+Costa Rica,San Juan,5,America,6
+Croatia,Zagreb,1,Europe,7
+Cuba,Havana,7,America,6
+Cyprus,Nicosia,1,Asia,7
+Czech Republic,Prague,1,Europe,7
+Democratic Republic of Congo,Kinshasa,1,Africa,7
+Denmark,Copenhagen,1,Europe,7
+Djibouti,Djibouti,1,Africa,7
+Dominica,Roseau,1,America,6
+Dominican Republic,Santo Domingo,1,America,6
+Ecuador,Quito,4,America,6
+Egypt,Cairo,1,Africa,7
+El Salvador,San Salvador,6,America,6
+Equatorial Guinea,Malabo,1,Africa,7
+Eritrea,Asmara,1,Africa,7
+Estonia,Tallinn,1,Europe,7
+Swaziland,Mbabane,1,Africa,7
+Ethiopia,Addis Ababa,1,Africa,7
+Fiji Islands,Suva,5,Pacific,7
+Finland,Helsinki,1,Europe,7
+France,Paris,1,Europe,7
+Gabon,Libreville,1,Africa,7
+Gambia,Banjul,1,Africa,6
+Georgia,Tbilisi,1,Asia,7
+Germany,Berlin,1,Europe,7
+Ghana,Accra,1,Africa,6
+Greece,Athens,1,Europe,7
+Grenada,Saint George's,1,America,6
+Guatemala,Guatemala City,5,America,6
+Guinea,Conakry,1,Africa,6
+Guinea-Bissau,Bissau,1,Africa,6
+Guyana,Georgetown,1,America,6
+Haiti,Port-Au-Prince,1,America,6
+Vatican City,Vatican City,1,Europe,7
+Honduras,Tegucigalpa,6,America,6
+Hungary,Budapest,1,Europe,7
+Iceland,Hella,1,Atlantic,6
+India,New Delhi,1,Asia,7
+Indonesia,Jakarta,7,Asia,7
+Iran,Tehran,1,Asia,7
+Iraq,Baghdad,1,Asia,7
+Ireland,Dublin,1,Europe,7
+Israel,Jerusalem,1,Asia,7
+Italy,Rome,1,Europe,7
+Jamaica,Norman Gardens,7,America,6
+Japan,Tokyo,7,Asia,7
+Jordan,Amman,1,Asia,7
+Kazakhstan,Astana,1,Asia,7
+Kenya,Nairobi,1,Africa,7
+Kiribati,Tarawa,6,Pacific,7
+Kuwait,Kuwait City,1,Asia,7
+Kyrghyzstan,Bishkek,1,Asia,7
+Indonesia,Laos,5,Asia,7
+Latvia,Riga,1,Europe,7
+Lebanon,Beirut,1,Asia,7
+Lesotho,Maseru,1,Africa,7
+Liberia,Monrovia,1,Africa,6
+Thailand,Nan,1,Asia,7
+Liechtenstein,Vaduz,1,Europe,7
+Lithuania,Vilnius,1,Europe,7
+Luxembourg,Luxembourg,1,Europe,7
+Madagascar,Antananarivo,1,Indian,7
+Malawi,Lilongwe,1,Africa,7
+Malaysia,Kuala Lumpur,1,Asia,7
+Maldives,Farukolhufunadhoo,1,Indian,7
+Mali,Bamako,1,Africa,6
+Malta,Valletta,1,Europe,7
+Marshall Islands,Majuro,6,Pacific,7
+Mauritania,Nouakchott,1,Africa,6
+Mauritius,Port Louis,1,Indian,7
+Mexico,Mexico City,6,America,6
+Micronesia,Palikir,6,Pacific,7
+Russia,Chi-Chi-Erh,1,Asia,7
+Monaco,Monaco,1,Europe,7
+Mongolia,Ulaanbaatar,3,Asia,7
+Montenegro,Podgorica,1,Europe,7
+Morocco,Rabat,1,Africa,7
+Mozambique,Maputo,1,Africa,7
+Myanmar,Pathein,1,Asia,7
+Namibia,Windhoek,1,Africa,7
+Turkey,Yaren,1,Europe,7
+Nepal,Kathmandu,1,Asia,7
+Netherlands,Amsterdam,1,Europe,7
+New Zealand,Wellington,4,Pacific,7
+Nicaragua,Managua,6,America,6
+Niger,Niamey,1,Africa,7
+Nigeria,Abuja,1,Africa,7
+North Korea,Pyongyang,6,Asia,7
+Macedonia,Skopje,1,Europe,7
+Norway,Oslo,1,Europe,7
+Oman,Muscat,1,Asia,7
+Pakistan,Islamabad,1,Asia,7
+Palau,Adkip,1,Pacific,7
+Bolivia,National,1,America,6
+Panama,Panama City,6,America,6
+Papua New Guinea,Port Moresby,7,Pacific,7
+Paraguay,Carreria,1,America,6
+Peru,Lima,5,America,6
+Philippines,Manila,7,Asia,7
+Poland,Warsaw,1,Europe,7
+Portugal,Lisbon,1,Europe,7
+Qatar,Doha,1,Asia,7
+Romania,Bucharest,1,Europe,7
+Russia,Moscow,1,Europe,7
+Rwanda,Kigali,1,Africa,7
+Saint Kitts and Nevis,Basseterre,1,America,6
+Saint Lucia,Castries,1,America,6
+Saint Vincent and the Grenadines,Kingstown,1,America,6
+Samoa,Apia,6,Pacific,7
+San Marino,San Marino,1,Europe,7
+Belgium,'S-Gravenwezel,1,Europe,7
+Saudi Arabia,Riyadh,1,Asia,7
+Senegal,Dakar,1,Africa,6
+Serbia,Belgrade,1,Europe,7
+Seychelles Islands,Victoria,1,Indian,7
+Sierra Leone,Freetown,1,Africa,6
+Singapore,Singapore,7,Asia,7
+Slovakia,Bratislava,1,Europe,7
+Slovenia,Ljubljana,1,Europe,7
+Solomon Islands,Honiara,7,Pacific,7
+Somalia,Mogadishu,1,Africa,7
+South Africa,Pretoria,1,Africa,7
+South Korea,Seoul,6,Asia,7
+Sudan,Juba,1,Africa,7
+Spain,Madrid,1,Europe,7
+Sri Lanka,Colombo,1,Asia,7
+Sudan,Khartoum,1,Africa,7
+Suriname,Paramaribo,1,America,6
+Sweden,Stockholm,1,Europe,7
+Switzerland,Bern,1,Europe,7
+Syria,Damascus,1,Asia,7
+Tajikistan,Dushanbe,1,Asia,7
+Tanzania,Dodoma,1,Africa,7
+Thailand,Bangkok,1,Asia,7
+Indonesia,Murong Timor,6,Asia,7
+Bulgaria,Lom,1,Europe,7
+Tonga,Nuku`Aloia,6,Pacific,7
+Trinidad and Tobago,Port Of Spain,1,America,6
+Tunisia,Tunis,1,Africa,7
+Turkey,Ankara,1,Europe,7
+Turkmenistan,Ashgabat,1,Asia,7
+Tuvalu,Funafuti,6,Pacific,7
+Uganda,Kampala,1,Africa,7
+Ukraine,Lviv,1,Europe,7
+United Arab Emirates,Abu Dhabi,1,Asia,7
+United Kingdom,London,1,Europe,7
+United States of America,Washington Park,7,America,6
+Uruguay,Montevideo,1,America,6
+Uzbekistan,Tashkent,1,Asia,7
+Vanuatu,Port Vila,5,Pacific,7
+Venezuela,Caracas,1,America,6
+Vietnam,Hanoi,7,Asia,7
+Yemen,Sanaa,1,Asia,7
+Zambia,Lusaka,1,Africa,7
+Zimbabwe,Harare,1,Africa,7
+Afghanistan,Kabul,1,Asia,8
+Albania,Tirana,1,Europe,8
+Algeria,Algiers,1,Africa,8
+Andorra,Andorra La Vella,1,Europe,8
+Angola,Luanda,1,Africa,8
+Antigua and Barbuda,Saint John's,1,America,7
+Argentina,Buenos Aires,1,America,7
+Armenia,Yerevan,1,Asia,8
+Australia,Canberra,2,Australia,8
+Austria,Vienna,1,Europe,8
+Azerbaijan,Baku,1,Asia,8
+Bahamas,Nassau,7,America,7
+Bahrain,Manama,1,Asia,8
+Bangladesh,Dhaka,1,Asia,8
+Barbados,Bridgetown,1,America,7
+Belarus,Minsk,1,Europe,8
+Belgium,Brussels,1,Europe,8
+Belize,Belmopan,8,America,7
+Benin,Porto-Novo,1,Africa,8
+Bhutan,Thimphu,1,Asia,8
+Bolivia,Sucre,1,America,7
+Bosnia and Herzegovina,Sarajevo,1,Europe,8
+Botswana,Gaborone,1,Africa,8
+Brazil,Bras,1,America,7
+Brunei Darussalam,Bandar Seri Begawan,5,Asia,8
+Bulgaria,Sofia,1,Europe,8
+Burkina Faso,Ouagadougou,1,Africa,7
+Burundi,Bujumbura,1,Africa,8
+Madagascar,Ivory,1,Indian,8
+Cape Verde,Praia,1,Atlantic,7
+Cambodia,Phnom Penh,7,Asia,8
+Cameroon,Bafoussam,1,Africa,8
+Canada,Ottawa,7,America,7
+Central African Republic,Bangui,1,Africa,8
+Chad,N'djamena,1,Africa,8
+Chile,Santiago,1,America,7
+China,Beijing,5,Asia,8
+Bulgaria,Bogot,1,Europe,8
+Comoros,Moroni,1,Indian,8
+Congo,Brazzaville,1,Africa,8
+Costa Rica,San Juan,5,America,7
+Croatia,Zagreb,1,Europe,8
+Cuba,Havana,7,America,7
+Cyprus,Nicosia,1,Asia,8
+Czech Republic,Prague,1,Europe,8
+Democratic Republic of Congo,Kinshasa,1,Africa,8
+Denmark,Copenhagen,1,Europe,8
+Djibouti,Djibouti,1,Africa,8
+Dominica,Roseau,1,America,7
+Dominican Republic,Santo Domingo,1,America,7
+Ecuador,Quito,3,America,7
+Egypt,Cairo,1,Africa,8
+El Salvador,San Salvador,6,America,7
+Equatorial Guinea,Malabo,1,Africa,8
+Eritrea,Asmara,1,Africa,8
+Estonia,Tallinn,1,Europe,8
+Swaziland,Mbabane,1,Africa,8
+Ethiopia,Addis Ababa,1,Africa,8
+Fiji Islands,Suva,5,Pacific,8
+Finland,Helsinki,1,Europe,8
+France,Paris,1,Europe,8
+Gabon,Libreville,1,Africa,8
+Gambia,Banjul,1,Africa,7
+Georgia,Tbilisi,1,Asia,8
+Germany,Berlin,1,Europe,8
+Ghana,Accra,1,Africa,7
+Greece,Athens,1,Europe,8
+Grenada,Saint George's,1,America,7
+Guatemala,Guatemala City,5,America,7
+Guinea,Conakry,1,Africa,7
+Guinea-Bissau,Bissau,1,Africa,7
+Guyana,Georgetown,1,America,7
+Haiti,Port-Au-Prince,1,America,7
+Vatican City,Vatican City,1,Europe,8
+Honduras,Tegucigalpa,7,America,7
+Hungary,Budapest,1,Europe,8
+Iceland,Hella,1,Atlantic,7
+India,New Delhi,1,Asia,8
+Indonesia,Jakarta,7,Asia,8
+Iran,Tehran,1,Asia,8
+Iraq,Baghdad,1,Asia,8
+Ireland,Dublin,1,Europe,8
+Israel,Jerusalem,1,Asia,8
+Italy,Rome,1,Europe,8
+Jamaica,Norman Gardens,6,America,7
+Japan,Tokyo,5,Asia,8
+Jordan,Amman,1,Asia,8
+Kazakhstan,Astana,1,Asia,8
+Kenya,Nairobi,1,Africa,8
+Kiribati,Tarawa,6,Pacific,8
+Kuwait,Kuwait City,1,Asia,8
+Kyrghyzstan,Bishkek,1,Asia,8
+Indonesia,Laos,6,Asia,8
+Latvia,Riga,1,Europe,8
+Lebanon,Beirut,1,Asia,8
+Lesotho,Maseru,1,Africa,8
+Liberia,Monrovia,1,Africa,7
+Thailand,Nan,1,Asia,8
+Liechtenstein,Vaduz,1,Europe,8
+Lithuania,Vilnius,1,Europe,8
+Luxembourg,Luxembourg,1,Europe,8
+Madagascar,Antananarivo,1,Indian,8
+Malawi,Lilongwe,1,Africa,8
+Malaysia,Kuala Lumpur,1,Asia,8
+Maldives,Farukolhufunadhoo,1,Indian,8
+Mali,Bamako,1,Africa,7
+Malta,Valletta,1,Europe,8
+Marshall Islands,Majuro,6,Pacific,8
+Mauritania,Nouakchott,1,Africa,7
+Mauritius,Port Louis,1,Indian,8
+Mexico,Mexico City,6,America,7
+Micronesia,Palikir,7,Pacific,8
+Russia,Chi-Chi-Erh,1,Asia,8
+Monaco,Monaco,1,Europe,8
+Mongolia,Ulaanbaatar,6,Asia,8
+Montenegro,Podgorica,1,Europe,8
+Morocco,Rabat,1,Africa,8
+Mozambique,Maputo,1,Africa,8
+Myanmar,Pathein,1,Asia,8
+Namibia,Windhoek,1,Africa,8
+Turkey,Yaren,1,Europe,8
+Nepal,Kathmandu,1,Asia,8
+Netherlands,Amsterdam,1,Europe,8
+New Zealand,Wellington,4,Pacific,8
+Nicaragua,Managua,7,America,7
+Niger,Niamey,1,Africa,8
+Nigeria,Abuja,1,Africa,8
+North Korea,Pyongyang,6,Asia,8
+Macedonia,Skopje,1,Europe,8
+Norway,Oslo,1,Europe,8
+Oman,Muscat,1,Asia,8
+Pakistan,Islamabad,1,Asia,8
+Palau,Adkip,1,Pacific,8
+Bolivia,National,1,America,7
+Panama,Panama City,6,America,7
+Papua New Guinea,Port Moresby,7,Pacific,8
+Paraguay,Carreria,1,America,7
+Peru,Lima,5,America,7
+Philippines,Manila,6,Asia,8
+Poland,Warsaw,1,Europe,8
+Portugal,Lisbon,1,Europe,8
+Qatar,Doha,1,Asia,8
+Romania,Bucharest,1,Europe,8
+Russia,Moscow,1,Europe,8
+Rwanda,Kigali,1,Africa,8
+Saint Kitts and Nevis,Basseterre,1,America,7
+Saint Lucia,Castries,1,America,7
+Saint Vincent and the Grenadines,Kingstown,1,America,7
+Samoa,Apia,6,Pacific,8
+San Marino,San Marino,1,Europe,8
+Belgium,'S-Gravenwezel,1,Europe,8
+Saudi Arabia,Riyadh,1,Asia,8
+Senegal,Dakar,1,Africa,7
+Serbia,Belgrade,1,Europe,8
+Seychelles Islands,Victoria,1,Indian,8
+Sierra Leone,Freetown,1,Africa,7
+Singapore,Singapore,6,Asia,8
+Slovakia,Bratislava,1,Europe,8
+Slovenia,Ljubljana,1,Europe,8
+Solomon Islands,Honiara,6,Pacific,8
+Somalia,Mogadishu,1,Africa,8
+South Africa,Pretoria,1,Africa,8
+South Korea,Seoul,6,Asia,8
+Sudan,Juba,1,Africa,8
+Spain,Madrid,1,Europe,8
+Sri Lanka,Colombo,1,Asia,8
+Sudan,Khartoum,1,Africa,8
+Suriname,Paramaribo,1,America,7
+Sweden,Stockholm,1,Europe,8
+Switzerland,Bern,1,Europe,8
+Syria,Damascus,1,Asia,8
+Tajikistan,Dushanbe,1,Asia,8
+Tanzania,Dodoma,1,Africa,8
+Thailand,Bangkok,1,Asia,8
+Indonesia,Murong Timor,6,Asia,8
+Bulgaria,Lom,1,Europe,8
+Tonga,Nuku`Aloia,5,Pacific,8
+Trinidad and Tobago,Port Of Spain,1,America,7
+Tunisia,Tunis,1,Africa,8
+Turkey,Ankara,1,Europe,8
+Turkmenistan,Ashgabat,1,Asia,8
+Tuvalu,Funafuti,6,Pacific,8
+Uganda,Kampala,1,Africa,8
+Ukraine,Kyiv,1,Europe,8
+United Arab Emirates,Abu Dhabi,1,Asia,8
+United Kingdom,London,1,Europe,8
+United States of America,Washington Park,6,America,7
+Uruguay,Montevideo,1,America,7
+Uzbekistan,Tashkent,1,Asia,8
+Vanuatu,Port Vila,6,Pacific,8
+Venezuela,Caracas,1,America,7
+Vietnam,Hanoi,7,Asia,8
+Yemen,Sanaa,1,Asia,8
+Zambia,Lusaka,1,Africa,8
+Zimbabwe,Harare,1,Africa,8
+Afghanistan,Kabul,1,Asia,9
+Albania,Tirana,1,Europe,9
+Algeria,Algiers,1,Africa,8
+Andorra,Andorra La Vella,1,Europe,9
+Angola,Luanda,1,Africa,8
+Antigua and Barbuda,Saint John's,6,America,8
+Argentina,Buenos Aires,1,America,8
+Armenia,Yerevan,1,Asia,9
+Australia,Canberra,2,Australia,9
+Austria,Vienna,1,Europe,9
+Azerbaijan,Baku,1,Asia,9
+Bahamas,Nassau,7,America,8
+Bahrain,Manama,1,Asia,9
+Bangladesh,Dhaka,1,Asia,9
+Barbados,Bridgetown,6,America,8
+Belarus,Minsk,1,Europe,9
+Belgium,Brussels,1,Europe,9
+Belize,Belmopan,7,America,8
+Benin,Porto-Novo,1,Africa,8
+Bhutan,Thimphu,1,Asia,9
+Bolivia,Sucre,6,America,8
+Bosnia and Herzegovina,Sarajevo,1,Europe,9
+Botswana,Gaborone,1,Africa,9
+Brazil,Bras,1,America,8
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,9
+Bulgaria,Sofia,1,Europe,9
+Burkina Faso,Ouagadougou,1,Africa,8
+Burundi,Bujumbura,1,Africa,9
+Madagascar,Ivory,1,Indian,9
+Cape Verde,Praia,1,Atlantic,8
+Cambodia,Phnom Penh,1,Asia,9
+Cameroon,Bafoussam,1,Africa,8
+Canada,Ottawa,4,America,8
+Central African Republic,Bangui,1,Africa,8
+Chad,N'djamena,1,Africa,8
+Chile,Santiago,3,America,8
+China,Beijing,4,Asia,9
+Bulgaria,Bogot,1,Europe,9
+Comoros,Moroni,1,Indian,9
+Congo,Brazzaville,1,Africa,8
+Costa Rica,San Juan,5,America,8
+Croatia,Zagreb,1,Europe,9
+Cuba,Havana,7,America,8
+Cyprus,Nicosia,1,Asia,9
+Czech Republic,Prague,1,Europe,9
+Democratic Republic of Congo,Kinshasa,1,Africa,8
+Denmark,Copenhagen,1,Europe,9
+Djibouti,Djibouti,1,Africa,9
+Dominica,Roseau,7,America,8
+Dominican Republic,Santo Domingo,8,America,8
+Ecuador,Quito,4,America,8
+Egypt,Cairo,1,Africa,9
+El Salvador,San Salvador,7,America,8
+Equatorial Guinea,Malabo,1,Africa,8
+Eritrea,Asmara,1,Africa,9
+Estonia,Tallinn,1,Europe,9
+Swaziland,Mbabane,1,Africa,9
+Ethiopia,Addis Ababa,1,Africa,9
+Fiji Islands,Suva,5,Pacific,9
+Finland,Helsinki,1,Europe,9
+France,Paris,1,Europe,9
+Gabon,Libreville,1,Africa,8
+Gambia,Banjul,1,Africa,8
+Georgia,Tbilisi,1,Asia,9
+Germany,Berlin,1,Europe,9
+Ghana,Accra,1,Africa,8
+Greece,Athens,1,Europe,9
+Grenada,Saint George's,7,America,8
+Guatemala,Guatemala City,6,America,8
+Guinea,Conakry,1,Africa,8
+Guinea-Bissau,Bissau,1,Africa,8
+Guyana,Georgetown,1,America,8
+Haiti,Port-Au-Prince,7,America,8
+Vatican City,Vatican City,1,Europe,9
+Honduras,Tegucigalpa,7,America,8
+Hungary,Budapest,1,Europe,9
+Iceland,Hella,1,Atlantic,8
+India,New Delhi,1,Asia,9
+Indonesia,Jakarta,1,Asia,9
+Iran,Tehran,1,Asia,9
+Iraq,Baghdad,1,Asia,9
+Ireland,Dublin,1,Europe,8
+Israel,Jerusalem,1,Asia,9
+Italy,Rome,1,Europe,9
+Jamaica,Norman Gardens,7,America,8
+Japan,Tokyo,5,Asia,9
+Jordan,Amman,1,Asia,9
+Kazakhstan,Astana,1,Asia,9
+Kenya,Nairobi,1,Africa,9
+Kiribati,Tarawa,7,Pacific,9
+Kuwait,Kuwait City,1,Asia,9
+Kyrghyzstan,Bishkek,1,Asia,9
+Indonesia,Laos,1,Asia,9
+Latvia,Riga,1,Europe,9
+Lebanon,Beirut,1,Asia,9
+Lesotho,Maseru,1,Africa,9
+Liberia,Monrovia,1,Africa,8
+Thailand,Nan,1,Asia,9
+Liechtenstein,Vaduz,1,Europe,9
+Lithuania,Vilnius,1,Europe,9
+Luxembourg,Luxembourg,1,Europe,9
+Madagascar,Antananarivo,1,Indian,9
+Malawi,Lilongwe,1,Africa,9
+Malaysia,Kuala Lumpur,1,Asia,9
+Maldives,Farukolhufunadhoo,1,Indian,9
+Mali,Bamako,1,Africa,8
+Malta,Valletta,1,Europe,9
+Marshall Islands,Majuro,7,Pacific,9
+Mauritania,Nouakchott,1,Africa,8
+Mauritius,Port Louis,1,Indian,9
+Mexico,Mexico City,6,America,8
+Micronesia,Palikir,6,Pacific,9
+Russia,Chi-Chi-Erh,1,Asia,9
+Monaco,Monaco,1,Europe,9
+Mongolia,Ulaanbaatar,1,Asia,9
+Montenegro,Podgorica,1,Europe,9
+Morocco,Rabat,1,Africa,8
+Mozambique,Maputo,1,Africa,9
+Myanmar,Pathein,1,Asia,9
+Namibia,Windhoek,1,Africa,9
+Turkey,Yaren,1,Europe,9
+Nepal,Kathmandu,1,Asia,9
+Netherlands,Amsterdam,1,Europe,9
+New Zealand,Wellington,4,Pacific,9
+Nicaragua,Managua,8,America,8
+Niger,Niamey,1,Africa,8
+Nigeria,Abuja,1,Africa,8
+North Korea,Pyongyang,5,Asia,9
+Macedonia,Skopje,1,Europe,9
+Norway,Oslo,1,Europe,9
+Oman,Muscat,1,Asia,9
+Pakistan,Islamabad,1,Asia,9
+Palau,Adkip,1,Pacific,9
+Bolivia,National,1,America,8
+Panama,Panama City,6,America,8
+Papua New Guinea,Port Moresby,7,Pacific,9
+Paraguay,Carreria,1,America,8
+Peru,Lima,5,America,8
+Philippines,Manila,6,Asia,9
+Poland,Warsaw,1,Europe,9
+Portugal,Lisbon,1,Europe,8
+Qatar,Doha,1,Asia,9
+Romania,Bucharest,1,Europe,9
+Russia,Moscow,1,Europe,9
+Rwanda,Kigali,1,Africa,9
+Saint Kitts and Nevis,Basseterre,1,America,8
+Saint Lucia,Castries,1,America,8
+Saint Vincent and the Grenadines,Kingstown,1,America,8
+Samoa,Apia,6,Pacific,9
+San Marino,San Marino,1,Europe,9
+Belgium,'S-Gravenwezel,1,Europe,9
+Saudi Arabia,Riyadh,1,Asia,9
+Senegal,Dakar,1,Africa,8
+Serbia,Belgrade,1,Europe,9
+Seychelles Islands,Victoria,1,Indian,9
+Sierra Leone,Freetown,1,Africa,8
+Singapore,Singapore,1,Asia,9
+Slovakia,Bratislava,1,Europe,9
+Slovenia,Ljubljana,1,Europe,9
+Solomon Islands,Honiara,6,Pacific,9
+Somalia,Mogadishu,1,Africa,9
+South Africa,Pretoria,1,Africa,9
+South Korea,Seoul,6,Asia,9
+Sudan,Juba,1,Africa,9
+Spain,Madrid,1,Europe,9
+Sri Lanka,Colombo,1,Asia,9
+Sudan,Khartoum,1,Africa,9
+Suriname,Paramaribo,1,America,8
+Sweden,Stockholm,1,Europe,9
+Switzerland,Bern,1,Europe,9
+Syria,Damascus,1,Asia,9
+Tajikistan,Dushanbe,1,Asia,9
+Tanzania,Dodoma,1,Africa,9
+Thailand,Bangkok,1,Asia,9
+Timor-Leste,Dili,6,Asia,9
+Bulgaria,Lom,1,Europe,9
+Tonga,Nuku`Aloia,5,Pacific,9
+Trinidad and Tobago,Port Of Spain,1,America,8
+Tunisia,Tunis,1,Africa,9
+Turkey,Ankara,1,Europe,9
+Turkmenistan,Ashgabat,1,Asia,9
+Tuvalu,Funafuti,6,Pacific,9
+Uganda,Kampala,1,Africa,9
+Ukraine,Kyiv,1,Europe,9
+United Arab Emirates,Abu Dhabi,1,Asia,9
+United Kingdom,London,1,Europe,9
+United States of America,Washington Park,7,America,8
+Uruguay,Montevideo,1,America,8
+Uzbekistan,Tashkent,1,Asia,9
+Vanuatu,Port Vila,5,Pacific,9
+Venezuela,Caracas,1,America,8
+Vietnam,Hanoi,7,Asia,9
+Yemen,Sanaa,1,Asia,9
+Zambia,Lusaka,1,Africa,9
+Zimbabwe,Harare,1,Africa,9
+Afghanistan,Kabul,1,Asia,10
+Albania,Tirana,1,Europe,10
+Algeria,Algiers,1,Africa,9
+Andorra,Andorra La Vella,1,Europe,10
+Angola,Luanda,1,Africa,9
+Antigua and Barbuda,Saint John's,6,America,9
+Argentina,Buenos Aires,1,America,9
+Armenia,Yerevan,1,Asia,10
+Australia,Canberra,2,Australia,10
+Austria,Vienna,1,Europe,10
+Azerbaijan,Baku,1,Asia,10
+Bahamas,Nassau,8,America,9
+Bahrain,Manama,1,Asia,10
+Bangladesh,Dhaka,1,Asia,10
+Barbados,Bridgetown,7,America,9
+Belarus,Minsk,1,Europe,10
+Belgium,Brussels,1,Europe,10
+Belize,Belmopan,7,America,9
+Benin,Porto-Novo,1,Africa,9
+Bhutan,Thimphu,1,Asia,10
+Bolivia,Sucre,5,America,9
+Bosnia and Herzegovina,Sarajevo,1,Europe,10
+Botswana,Gaborone,1,Africa,10
+Brazil,Bras,1,America,9
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,10
+Bulgaria,Sofia,1,Europe,10
+Burkina Faso,Ouagadougou,1,Africa,9
+Burundi,Bujumbura,1,Africa,10
+Madagascar,Ivory,1,Indian,10
+Cape Verde,Praia,1,Atlantic,9
+Cambodia,Phnom Penh,1,Asia,10
+Cameroon,Bafoussam,1,Africa,9
+Canada,Ottawa,6,America,9
+Central African Republic,Bangui,1,Africa,9
+Chad,N'djamena,1,Africa,9
+Chile,Santiago,3,America,9
+China,Beijing,4,Asia,10
+Bulgaria,Bogot,1,Europe,10
+Comoros,Moroni,1,Indian,10
+Congo,Brazzaville,1,Africa,9
+Costa Rica,San Juan,5,America,9
+Croatia,Zagreb,1,Europe,10
+Cuba,Havana,7,America,9
+Cyprus,Nicosia,1,Asia,10
+Czech Republic,Prague,1,Europe,10
+Democratic Republic of Congo,Kinshasa,1,Africa,9
+Denmark,Copenhagen,1,Europe,10
+Djibouti,Djibouti,1,Africa,10
+Dominica,Roseau,6,America,9
+Dominican Republic,Santo Domingo,6,America,9
+Ecuador,Quito,4,America,9
+Egypt,Cairo,1,Africa,10
+El Salvador,San Salvador,7,America,9
+Equatorial Guinea,Malabo,1,Africa,9
+Eritrea,Asmara,1,Africa,10
+Estonia,Tallinn,1,Europe,10
+Swaziland,Mbabane,1,Africa,10
+Ethiopia,Addis Ababa,1,Africa,10
+Fiji Islands,Suva,5,Pacific,10
+Finland,Helsinki,1,Europe,10
+France,Paris,1,Europe,10
+Gabon,Libreville,1,Africa,9
+Gambia,Banjul,1,Africa,9
+Georgia,Tbilisi,1,Asia,10
+Germany,Berlin,1,Europe,10
+Ghana,Accra,1,Africa,9
+Greece,Athens,1,Europe,10
+Grenada,Saint George's,7,America,9
+Guatemala,Guatemala City,5,America,9
+Guinea,Conakry,1,Africa,9
+Guinea-Bissau,Bissau,1,Africa,9
+Guyana,Georgetown,1,America,9
+Haiti,Port-Au-Prince,7,America,9
+Vatican City,Vatican City,1,Europe,10
+Honduras,Tegucigalpa,7,America,9
+Hungary,Budapest,1,Europe,10
+Iceland,Hella,1,Atlantic,9
+India,New Delhi,1,Asia,10
+Indonesia,Jakarta,1,Asia,10
+Iran,Tehran,1,Asia,10
+Iraq,Baghdad,1,Asia,10
+Ireland,Dublin,1,Europe,9
+Israel,Jerusalem,1,Asia,10
+Italy,Rome,1,Europe,10
+Jamaica,Norman Gardens,7,America,9
+Japan,Tokyo,7,Asia,10
+Jordan,Amman,1,Asia,10
+Kazakhstan,Astana,1,Asia,10
+Kenya,Nairobi,1,Africa,10
+Kiribati,Tarawa,6,Pacific,10
+Kuwait,Kuwait City,1,Asia,10
+Kyrghyzstan,Bishkek,1,Asia,10
+Indonesia,Laos,1,Asia,10
+Latvia,Riga,1,Europe,10
+Lebanon,Beirut,1,Asia,10
+Lesotho,Maseru,1,Africa,10
+Liberia,Monrovia,1,Africa,9
+Thailand,Nan,1,Asia,10
+Liechtenstein,Vaduz,1,Europe,10
+Lithuania,Vilnius,1,Europe,10
+Luxembourg,Luxembourg,1,Europe,10
+Madagascar,Antananarivo,1,Indian,10
+Malawi,Lilongwe,1,Africa,10
+Malaysia,Kuala Lumpur,1,Asia,10
+Maldives,Farukolhufunadhoo,1,Indian,10
+Mali,Bamako,1,Africa,9
+Malta,Valletta,1,Europe,10
+Marshall Islands,Majuro,6,Pacific,10
+Mauritania,Nouakchott,1,Africa,9
+Mauritius,Port Louis,1,Indian,10
+Mexico,Mexico City,7,America,9
+Micronesia,Palikir,6,Pacific,10
+Russia,Chi-Chi-Erh,1,Asia,10
+Monaco,Monaco,1,Europe,10
+Mongolia,Ulaanbaatar,1,Asia,10
+Montenegro,Podgorica,1,Europe,10
+Morocco,Rabat,1,Africa,9
+Mozambique,Maputo,1,Africa,10
+Myanmar,Pathein,1,Asia,10
+Namibia,Windhoek,1,Africa,10
+Turkey,Yaren,1,Europe,10
+Nepal,Kathmandu,1,Asia,10
+Netherlands,Amsterdam,1,Europe,10
+New Zealand,Wellington,4,Pacific,10
+Nicaragua,Managua,8,America,9
+Niger,Niamey,1,Africa,9
+Nigeria,Abuja,1,Africa,9
+North Korea,Pyongyang,5,Asia,10
+Macedonia,Skopje,1,Europe,10
+Norway,Oslo,1,Europe,10
+Oman,Muscat,1,Asia,10
+Pakistan,Islamabad,1,Asia,10
+Palau,Adkip,1,Pacific,10
+Bolivia,National,9,America,9
+Panama,Panama City,6,America,9
+Papua New Guinea,Port Moresby,6,Pacific,10
+Paraguay,Carreria,1,America,9
+Peru,Lima,5,America,9
+Philippines,Manila,7,Asia,10
+Poland,Warsaw,1,Europe,10
+Portugal,Lisbon,1,Europe,9
+Qatar,Doha,1,Asia,10
+Romania,Bucharest,1,Europe,10
+Russia,Moscow,1,Europe,10
+Rwanda,Kigali,1,Africa,10
+Saint Kitts and Nevis,Basseterre,7,America,9
+Saint Lucia,Castries,1,America,9
+Saint Vincent and the Grenadines,Kingstown,7,America,9
+Samoa,Apia,7,Pacific,10
+San Marino,San Marino,1,Europe,10
+Belgium,'S-Gravenwezel,1,Europe,10
+Saudi Arabia,Riyadh,1,Asia,10
+Senegal,Dakar,1,Africa,9
+Serbia,Belgrade,1,Europe,10
+Seychelles Islands,Victoria,1,Indian,10
+Sierra Leone,Freetown,1,Africa,9
+Singapore,Singapore,1,Asia,10
+Slovakia,Bratislava,1,Europe,10
+Slovenia,Ljubljana,1,Europe,10
+Solomon Islands,Honiara,7,Pacific,10
+Somalia,Mogadishu,1,Africa,10
+South Africa,Pretoria,1,Africa,10
+South Korea,Seoul,6,Asia,10
+Sudan,Juba,1,Africa,10
+Spain,Madrid,1,Europe,10
+Sri Lanka,Colombo,1,Asia,10
+Sudan,Khartoum,1,Africa,10
+Suriname,Paramaribo,1,America,9
+Sweden,Stockholm,1,Europe,10
+Switzerland,Bern,1,Europe,10
+Syria,Damascus,1,Asia,10
+Tajikistan,Dushanbe,1,Asia,10
+Tanzania,Dodoma,1,Africa,10
+Thailand,Bangkok,1,Asia,10
+Timor-Leste,Dili,7,Asia,10
+Bulgaria,Lom,1,Europe,10
+Tonga,Nuku`Aloia,5,Pacific,10
+Trinidad and Tobago,Port Of Spain,7,America,9
+Tunisia,Tunis,1,Africa,10
+Turkey,Ankara,1,Europe,10
+Turkmenistan,Ashgabat,1,Asia,10
+Tuvalu,Funafuti,6,Pacific,10
+Uganda,Kampala,1,Africa,10
+Ukraine,Kyiv,1,Europe,10
+United Arab Emirates,Abu Dhabi,1,Asia,10
+United Kingdom,London,1,Europe,10
+United States of America,Washington Park,8,America,9
+Uruguay,Montevideo,1,America,9
+Uzbekistan,Tashkent,1,Asia,10
+Vanuatu,Port Vila,5,Pacific,10
+Venezuela,Caracas,1,America,9
+Vietnam,Hanoi,6,Asia,10
+Yemen,Sanaa,1,Asia,10
+Zambia,Lusaka,1,Africa,10
+Zimbabwe,Harare,1,Africa,10
+Afghanistan,Kabul,1,Asia,11
+Albania,Tirana,1,Europe,11
+Algeria,Algiers,1,Africa,10
+Andorra,Andorra La Vella,1,Europe,11
+Angola,Luanda,1,Africa,10
+Antigua and Barbuda,Saint John's,7,America,10
+Argentina,Buenos Aires,1,America,10
+Armenia,Yerevan,1,Asia,11
+Australia,Canberra,3,Australia,11
+Austria,Vienna,1,Europe,11
+Azerbaijan,Baku,1,Asia,11
+Bahamas,Nassau,8,America,10
+Bahrain,Manama,1,Asia,11
+Bangladesh,Dhaka,1,Asia,11
+Barbados,Bridgetown,6,America,10
+Belarus,Minsk,1,Europe,11
+Belgium,Brussels,1,Europe,11
+Belize,Belmopan,8,America,10
+Benin,Porto-Novo,1,Africa,10
+Bhutan,Thimphu,1,Asia,11
+Bolivia,Sucre,6,America,10
+Bosnia and Herzegovina,Sarajevo,1,Europe,11
+Botswana,Gaborone,1,Africa,11
+Brazil,Bras,1,America,10
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,11
+Bulgaria,Sofia,1,Europe,11
+Burkina Faso,Ouagadougou,1,Africa,10
+Burundi,Bujumbura,1,Africa,11
+Madagascar,Ivory,1,Indian,11
+Cape Verde,Praia,1,Atlantic,10
+Cambodia,Phnom Penh,1,Asia,11
+Cameroon,Bafoussam,1,Africa,10
+Canada,Ottawa,4,America,10
+Central African Republic,Bangui,1,Africa,10
+Chad,N'djamena,1,Africa,10
+Chile,Santiago,3,America,10
+China,Beijing,5,Asia,11
+Bulgaria,Bogot,1,Europe,11
+Comoros,Moroni,1,Indian,11
+Congo,Brazzaville,1,Africa,10
+Costa Rica,San Juan,5,America,10
+Croatia,Zagreb,1,Europe,11
+Cuba,Havana,7,America,10
+Cyprus,Nicosia,1,Asia,11
+Czech Republic,Prague,1,Europe,11
+Democratic Republic of Congo,Kinshasa,1,Africa,10
+Denmark,Copenhagen,1,Europe,11
+Djibouti,Djibouti,1,Africa,11
+Dominica,Roseau,6,America,10
+Dominican Republic,Santo Domingo,8,America,10
+Ecuador,Quito,4,America,10
+Egypt,Cairo,1,Africa,11
+El Salvador,San Salvador,7,America,10
+Equatorial Guinea,Malabo,1,Africa,10
+Eritrea,Asmara,1,Africa,11
+Estonia,Tallinn,1,Europe,11
+Swaziland,Mbabane,1,Africa,11
+Ethiopia,Addis Ababa,1,Africa,11
+Fiji Islands,Suva,5,Pacific,11
+Finland,Helsinki,1,Europe,11
+France,Paris,1,Europe,11
+Gabon,Libreville,1,Africa,10
+Gambia,Banjul,1,Africa,10
+Georgia,Tbilisi,1,Asia,11
+Germany,Berlin,1,Europe,11
+Ghana,Accra,1,Africa,10
+Greece,Athens,1,Europe,11
+Grenada,Saint George's,7,America,10
+Guatemala,Guatemala City,6,America,10
+Guinea,Conakry,1,Africa,10
+Guinea-Bissau,Bissau,1,Africa,10
+Guyana,Georgetown,1,America,10
+Haiti,Port-Au-Prince,7,America,10
+Vatican City,Vatican City,1,Europe,11
+Honduras,Tegucigalpa,7,America,10
+Hungary,Budapest,1,Europe,11
+Iceland,Hella,1,Atlantic,10
+India,New Delhi,1,Asia,11
+Indonesia,Jakarta,1,Asia,11
+Iran,Tehran,1,Asia,11
+Iraq,Baghdad,1,Asia,11
+Ireland,Dublin,1,Europe,10
+Israel,Jerusalem,1,Asia,11
+Italy,Rome,1,Europe,11
+Jamaica,Norman Gardens,7,America,10
+Japan,Tokyo,7,Asia,11
+Jordan,Amman,1,Asia,11
+Kazakhstan,Astana,1,Asia,11
+Kenya,Nairobi,1,Africa,11
+Kiribati,Tarawa,7,Pacific,11
+Kuwait,Kuwait City,1,Asia,11
+Kyrghyzstan,Bishkek,1,Asia,11
+Indonesia,Laos,1,Asia,11
+Latvia,Riga,1,Europe,11
+Lebanon,Beirut,1,Asia,11
+Lesotho,Maseru,1,Africa,11
+Liberia,Monrovia,1,Africa,10
+Thailand,Nan,1,Asia,11
+Liechtenstein,Vaduz,1,Europe,11
+Lithuania,Vilnius,1,Europe,11
+Luxembourg,Luxembourg,1,Europe,11
+Madagascar,Antananarivo,1,Indian,11
+Malawi,Lilongwe,1,Africa,11
+Malaysia,Kuala Lumpur,1,Asia,11
+Maldives,Farukolhufunadhoo,1,Indian,11
+Mali,Bamako,1,Africa,10
+Malta,Valletta,1,Europe,11
+Marshall Islands,Majuro,6,Pacific,11
+Mauritania,Nouakchott,1,Africa,10
+Mauritius,Port Louis,1,Indian,11
+Mexico,Mexico City,7,America,10
+Micronesia,Palikir,6,Pacific,11
+Russia,Chi-Chi-Erh,1,Asia,11
+Monaco,Monaco,1,Europe,11
+Mongolia,Ulaanbaatar,1,Asia,11
+Montenegro,Podgorica,1,Europe,11
+Morocco,Rabat,1,Africa,10
+Mozambique,Maputo,1,Africa,11
+Myanmar,Pathein,1,Asia,11
+Namibia,Windhoek,1,Africa,11
+Turkey,Yaren,1,Europe,11
+Nepal,Kathmandu,1,Asia,11
+Netherlands,Amsterdam,1,Europe,11
+New Zealand,Wellington,4,Pacific,11
+Nicaragua,Managua,7,America,10
+Niger,Niamey,1,Africa,11
+Nigeria,Abuja,1,Africa,11
+North Korea,Pyongyang,6,Asia,11
+Macedonia,Skopje,1,Europe,11
+Norway,Oslo,1,Europe,11
+Oman,Muscat,1,Asia,11
+Pakistan,Islamabad,1,Asia,11
+Palau,Adkip,1,Pacific,11
+Bolivia,National,1,America,10
+Panama,Panama City,6,America,10
+Papua New Guinea,Port Moresby,6,Pacific,11
+Paraguay,Carreria,1,America,10
+Peru,Lima,5,America,10
+Philippines,Manila,7,Asia,11
+Poland,Warsaw,1,Europe,11
+Portugal,Lisbon,1,Europe,10
+Qatar,Doha,1,Asia,11
+Romania,Bucharest,1,Europe,11
+Russia,Moscow,1,Europe,11
+Rwanda,Kigali,1,Africa,11
+Saint Kitts and Nevis,Basseterre,1,America,10
+Saint Lucia,Castries,1,America,10
+Saint Vincent and the Grenadines,Kingstown,1,America,10
+Samoa,Apia,7,Pacific,11
+San Marino,San Marino,1,Europe,11
+Belgium,'S-Gravenwezel,1,Europe,11
+Saudi Arabia,Riyadh,1,Asia,11
+Senegal,Dakar,1,Africa,10
+Serbia,Belgrade,1,Europe,11
+Seychelles Islands,Victoria,1,Indian,11
+Sierra Leone,Freetown,1,Africa,10
+Singapore,Singapore,1,Asia,11
+Slovakia,Bratislava,1,Europe,11
+Slovenia,Ljubljana,1,Europe,11
+Solomon Islands,Honiara,7,Pacific,11
+Somalia,Mogadishu,1,Africa,11
+South Africa,Pretoria,1,Africa,11
+South Korea,Seoul,6,Asia,11
+Sudan,Juba,1,Africa,11
+Spain,Madrid,1,Europe,11
+Sri Lanka,Colombo,1,Asia,11
+Sudan,Khartoum,1,Africa,11
+Suriname,Paramaribo,1,America,10
+Sweden,Stockholm,1,Europe,11
+Switzerland,Bern,1,Europe,11
+Syria,Damascus,1,Asia,11
+Tajikistan,Dushanbe,1,Asia,11
+Tanzania,Dodoma,1,Africa,11
+Thailand,Bangkok,1,Asia,11
+Timor-Leste,Dili,7,Asia,11
+Bulgaria,Lom,1,Europe,11
+Tonga,Nuku`Aloia,5,Pacific,11
+Trinidad and Tobago,Port Of Spain,7,America,10
+Tunisia,Tunis,1,Africa,11
+Turkey,Ankara,1,Europe,11
+Turkmenistan,Ashgabat,1,Asia,11
+Tuvalu,Funafuti,6,Pacific,11
+Uganda,Kampala,1,Africa,11
+Ukraine,Kyiv,1,Europe,11
+United Arab Emirates,Abu Dhabi,1,Asia,11
+United Kingdom,London,1,Europe,11
+United States of America,Washington Park,8,America,10
+Uruguay,Montevideo,1,America,10
+Uzbekistan,Tashkent,1,Asia,11
+Vanuatu,Port Vila,5,Pacific,11
+Venezuela,Caracas,1,America,10
+Vietnam,Hanoi,1,Asia,11
+Yemen,Sanaa,1,Asia,11
+Zambia,Lusaka,1,Africa,11
+Zimbabwe,Harare,1,Africa,11
+Afghanistan,Kabul,1,Asia,12
+Albania,Tirana,1,Europe,12
+Algeria,Algiers,1,Africa,11
+Andorra,Andorra La Vella,1,Europe,12
+Angola,Luanda,1,Africa,12
+Antigua and Barbuda,Saint John's,1,America,11
+Argentina,Buenos Aires,1,America,11
+Armenia,Yerevan,1,Asia,12
+Australia,Canberra,4,Australia,12
+Austria,Vienna,1,Europe,12
+Azerbaijan,Baku,1,Asia,12
+Bahamas,Nassau,8,America,11
+Bahrain,Manama,1,Asia,12
+Bangladesh,Dhaka,1,Asia,12
+Barbados,Bridgetown,7,America,11
+Belarus,Minsk,1,Europe,12
+Belgium,Brussels,1,Europe,12
+Belize,Belmopan,7,America,11
+Benin,Porto-Novo,1,Africa,12
+Bhutan,Thimphu,1,Asia,12
+Bolivia,Sucre,1,America,11
+Bosnia and Herzegovina,Sarajevo,1,Europe,12
+Botswana,Gaborone,1,Africa,12
+Brazil,Bras,1,America,11
+Brunei Darussalam,Bandar Seri Begawan,6,Asia,12
+Bulgaria,Sofia,1,Europe,12
+Burkina Faso,Ouagadougou,1,Africa,11
+Burundi,Bujumbura,1,Africa,12
+Madagascar,Ivory,1,Indian,12
+Cape Verde,Praia,1,Atlantic,11
+Cambodia,Phnom Penh,1,Asia,12
+Cameroon,Bafoussam,1,Africa,12
+Canada,Ottawa,7,America,11
+Central African Republic,Bangui,1,Africa,12
+Chad,N'djamena,1,Africa,12
+Chile,Santiago,4,America,11
+China,Beijing,5,Asia,12
+Bulgaria,Bogot,1,Europe,12
+Comoros,Moroni,1,Indian,12
+Congo,Brazzaville,1,Africa,12
+Costa Rica,San Juan,5,America,11
+Croatia,Zagreb,1,Europe,12
+Cuba,Havana,7,America,11
+Cyprus,Nicosia,1,Asia,12
+Czech Republic,Prague,1,Europe,12
+Democratic Republic of Congo,Kinshasa,1,Africa,11
+Denmark,Copenhagen,1,Europe,12
+Djibouti,Djibouti,1,Africa,12
+Dominica,Roseau,1,America,11
+Dominican Republic,Santo Domingo,6,America,11
+Ecuador,Quito,5,America,11
+Egypt,Cairo,1,Africa,12
+El Salvador,San Salvador,7,America,11
+Equatorial Guinea,Malabo,1,Africa,12
+Eritrea,Asmara,1,Africa,12
+Estonia,Tallinn,1,Europe,12
+Swaziland,Mbabane,1,Africa,12
+Ethiopia,Addis Ababa,1,Africa,12
+Fiji Islands,Suva,7,Pacific,12
+Finland,Helsinki,1,Europe,12
+France,Paris,1,Europe,12
+Gabon,Libreville,1,Africa,11
+Gambia,Banjul,1,Africa,11
+Georgia,Tbilisi,1,Asia,12
+Germany,Berlin,1,Europe,12
+Ghana,Accra,1,Africa,11
+Greece,Athens,1,Europe,12
+Grenada,Saint George's,7,America,11
+Guatemala,Guatemala City,5,America,11
+Guinea,Conakry,1,Africa,11
+Guinea-Bissau,Bissau,1,Africa,11
+Guyana,Georgetown,1,America,11
+Haiti,Port-Au-Prince,1,America,11
+Vatican City,Vatican City,1,Europe,12
+Honduras,Tegucigalpa,6,America,11
+Hungary,Budapest,1,Europe,12
+Iceland,Hella,1,Atlantic,11
+India,New Delhi,1,Asia,12
+Indonesia,Jakarta,7,Asia,12
+Iran,Tehran,1,Asia,12
+Iraq,Baghdad,1,Asia,12
+Ireland,Dublin,1,Europe,11
+Israel,Jerusalem,1,Asia,12
+Italy,Rome,1,Europe,12
+Jamaica,Norman Gardens,7,America,11
+Japan,Tokyo,7,Asia,12
+Jordan,Amman,1,Asia,12
+Kazakhstan,Astana,1,Asia,12
+Kenya,Nairobi,1,Africa,12
+Kiribati,Tarawa,7,Pacific,12
+Kuwait,Kuwait City,1,Asia,12
+Kyrghyzstan,Bishkek,1,Asia,12
+Indonesia,Laos,5,Asia,12
+Latvia,Riga,1,Europe,12
+Lebanon,Beirut,1,Asia,12
+Lesotho,Maseru,1,Africa,12
+Liberia,Monrovia,1,Africa,11
+Thailand,Nan,1,Asia,12
+Liechtenstein,Vaduz,1,Europe,12
+Lithuania,Vilnius,1,Europe,12
+Luxembourg,Luxembourg,1,Europe,12
+Madagascar,Antananarivo,1,Indian,12
+Malawi,Lilongwe,1,Africa,12
+Malaysia,Kuala Lumpur,1,Asia,12
+Maldives,Farukolhufunadhoo,1,Indian,12
+Mali,Bamako,1,Africa,11
+Malta,Valletta,1,Europe,12
+Marshall Islands,Majuro,6,Pacific,12
+Mauritania,Nouakchott,1,Africa,11
+Mauritius,Port Louis,1,Indian,12
+Mexico,Mexico City,6,America,11
+Micronesia,Palikir,7,Pacific,12
+Russia,Chi-Chi-Erh,1,Asia,12
+Monaco,Monaco,1,Europe,12
+Mongolia,Ulaanbaatar,5,Asia,12
+Montenegro,Podgorica,1,Europe,12
+Morocco,Rabat,1,Africa,12
+Mozambique,Maputo,1,Africa,12
+Myanmar,Pathein,1,Asia,12
+Namibia,Windhoek,1,Africa,12
+Turkey,Yaren,1,Europe,12
+Nepal,Kathmandu,1,Asia,12
+Netherlands,Amsterdam,1,Europe,12
+New Zealand,Wellington,4,Pacific,12
+Nicaragua,Managua,7,America,11
+Niger,Niamey,1,Africa,12
+Nigeria,Abuja,1,Africa,12
+North Korea,Pyongyang,6,Asia,12
+Macedonia,Skopje,1,Europe,12
+Norway,Oslo,1,Europe,12
+Oman,Muscat,1,Asia,12
+Pakistan,Islamabad,1,Asia,12
+Palau,Adkip,1,Pacific,12
+Bolivia,National,1,America,11
+Panama,Panama City,7,America,11
+Papua New Guinea,Port Moresby,7,Pacific,12
+Paraguay,Carreria,1,America,11
+Peru,Lima,5,America,11
+Philippines,Manila,7,Asia,12
+Poland,Warsaw,1,Europe,12
+Portugal,Lisbon,1,Europe,11
+Qatar,Doha,1,Asia,12
+Romania,Bucharest,1,Europe,12
+Russia,Moscow,1,Europe,12
+Rwanda,Kigali,1,Africa,12
+Saint Kitts and Nevis,Basseterre,1,America,11
+Saint Lucia,Castries,1,America,11
+Saint Vincent and the Grenadines,Kingstown,1,America,11
+Samoa,Apia,7,Pacific,12
+San Marino,San Marino,1,Europe,12
+Belgium,'S-Gravenwezel,1,Europe,12
+Saudi Arabia,Riyadh,1,Asia,12
+Senegal,Dakar,1,Africa,11
+Serbia,Belgrade,1,Europe,12
+Seychelles Islands,Victoria,1,Indian,12
+Sierra Leone,Freetown,1,Africa,11
+Singapore,Singapore,7,Asia,12
+Slovakia,Bratislava,1,Europe,12
+Slovenia,Ljubljana,1,Europe,12
+Solomon Islands,Honiara,7,Pacific,12
+Somalia,Mogadishu,1,Africa,12
+South Africa,Pretoria,1,Africa,12
+South Korea,Seoul,6,Asia,12
+Sudan,Juba,1,Africa,12
+Spain,Madrid,1,Europe,12
+Sri Lanka,Colombo,1,Asia,12
+Sudan,Khartoum,1,Africa,12
+Suriname,Paramaribo,1,America,11
+Sweden,Stockholm,1,Europe,12
+Switzerland,Bern,1,Europe,12
+Syria,Damascus,1,Asia,12
+Tajikistan,Dushanbe,1,Asia,12
+Tanzania,Dodoma,1,Africa,12
+Thailand,Bangkok,1,Asia,12
+Timor-Leste,Dili,7,Asia,12
+Bulgaria,Lom,1,Europe,12
+Tonga,Nuku`Aloia,5,Pacific,12
+Trinidad and Tobago,Port Of Spain,1,America,11
+Tunisia,Tunis,1,Africa,11
+Turkey,Ankara,1,Europe,12
+Turkmenistan,Ashgabat,1,Asia,12
+Tuvalu,Funafuti,6,Pacific,12
+Uganda,Kampala,1,Africa,12
+Ukraine,Kyiv,1,Europe,12
+United Arab Emirates,Abu Dhabi,1,Asia,12
+United Kingdom,London,1,Europe,12
+United States of America,Washington Park,6,America,11
+Uruguay,Montevideo,1,America,11
+Uzbekistan,Tashkent,1,Asia,12
+Vanuatu,Port Vila,5,Pacific,12
+Venezuela,Caracas,1,America,11
+Vietnam,Hanoi,6,Asia,12
+Yemen,Sanaa,1,Asia,12
+Zambia,Lusaka,1,Africa,12
+Zimbabwe,Harare,1,Africa,12
+Afghanistan,Kabul,1,Asia,13
+Albania,Tirana,1,Europe,13
+Algeria,Algiers,1,Africa,12
+Andorra,Andorra La Vella,1,Europe,13
+Angola,Luanda,1,Africa,12
+Antigua and Barbuda,Saint John's,7,America,12
+Argentina,Buenos Aires,1,America,12
+Armenia,Yerevan,1,Asia,13
+Australia,Canberra,3,Australia,13
+Austria,Vienna,1,Europe,13
+Azerbaijan,Baku,1,Asia,13
+Bahamas,Nassau,8,America,12
+Bahrain,Manama,1,Asia,13
+Bangladesh,Dhaka,1,Asia,13
+Barbados,Bridgetown,7,America,12
+Belarus,Minsk,1,Europe,13
+Belgium,Brussels,1,Europe,13
+Belize,Belmopan,7,America,12
+Benin,Porto-Novo,1,Africa,12
+Bhutan,Thimphu,1,Asia,13
+Bolivia,Sucre,4,America,12
+Bosnia and Herzegovina,Sarajevo,1,Europe,13
+Botswana,Gaborone,1,Africa,13
+Brazil,Bras,1,America,12
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,13
+Bulgaria,Sofia,1,Europe,13
+Burkina Faso,Ouagadougou,1,Africa,12
+Burundi,Bujumbura,1,Africa,13
+Madagascar,Ivory,1,Indian,13
+Cape Verde,Praia,1,Atlantic,12
+Cambodia,Phnom Penh,1,Asia,13
+Cameroon,Bafoussam,1,Africa,12
+Canada,Ottawa,5,America,12
+Central African Republic,Bangui,1,Africa,12
+Chad,N'djamena,1,Africa,12
+Chile,Santiago,4,America,12
+China,Beijing,5,Asia,13
+Bulgaria,Bogot,1,Europe,13
+Comoros,Moroni,1,Indian,13
+Congo,Brazzaville,1,Africa,12
+Costa Rica,San Juan,6,America,12
+Croatia,Zagreb,1,Europe,13
+Cuba,Havana,7,America,12
+Cyprus,Nicosia,1,Asia,13
+Czech Republic,Prague,1,Europe,13
+Democratic Republic of Congo,Kinshasa,1,Africa,12
+Denmark,Copenhagen,1,Europe,13
+Djibouti,Djibouti,1,Africa,13
+Dominica,Roseau,7,America,12
+Dominican Republic,Santo Domingo,8,America,12
+Ecuador,Quito,3,America,12
+Egypt,Cairo,1,Africa,13
+El Salvador,San Salvador,7,America,12
+Equatorial Guinea,Malabo,1,Africa,12
+Eritrea,Asmara,1,Africa,13
+Estonia,Tallinn,1,Europe,13
+Swaziland,Mbabane,1,Africa,13
+Ethiopia,Addis Ababa,1,Africa,13
+Fiji Islands,Suva,7,Pacific,13
+Finland,Helsinki,1,Europe,13
+France,Paris,1,Europe,13
+Gabon,Libreville,1,Africa,12
+Gambia,Banjul,1,Africa,12
+Georgia,Tbilisi,1,Asia,13
+Germany,Berlin,1,Europe,13
+Ghana,Accra,1,Africa,12
+Greece,Athens,1,Europe,13
+Grenada,Saint George's,7,America,12
+Guatemala,Guatemala City,6,America,12
+Guinea,Conakry,1,Africa,12
+Guinea-Bissau,Bissau,1,Africa,12
+Guyana,Georgetown,1,America,12
+Haiti,Port-Au-Prince,7,America,12
+Vatican City,Vatican City,1,Europe,13
+Honduras,Tegucigalpa,6,America,12
+Hungary,Budapest,1,Europe,13
+Iceland,Hella,1,Atlantic,12
+India,New Delhi,1,Asia,13
+Indonesia,Jakarta,1,Asia,13
+Iran,Tehran,1,Asia,13
+Iraq,Baghdad,1,Asia,13
+Ireland,Dublin,1,Europe,12
+Israel,Jerusalem,1,Asia,13
+Italy,Rome,1,Europe,13
+Jamaica,Norman Gardens,8,America,12
+Japan,Tokyo,7,Asia,13
+Jordan,Amman,1,Asia,13
+Kazakhstan,Astana,1,Asia,13
+Kenya,Nairobi,1,Africa,13
+Kiribati,Tarawa,7,Pacific,13
+Kuwait,Kuwait City,1,Asia,13
+Kyrghyzstan,Bishkek,1,Asia,13
+Indonesia,Laos,1,Asia,13
+Latvia,Riga,1,Europe,13
+Lebanon,Beirut,1,Asia,13
+Lesotho,Maseru,1,Africa,13
+Liberia,Monrovia,1,Africa,12
+Thailand,Nan,1,Asia,13
+Liechtenstein,Vaduz,1,Europe,13
+Lithuania,Vilnius,1,Europe,13
+Luxembourg,Luxembourg,1,Europe,13
+Madagascar,Antananarivo,1,Indian,13
+Malawi,Lilongwe,1,Africa,13
+Malaysia,Kuala Lumpur,1,Asia,13
+Maldives,Farukolhufunadhoo,1,Indian,13
+Mali,Bamako,1,Africa,12
+Malta,Valletta,1,Europe,13
+Marshall Islands,Majuro,7,Pacific,13
+Mauritania,Nouakchott,1,Africa,12
+Mauritius,Port Louis,1,Indian,13
+Mexico,Mexico City,7,America,12
+Micronesia,Palikir,6,Pacific,13
+Russia,Chi-Chi-Erh,1,Asia,13
+Monaco,Monaco,1,Europe,13
+Mongolia,Ulaanbaatar,1,Asia,13
+Montenegro,Podgorica,1,Europe,13
+Morocco,Rabat,1,Africa,12
+Mozambique,Maputo,1,Africa,13
+Myanmar,Pathein,1,Asia,13
+Namibia,Windhoek,1,Africa,13
+Turkey,Yaren,1,Europe,13
+Nepal,Kathmandu,1,Asia,13
+Netherlands,Amsterdam,1,Europe,13
+New Zealand,Wellington,4,Pacific,13
+Nicaragua,Managua,8,America,12
+Niger,Niamey,1,Africa,12
+Nigeria,Abuja,1,Africa,12
+North Korea,Pyongyang,5,Asia,13
+Macedonia,Skopje,1,Europe,13
+Norway,Oslo,1,Europe,13
+Oman,Muscat,1,Asia,13
+Pakistan,Islamabad,1,Asia,13
+Palau,Adkip,1,Pacific,13
+Bolivia,National,8,America,12
+Panama,Panama City,7,America,12
+Papua New Guinea,Port Moresby,6,Pacific,13
+Paraguay,Carreria,1,America,12
+Peru,Lima,5,America,12
+Philippines,Manila,7,Asia,13
+Poland,Warsaw,1,Europe,13
+Portugal,Lisbon,1,Europe,12
+Qatar,Doha,1,Asia,13
+Romania,Bucharest,1,Europe,13
+Russia,Moscow,1,Europe,13
+Rwanda,Kigali,1,Africa,13
+Saint Kitts and Nevis,Basseterre,7,America,12
+Saint Lucia,Castries,7,America,12
+Saint Vincent and the Grenadines,Kingstown,7,America,12
+Samoa,Apia,7,Pacific,13
+San Marino,San Marino,1,Europe,13
+Belgium,'S-Gravenwezel,1,Europe,13
+Saudi Arabia,Riyadh,1,Asia,13
+Senegal,Dakar,1,Africa,12
+Serbia,Belgrade,1,Europe,13
+Seychelles Islands,Victoria,1,Indian,13
+Sierra Leone,Freetown,1,Africa,12
+Singapore,Singapore,1,Asia,13
+Slovakia,Bratislava,1,Europe,13
+Slovenia,Ljubljana,1,Europe,13
+Solomon Islands,Honiara,7,Pacific,13
+Somalia,Mogadishu,1,Africa,13
+South Africa,Pretoria,1,Africa,13
+South Korea,Seoul,6,Asia,13
+Sudan,Juba,1,Africa,13
+Spain,Madrid,1,Europe,13
+Sri Lanka,Colombo,1,Asia,13
+Sudan,Khartoum,1,Africa,13
+Suriname,Paramaribo,1,America,12
+Sweden,Stockholm,1,Europe,13
+Switzerland,Bern,1,Europe,13
+Syria,Damascus,1,Asia,13
+Tajikistan,Dushanbe,1,Asia,13
+Tanzania,Dodoma,1,Africa,13
+Thailand,Bangkok,1,Asia,13
+Timor-Leste,Dili,7,Asia,13
+Bulgaria,Lom,1,Europe,13
+Tonga,Nuku`Aloia,6,Pacific,13
+Trinidad and Tobago,Port Of Spain,7,America,12
+Tunisia,Tunis,1,Africa,12
+Turkey,Ankara,1,Europe,13
+Turkmenistan,Ashgabat,1,Asia,13
+Tuvalu,Funafuti,6,Pacific,13
+Uganda,Kampala,1,Africa,13
+Ukraine,Kyiv,1,Europe,13
+United Arab Emirates,Abu Dhabi,1,Asia,13
+United Kingdom,London,1,Europe,12
+United States of America,Washington Park,6,America,12
+Uruguay,Montevideo,1,America,12
+Uzbekistan,Tashkent,1,Asia,13
+Vanuatu,Port Vila,5,Pacific,13
+Venezuela,Caracas,6,America,12
+Vietnam,Hanoi,1,Asia,13
+Yemen,Sanaa,1,Asia,13
+Zambia,Lusaka,1,Africa,13
+Zimbabwe,Harare,1,Africa,13
+Afghanistan,Kabul,1,Asia,14
+Albania,Tirana,7,Europe,14
+Algeria,Algiers,7,Africa,14
+Andorra,Andorra La Vella,4,Europe,14
+Angola,Luanda,6,Africa,14
+Antigua and Barbuda,Saint John's,7,America,14
+Argentina,Buenos Aires,3,America,14
+Armenia,Yerevan,6,Asia,14
+Australia,Canberra,1,Australia,15
+Austria,Vienna,6,Europe,14
+Azerbaijan,Baku,6,Asia,14
+Bahamas,Nassau,7,America,14
+Bahrain,Manama,8,Asia,14
+Bangladesh,Dhaka,1,Asia,14
+Barbados,Bridgetown,7,America,14
+Belarus,Minsk,4,Europe,14
+Belgium,Brussels,6,Europe,14
+Belize,Belmopan,7,America,14
+Benin,Porto-Novo,7,Africa,14
+Bhutan,Thimphu,1,Asia,14
+Bolivia,Sucre,4,America,14
+Bosnia and Herzegovina,Sarajevo,6,Europe,14
+Botswana,Gaborone,7,Africa,14
+Brazil,Bras,9,America,14
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,14
+Bulgaria,Sofia,7,Europe,14
+Burkina Faso,Ouagadougou,8,Africa,14
+Burundi,Bujumbura,7,Africa,14
+Madagascar,Ivory,6,Indian,14
+Cape Verde,Praia,7,Atlantic,14
+Cambodia,Phnom Penh,1,Asia,14
+Cameroon,Bafoussam,6,Africa,14
+Canada,Ottawa,4,America,14
+Central African Republic,Bangui,7,Africa,14
+Chad,N'djamena,7,Africa,14
+Chile,Santiago,5,America,14
+China,Beijing,1,Asia,14
+Bulgaria,Bogot,8,Europe,14
+Comoros,Moroni,7,Indian,14
+Congo,Brazzaville,8,Africa,14
+Costa Rica,San Juan,5,America,14
+Croatia,Zagreb,5,Europe,14
+Cuba,Havana,7,America,14
+Cyprus,Nicosia,7,Asia,14
+Czech Republic,Prague,6,Europe,14
+Democratic Republic of Congo,Kinshasa,8,Africa,14
+Denmark,Copenhagen,5,Europe,14
+Djibouti,Djibouti,8,Africa,14
+Dominica,Roseau,7,America,14
+Dominican Republic,Santo Domingo,8,America,14
+Ecuador,Quito,5,America,14
+Egypt,Cairo,9,Africa,14
+El Salvador,San Salvador,6,America,14
+Equatorial Guinea,Malabo,7,Africa,14
+Eritrea,Asmara,6,Africa,14
+Estonia,Tallinn,5,Europe,14
+Swaziland,Mbabane,7,Africa,14
+Ethiopia,Addis Ababa,4,Africa,14
+Fiji Islands,Suva,1,Pacific,15
+Finland,Helsinki,5,Europe,14
+France,Paris,7,Europe,14
+Gabon,Libreville,7,Africa,14
+Gambia,Banjul,7,Africa,14
+Georgia,Tbilisi,6,Asia,14
+Germany,Berlin,6,Europe,14
+Ghana,Accra,7,Africa,14
+Greece,Athens,7,Europe,14
+Grenada,Saint George's,7,America,14
+Guatemala,Guatemala City,5,America,14
+Guinea,Conakry,6,Africa,14
+Guinea-Bissau,Bissau,7,Africa,14
+Guyana,Georgetown,8,America,14
+Haiti,Port-Au-Prince,8,America,14
+Vatican City,Vatican City,7,Europe,14
+Honduras,Tegucigalpa,6,America,14
+Hungary,Budapest,6,Europe,14
+Iceland,Hella,4,Atlantic,14
+India,New Delhi,1,Asia,14
+Indonesia,Jakarta,1,Asia,14
+Iran,Tehran,8,Asia,14
+Iraq,Baghdad,9,Asia,14
+Ireland,Dublin,5,Europe,14
+Israel,Jerusalem,7,Asia,14
+Italy,Rome,7,Europe,14
+Jamaica,Norman Gardens,7,America,14
+Japan,Tokyo,1,Asia,14
+Jordan,Amman,7,Asia,14
+Kazakhstan,Astana,1,Asia,14
+Kenya,Nairobi,6,Africa,14
+Kiribati,Tarawa,1,Pacific,15
+Kuwait,Kuwait City,10,Asia,14
+Kyrghyzstan,Bishkek,1,Asia,14
+Indonesia,Laos,1,Asia,14
+Latvia,Riga,5,Europe,14
+Lebanon,Beirut,7,Asia,14
+Lesotho,Maseru,6,Africa,14
+Liberia,Monrovia,6,Africa,14
+Thailand,Nan,1,Asia,14
+Liechtenstein,Vaduz,4,Europe,14
+Lithuania,Vilnius,4,Europe,14
+Luxembourg,Luxembourg,6,Europe,14
+Madagascar,Antananarivo,6,Indian,14
+Malawi,Lilongwe,7,Africa,14
+Malaysia,Kuala Lumpur,1,Asia,14
+Maldives,Farukolhufunadhoo,1,Indian,14
+Mali,Bamako,8,Africa,14
+Malta,Valletta,7,Europe,14
+Marshall Islands,Majuro,1,Pacific,15
+Mauritania,Nouakchott,8,Africa,14
+Mauritius,Port Louis,6,Indian,14
+Mexico,Mexico City,3,America,14
+Micronesia,Palikir,1,Pacific,15
+Russia,Chi-Chi-Erh,1,Asia,14
+Monaco,Monaco,6,Europe,14
+Mongolia,Ulaanbaatar,1,Asia,14
+Montenegro,Podgorica,7,Europe,14
+Morocco,Rabat,6,Africa,14
+Mozambique,Maputo,7,Africa,14
+Myanmar,Pathein,1,Asia,14
+Namibia,Windhoek,7,Africa,14
+Turkey,Yaren,7,Europe,14
+Nepal,Kathmandu,1,Asia,14
+Netherlands,Amsterdam,6,Europe,14
+New Zealand,Wellington,1,Pacific,15
+Nicaragua,Managua,7,America,14
+Niger,Niamey,9,Africa,14
+Nigeria,Abuja,6,Africa,14
+North Korea,Pyongyang,1,Asia,14
+Macedonia,Skopje,8,Europe,14
+Norway,Oslo,4,Europe,14
+Oman,Muscat,8,Asia,14
+Pakistan,Islamabad,1,Asia,14
+Palau,Adkip,1,Pacific,14
+Bolivia,National,7,America,14
+Panama,Panama City,7,America,14
+Papua New Guinea,Port Moresby,1,Pacific,15
+Paraguay,Carreria,5,America,14
+Peru,Lima,5,America,14
+Philippines,Manila,1,Asia,14
+Poland,Warsaw,5,Europe,14
+Portugal,Lisbon,7,Europe,14
+Qatar,Doha,9,Asia,14
+Romania,Bucharest,8,Europe,14
+Russia,Moscow,5,Europe,14
+Rwanda,Kigali,6,Africa,14
+Saint Kitts and Nevis,Basseterre,7,America,14
+Saint Lucia,Castries,8,America,14
+Saint Vincent and the Grenadines,Kingstown,7,America,14
+Samoa,Apia,1,Pacific,15
+San Marino,San Marino,6,Europe,14
+Belgium,'S-Gravenwezel,6,Europe,14
+Saudi Arabia,Riyadh,10,Asia,14
+Senegal,Dakar,7,Africa,14
+Serbia,Belgrade,7,Europe,14
+Seychelles Islands,Victoria,7,Indian,14
+Sierra Leone,Freetown,7,Africa,14
+Singapore,Singapore,1,Asia,14
+Slovakia,Bratislava,6,Europe,14
+Slovenia,Ljubljana,6,Europe,14
+Solomon Islands,Honiara,1,Pacific,15
+Somalia,Mogadishu,7,Africa,14
+South Africa,Pretoria,6,Africa,14
+South Korea,Seoul,1,Asia,14
+Sudan,Juba,7,Africa,14
+Spain,Madrid,7,Europe,14
+Sri Lanka,Colombo,1,Asia,14
+Sudan,Khartoum,9,Africa,14
+Suriname,Paramaribo,8,America,14
+Sweden,Stockholm,4,Europe,14
+Switzerland,Bern,5,Europe,14
+Syria,Damascus,7,Asia,14
+Tajikistan,Dushanbe,1,Asia,14
+Tanzania,Dodoma,7,Africa,14
+Thailand,Bangkok,1,Asia,14
+Timor-Leste,Dili,1,Asia,14
+Bulgaria,Lom,8,Europe,14
+Tonga,Nuku`Aloia,1,Pacific,15
+Trinidad and Tobago,Port Of Spain,8,America,14
+Tunisia,Tunis,8,Africa,14
+Turkey,Ankara,6,Europe,14
+Turkmenistan,Ashgabat,7,Asia,14
+Tuvalu,Funafuti,1,Pacific,15
+Uganda,Kampala,7,Africa,14
+Ukraine,Kyiv,7,Europe,14
+United Arab Emirates,Abu Dhabi,8,Asia,14
+United Kingdom,London,6,Europe,14
+United States of America,Washington Park,4,America,14
+Uruguay,Montevideo,4,America,14
+Uzbekistan,Tashkent,1,Asia,14
+Vanuatu,Port Vila,1,Pacific,15
+Venezuela,Caracas,7,America,14
+Vietnam,Hanoi,1,Asia,14
+Yemen,Sanaa,7,Asia,14
+Zambia,Lusaka,7,Africa,14
+Zimbabwe,Harare,7,Africa,14
+Afghanistan,Kabul,1,Asia,15
+Albania,Tirana,1,Europe,15
+Algeria,Algiers,1,Africa,14
+Andorra,Andorra La Vella,1,Europe,15
+Angola,Luanda,1,Africa,14
+Antigua and Barbuda,Saint John's,7,America,14
+Argentina,Buenos Aires,1,America,14
+Armenia,Yerevan,1,Asia,15
+Australia,Canberra,4,Australia,15
+Austria,Vienna,1,Europe,15
+Azerbaijan,Baku,1,Asia,15
+Bahamas,Nassau,8,America,14
+Bahrain,Manama,1,Asia,15
+Bangladesh,Dhaka,1,Asia,15
+Barbados,Bridgetown,1,America,14
+Belarus,Minsk,1,Europe,15
+Belgium,Brussels,1,Europe,15
+Belize,Belmopan,8,America,14
+Benin,Porto-Novo,1,Africa,14
+Bhutan,Thimphu,1,Asia,15
+Bolivia,Sucre,5,America,14
+Bosnia and Herzegovina,Sarajevo,1,Europe,15
+Botswana,Gaborone,1,Africa,15
+Brazil,Bras,1,America,14
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,15
+Bulgaria,Sofia,1,Europe,15
+Burkina Faso,Ouagadougou,1,Africa,14
+Burundi,Bujumbura,1,Africa,15
+Madagascar,Ivory,1,Indian,15
+Cape Verde,Praia,1,Atlantic,14
+Cambodia,Phnom Penh,1,Asia,15
+Cameroon,Bafoussam,1,Africa,14
+Canada,Ottawa,6,America,14
+Central African Republic,Bangui,1,Africa,14
+Chad,N'djamena,1,Africa,14
+Chile,Santiago,4,America,14
+China,Beijing,5,Asia,15
+Bulgaria,Bogot,1,Europe,15
+Comoros,Moroni,1,Indian,15
+Congo,Brazzaville,1,Africa,14
+Costa Rica,San Juan,5,America,14
+Croatia,Zagreb,1,Europe,15
+Cuba,Havana,7,America,14
+Cyprus,Nicosia,1,Asia,15
+Czech Republic,Prague,1,Europe,15
+Democratic Republic of Congo,Kinshasa,1,Africa,14
+Denmark,Copenhagen,1,Europe,15
+Djibouti,Djibouti,1,Africa,15
+Dominica,Roseau,6,America,14
+Dominican Republic,Santo Domingo,8,America,14
+Ecuador,Quito,4,America,14
+Egypt,Cairo,1,Africa,15
+El Salvador,San Salvador,6,America,14
+Equatorial Guinea,Malabo,1,Africa,14
+Eritrea,Asmara,1,Africa,15
+Estonia,Tallinn,1,Europe,15
+Swaziland,Mbabane,1,Africa,15
+Ethiopia,Addis Ababa,1,Africa,15
+Fiji Islands,Suva,5,Pacific,15
+Finland,Helsinki,1,Europe,15
+France,Paris,1,Europe,15
+Gabon,Libreville,1,Africa,14
+Gambia,Banjul,1,Africa,14
+Georgia,Tbilisi,1,Asia,15
+Germany,Berlin,1,Europe,15
+Ghana,Accra,1,Africa,14
+Greece,Athens,1,Europe,15
+Grenada,Saint George's,7,America,14
+Guatemala,Guatemala City,5,America,14
+Guinea,Conakry,1,Africa,14
+Guinea-Bissau,Bissau,1,Africa,14
+Guyana,Georgetown,1,America,14
+Haiti,Port-Au-Prince,7,America,14
+Vatican City,Vatican City,1,Europe,15
+Honduras,Tegucigalpa,6,America,14
+Hungary,Budapest,1,Europe,15
+Iceland,Hella,1,Atlantic,14
+India,New Delhi,1,Asia,15
+Indonesia,Jakarta,1,Asia,15
+Iran,Tehran,1,Asia,15
+Iraq,Baghdad,1,Asia,15
+Ireland,Dublin,1,Europe,14
+Israel,Jerusalem,1,Asia,15
+Italy,Rome,1,Europe,15
+Jamaica,Norman Gardens,6,America,14
+Japan,Tokyo,7,Asia,15
+Jordan,Amman,1,Asia,15
+Kazakhstan,Astana,1,Asia,15
+Kenya,Nairobi,1,Africa,15
+Kiribati,Tarawa,7,Pacific,15
+Kuwait,Kuwait City,1,Asia,15
+Kyrghyzstan,Bishkek,1,Asia,15
+Indonesia,Laos,1,Asia,15
+Latvia,Riga,1,Europe,15
+Lebanon,Beirut,1,Asia,15
+Lesotho,Maseru,1,Africa,15
+Liberia,Monrovia,1,Africa,14
+Thailand,Nan,1,Asia,15
+Liechtenstein,Vaduz,1,Europe,15
+Lithuania,Vilnius,1,Europe,15
+Luxembourg,Luxembourg,1,Europe,15
+Madagascar,Antananarivo,1,Indian,15
+Malawi,Lilongwe,1,Africa,15
+Malaysia,Kuala Lumpur,1,Asia,15
+Maldives,Farukolhufunadhoo,1,Indian,15
+Mali,Bamako,1,Africa,14
+Malta,Valletta,1,Europe,15
+Marshall Islands,Majuro,6,Pacific,15
+Mauritania,Nouakchott,1,Africa,14
+Mauritius,Port Louis,1,Indian,15
+Mexico,Mexico City,7,America,14
+Micronesia,Palikir,7,Pacific,15
+Russia,Chi-Chi-Erh,1,Asia,15
+Monaco,Monaco,1,Europe,15
+Mongolia,Ulaanbaatar,1,Asia,15
+Montenegro,Podgorica,1,Europe,15
+Morocco,Rabat,1,Africa,14
+Mozambique,Maputo,1,Africa,15
+Myanmar,Pathein,1,Asia,15
+Namibia,Windhoek,1,Africa,15
+Turkey,Yaren,1,Europe,15
+Nepal,Kathmandu,1,Asia,15
+Netherlands,Amsterdam,1,Europe,15
+New Zealand,Wellington,2,Pacific,15
+Nicaragua,Managua,8,America,14
+Niger,Niamey,1,Africa,14
+Nigeria,Abuja,1,Africa,14
+North Korea,Pyongyang,4,Asia,15
+Macedonia,Skopje,1,Europe,15
+Norway,Oslo,1,Europe,15
+Oman,Muscat,1,Asia,15
+Pakistan,Islamabad,1,Asia,15
+Palau,Adkip,1,Pacific,15
+Bolivia,National,6,America,14
+Panama,Panama City,6,America,14
+Papua New Guinea,Port Moresby,6,Pacific,15
+Paraguay,Carreria,1,America,14
+Peru,Lima,5,America,14
+Philippines,Manila,7,Asia,15
+Poland,Warsaw,1,Europe,15
+Portugal,Lisbon,1,Europe,14
+Qatar,Doha,1,Asia,15
+Romania,Bucharest,1,Europe,15
+Russia,Moscow,1,Europe,15
+Rwanda,Kigali,1,Africa,15
+Saint Kitts and Nevis,Basseterre,7,America,14
+Saint Lucia,Castries,7,America,14
+Saint Vincent and the Grenadines,Kingstown,7,America,14
+Samoa,Apia,6,Pacific,15
+San Marino,San Marino,1,Europe,15
+Belgium,'S-Gravenwezel,1,Europe,15
+Saudi Arabia,Riyadh,1,Asia,15
+Senegal,Dakar,1,Africa,14
+Serbia,Belgrade,1,Europe,15
+Seychelles Islands,Victoria,1,Indian,15
+Sierra Leone,Freetown,1,Africa,14
+Singapore,Singapore,1,Asia,15
+Slovakia,Bratislava,1,Europe,15
+Slovenia,Ljubljana,1,Europe,15
+Solomon Islands,Honiara,7,Pacific,15
+Somalia,Mogadishu,1,Africa,15
+South Africa,Pretoria,1,Africa,15
+South Korea,Seoul,4,Asia,15
+Sudan,Juba,1,Africa,15
+Spain,Madrid,1,Europe,15
+Sri Lanka,Colombo,1,Asia,15
+Sudan,Khartoum,1,Africa,15
+Suriname,Paramaribo,1,America,14
+Sweden,Stockholm,1,Europe,15
+Switzerland,Bern,1,Europe,15
+Syria,Damascus,1,Asia,15
+Tajikistan,Dushanbe,1,Asia,15
+Tanzania,Dodoma,1,Africa,15
+Thailand,Bangkok,1,Asia,15
+Timor-Leste,Dili,7,Asia,15
+Bulgaria,Lom,1,Europe,15
+Tonga,Nuku`Aloia,5,Pacific,15
+Trinidad and Tobago,Port Of Spain,7,America,14
+Tunisia,Tunis,1,Africa,14
+Turkey,Ankara,1,Europe,15
+Turkmenistan,Ashgabat,1,Asia,15
+Tuvalu,Funafuti,7,Pacific,15
+Uganda,Kampala,1,Africa,15
+Ukraine,Kyiv,1,Europe,15
+United Arab Emirates,Abu Dhabi,1,Asia,15
+United Kingdom,London,1,Europe,14
+United States of America,Washington Park,8,America,14
+Uruguay,Montevideo,1,America,14
+Uzbekistan,Tashkent,1,Asia,15
+Vanuatu,Port Vila,7,Pacific,15
+Venezuela,Caracas,6,America,14
+Vietnam,Hanoi,1,Asia,15
+Yemen,Sanaa,1,Asia,15
+Zambia,Lusaka,1,Africa,15
+Zimbabwe,Harare,1,Africa,15
+Afghanistan,Kabul,1,Asia,16
+Albania,Tirana,1,Europe,16
+Algeria,Algiers,1,Africa,15
+Andorra,Andorra La Vella,1,Europe,16
+Angola,Luanda,1,Africa,15
+Antigua and Barbuda,Saint John's,1,America,15
+Argentina,Buenos Aires,1,America,15
+Armenia,Yerevan,1,Asia,16
+Australia,Canberra,4,Australia,16
+Austria,Vienna,1,Europe,16
+Azerbaijan,Baku,1,Asia,16
+Bahamas,Nassau,8,America,15
+Bahrain,Manama,1,Asia,16
+Bangladesh,Dhaka,1,Asia,16
+Barbados,Bridgetown,1,America,15
+Belarus,Minsk,1,Europe,16
+Belgium,Brussels,1,Europe,16
+Belize,Belmopan,8,America,15
+Benin,Porto-Novo,1,Africa,15
+Bhutan,Thimphu,1,Asia,16
+Bolivia,Sucre,6,America,15
+Bosnia and Herzegovina,Sarajevo,1,Europe,16
+Botswana,Gaborone,1,Africa,16
+Brazil,Bras,1,America,15
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,16
+Bulgaria,Sofia,1,Europe,16
+Burkina Faso,Ouagadougou,1,Africa,15
+Burundi,Bujumbura,1,Africa,16
+Madagascar,Ivory,1,Indian,16
+Cape Verde,Praia,1,Atlantic,15
+Cambodia,Phnom Penh,1,Asia,16
+Cameroon,Bafoussam,1,Africa,15
+Canada,Ottawa,6,America,15
+Central African Republic,Bangui,1,Africa,15
+Chad,N'djamena,1,Africa,15
+Chile,Santiago,4,America,15
+China,Beijing,5,Asia,16
+Bulgaria,Bogot,1,Europe,16
+Comoros,Moroni,1,Indian,16
+Congo,Brazzaville,1,Africa,15
+Costa Rica,San Juan,4,America,15
+Croatia,Zagreb,1,Europe,16
+Cuba,Havana,7,America,15
+Cyprus,Nicosia,1,Asia,16
+Czech Republic,Prague,1,Europe,16
+Democratic Republic of Congo,Kinshasa,1,Africa,15
+Denmark,Copenhagen,1,Europe,16
+Djibouti,Djibouti,1,Africa,16
+Dominica,Roseau,7,America,15
+Dominican Republic,Santo Domingo,8,America,15
+Ecuador,Quito,5,America,15
+Egypt,Cairo,1,Africa,16
+El Salvador,San Salvador,6,America,15
+Equatorial Guinea,Malabo,1,Africa,15
+Eritrea,Asmara,1,Africa,16
+Estonia,Tallinn,1,Europe,16
+Swaziland,Mbabane,1,Africa,16
+Ethiopia,Addis Ababa,1,Africa,16
+Fiji Islands,Suva,7,Pacific,16
+Finland,Helsinki,1,Europe,16
+France,Paris,1,Europe,16
+Gabon,Libreville,1,Africa,15
+Gambia,Banjul,1,Africa,15
+Georgia,Tbilisi,1,Asia,16
+Germany,Berlin,1,Europe,16
+Ghana,Accra,1,Africa,15
+Greece,Athens,1,Europe,16
+Grenada,Saint George's,7,America,15
+Guatemala,Guatemala City,5,America,15
+Guinea,Conakry,1,Africa,15
+Guinea-Bissau,Bissau,1,Africa,15
+Guyana,Georgetown,1,America,15
+Haiti,Port-Au-Prince,6,America,15
+Vatican City,Vatican City,1,Europe,16
+Honduras,Tegucigalpa,7,America,15
+Hungary,Budapest,1,Europe,16
+Iceland,Hella,1,Atlantic,15
+India,New Delhi,1,Asia,16
+Indonesia,Jakarta,1,Asia,16
+Iran,Tehran,1,Asia,16
+Iraq,Baghdad,1,Asia,16
+Ireland,Dublin,1,Europe,15
+Israel,Jerusalem,1,Asia,16
+Italy,Rome,1,Europe,16
+Jamaica,Norman Gardens,7,America,15
+Japan,Tokyo,6,Asia,16
+Jordan,Amman,1,Asia,16
+Kazakhstan,Astana,1,Asia,16
+Kenya,Nairobi,1,Africa,16
+Kiribati,Tarawa,6,Pacific,16
+Kuwait,Kuwait City,1,Asia,16
+Kyrghyzstan,Bishkek,1,Asia,16
+Indonesia,Laos,1,Asia,16
+Latvia,Riga,1,Europe,16
+Lebanon,Beirut,1,Asia,16
+Lesotho,Maseru,1,Africa,16
+Liberia,Monrovia,1,Africa,15
+Thailand,Nan,1,Asia,16
+Liechtenstein,Vaduz,1,Europe,16
+Lithuania,Vilnius,1,Europe,16
+Luxembourg,Luxembourg,1,Europe,16
+Madagascar,Antananarivo,1,Indian,16
+Malawi,Lilongwe,1,Africa,16
+Malaysia,Kuala Lumpur,1,Asia,16
+Maldives,Farukolhufunadhoo,1,Indian,16
+Mali,Bamako,1,Africa,15
+Malta,Valletta,1,Europe,16
+Marshall Islands,Majuro,6,Pacific,16
+Mauritania,Nouakchott,1,Africa,15
+Mauritius,Port Louis,1,Indian,16
+Mexico,Mexico City,7,America,15
+Micronesia,Palikir,6,Pacific,16
+Russia,Chi-Chi-Erh,1,Asia,16
+Monaco,Monaco,1,Europe,16
+Mongolia,Ulaanbaatar,1,Asia,16
+Montenegro,Podgorica,1,Europe,16
+Morocco,Rabat,1,Africa,15
+Mozambique,Maputo,1,Africa,16
+Myanmar,Pathein,1,Asia,16
+Namibia,Windhoek,1,Africa,16
+Turkey,Yaren,1,Europe,16
+Nepal,Kathmandu,1,Asia,16
+Netherlands,Amsterdam,1,Europe,16
+New Zealand,Wellington,4,Pacific,16
+Nicaragua,Managua,8,America,15
+Niger,Niamey,1,Africa,15
+Nigeria,Abuja,1,Africa,15
+North Korea,Pyongyang,4,Asia,16
+Macedonia,Skopje,1,Europe,16
+Norway,Oslo,1,Europe,16
+Oman,Muscat,1,Asia,16
+Pakistan,Islamabad,1,Asia,16
+Palau,Adkip,1,Pacific,16
+Bolivia,National,7,America,15
+Panama,Panama City,6,America,15
+Papua New Guinea,Port Moresby,6,Pacific,16
+Paraguay,Carreria,1,America,15
+Peru,Lima,5,America,15
+Philippines,Manila,7,Asia,16
+Poland,Warsaw,1,Europe,16
+Portugal,Lisbon,1,Europe,15
+Qatar,Doha,1,Asia,16
+Romania,Bucharest,1,Europe,16
+Russia,Moscow,1,Europe,16
+Rwanda,Kigali,1,Africa,16
+Saint Kitts and Nevis,Basseterre,7,America,15
+Saint Lucia,Castries,7,America,15
+Saint Vincent and the Grenadines,Kingstown,7,America,15
+Samoa,Apia,7,Pacific,16
+San Marino,San Marino,1,Europe,16
+Belgium,'S-Gravenwezel,1,Europe,16
+Saudi Arabia,Riyadh,1,Asia,16
+Senegal,Dakar,1,Africa,15
+Serbia,Belgrade,1,Europe,16
+Seychelles Islands,Victoria,1,Indian,16
+Sierra Leone,Freetown,1,Africa,15
+Singapore,Singapore,1,Asia,16
+Slovakia,Bratislava,1,Europe,16
+Slovenia,Ljubljana,1,Europe,16
+Solomon Islands,Honiara,7,Pacific,16
+Somalia,Mogadishu,1,Africa,16
+South Africa,Pretoria,1,Africa,16
+South Korea,Seoul,5,Asia,16
+Sudan,Juba,1,Africa,16
+Spain,Madrid,1,Europe,16
+Sri Lanka,Colombo,1,Asia,16
+Sudan,Khartoum,1,Africa,16
+Suriname,Paramaribo,1,America,15
+Sweden,Stockholm,1,Europe,16
+Switzerland,Bern,1,Europe,16
+Syria,Damascus,1,Asia,16
+Tajikistan,Dushanbe,1,Asia,16
+Tanzania,Dodoma,1,Africa,16
+Thailand,Bangkok,1,Asia,16
+Timor-Leste,Dili,7,Asia,16
+Bulgaria,Lom,1,Europe,16
+Tonga,Nuku`Aloia,5,Pacific,16
+Trinidad and Tobago,Port Of Spain,7,America,15
+Tunisia,Tunis,1,Africa,15
+Turkey,Ankara,1,Europe,16
+Turkmenistan,Ashgabat,1,Asia,16
+Tuvalu,Funafuti,7,Pacific,16
+Uganda,Kampala,1,Africa,16
+Ukraine,Kyiv,1,Europe,16
+United Arab Emirates,Abu Dhabi,1,Asia,16
+United Kingdom,London,1,Europe,15
+United States of America,Washington Park,8,America,15
+Uruguay,Montevideo,1,America,15
+Uzbekistan,Tashkent,1,Asia,16
+Vanuatu,Port Vila,5,Pacific,16
+Venezuela,Caracas,5,America,15
+Vietnam,Hanoi,1,Asia,16
+Yemen,Sanaa,1,Asia,16
+Zambia,Lusaka,1,Africa,16
+Zimbabwe,Harare,1,Africa,16
+Afghanistan,Kabul,1,Asia,17
+Albania,Tirana,1,Europe,17
+Algeria,Algiers,1,Africa,16
+Andorra,Andorra La Vella,1,Europe,17
+Angola,Luanda,1,Africa,16
+Antigua and Barbuda,Saint John's,6,America,16
+Argentina,Buenos Aires,1,America,16
+Armenia,Yerevan,1,Asia,17
+Australia,Canberra,4,Australia,17
+Austria,Vienna,1,Europe,17
+Azerbaijan,Baku,1,Asia,17
+Bahamas,Nassau,8,America,16
+Bahrain,Manama,1,Asia,17
+Bangladesh,Dhaka,1,Asia,17
+Barbados,Bridgetown,1,America,16
+Belarus,Minsk,1,Europe,17
+Belgium,Brussels,1,Europe,17
+Belize,Belmopan,8,America,16
+Benin,Porto-Novo,1,Africa,16
+Bhutan,Thimphu,1,Asia,17
+Bolivia,Sucre,6,America,16
+Bosnia and Herzegovina,Sarajevo,1,Europe,17
+Botswana,Gaborone,1,Africa,17
+Brazil,Bras,1,America,16
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,17
+Bulgaria,Sofia,1,Europe,17
+Burkina Faso,Ouagadougou,1,Africa,16
+Burundi,Bujumbura,1,Africa,17
+Madagascar,Ivory,1,Indian,17
+Cape Verde,Praia,1,Atlantic,16
+Cambodia,Phnom Penh,1,Asia,17
+Cameroon,Bafoussam,1,Africa,16
+Canada,Ottawa,6,America,16
+Central African Republic,Bangui,1,Africa,16
+Chad,N'djamena,1,Africa,16
+Chile,Santiago,4,America,16
+China,Beijing,6,Asia,17
+Bulgaria,Bogot,1,Europe,17
+Comoros,Moroni,1,Indian,17
+Congo,Brazzaville,1,Africa,16
+Costa Rica,San Juan,5,America,16
+Croatia,Zagreb,1,Europe,17
+Cuba,Havana,7,America,16
+Cyprus,Nicosia,1,Asia,17
+Czech Republic,Prague,1,Europe,17
+Democratic Republic of Congo,Kinshasa,1,Africa,16
+Denmark,Copenhagen,1,Europe,17
+Djibouti,Djibouti,1,Africa,17
+Dominica,Roseau,7,America,16
+Dominican Republic,Santo Domingo,8,America,16
+Ecuador,Quito,4,America,16
+Egypt,Cairo,1,Africa,17
+El Salvador,San Salvador,6,America,16
+Equatorial Guinea,Malabo,1,Africa,16
+Eritrea,Asmara,1,Africa,17
+Estonia,Tallinn,1,Europe,17
+Swaziland,Mbabane,1,Africa,17
+Ethiopia,Addis Ababa,1,Africa,17
+Fiji Islands,Suva,6,Pacific,17
+Finland,Helsinki,1,Europe,17
+France,Paris,1,Europe,17
+Gabon,Libreville,1,Africa,16
+Gambia,Banjul,1,Africa,16
+Georgia,Tbilisi,1,Asia,17
+Germany,Berlin,1,Europe,17
+Ghana,Accra,1,Africa,16
+Greece,Athens,1,Europe,17
+Grenada,Saint George's,7,America,16
+Guatemala,Guatemala City,5,America,16
+Guinea,Conakry,1,Africa,16
+Guinea-Bissau,Bissau,1,Africa,16
+Guyana,Georgetown,1,America,16
+Haiti,Port-Au-Prince,7,America,16
+Vatican City,Vatican City,1,Europe,17
+Honduras,Tegucigalpa,7,America,16
+Hungary,Budapest,1,Europe,17
+Iceland,Hella,1,Atlantic,16
+India,New Delhi,1,Asia,17
+Indonesia,Jakarta,1,Asia,17
+Iran,Tehran,1,Asia,17
+Iraq,Baghdad,1,Asia,17
+Ireland,Dublin,1,Europe,16
+Israel,Jerusalem,1,Asia,17
+Italy,Rome,1,Europe,17
+Jamaica,Norman Gardens,6,America,16
+Japan,Tokyo,6,Asia,17
+Jordan,Amman,1,Asia,17
+Kazakhstan,Astana,1,Asia,17
+Kenya,Nairobi,1,Africa,17
+Kiribati,Tarawa,6,Pacific,17
+Kuwait,Kuwait City,1,Asia,17
+Kyrghyzstan,Bishkek,1,Asia,17
+Indonesia,Laos,1,Asia,17
+Latvia,Riga,1,Europe,17
+Lebanon,Beirut,1,Asia,17
+Lesotho,Maseru,1,Africa,17
+Liberia,Monrovia,1,Africa,16
+Thailand,Nan,1,Asia,17
+Liechtenstein,Vaduz,1,Europe,17
+Lithuania,Vilnius,1,Europe,17
+Luxembourg,Luxembourg,1,Europe,17
+Madagascar,Antananarivo,1,Indian,17
+Malawi,Lilongwe,1,Africa,17
+Malaysia,Kuala Lumpur,1,Asia,17
+Maldives,Farukolhufunadhoo,1,Indian,17
+Mali,Bamako,1,Africa,16
+Malta,Valletta,1,Europe,17
+Marshall Islands,Majuro,6,Pacific,17
+Mauritania,Nouakchott,1,Africa,16
+Mauritius,Port Louis,1,Indian,17
+Mexico,Mexico City,6,America,16
+Micronesia,Palikir,6,Pacific,17
+Russia,Chi-Chi-Erh,1,Asia,17
+Monaco,Monaco,1,Europe,17
+Mongolia,Ulaanbaatar,1,Asia,17
+Montenegro,Podgorica,1,Europe,17
+Morocco,Rabat,1,Africa,16
+Mozambique,Maputo,1,Africa,17
+Myanmar,Pathein,1,Asia,17
+Namibia,Windhoek,1,Africa,17
+Turkey,Yaren,1,Europe,17
+Nepal,Kathmandu,1,Asia,17
+Netherlands,Amsterdam,1,Europe,17
+New Zealand,Wellington,4,Pacific,17
+Nicaragua,Managua,8,America,16
+Niger,Niamey,1,Africa,16
+Nigeria,Abuja,1,Africa,16
+North Korea,Pyongyang,5,Asia,17
+Macedonia,Skopje,1,Europe,17
+Norway,Oslo,1,Europe,17
+Oman,Muscat,1,Asia,17
+Pakistan,Islamabad,1,Asia,17
+Palau,Adkip,1,Pacific,17
+Bolivia,National,7,America,16
+Panama,Panama City,7,America,16
+Papua New Guinea,Port Moresby,6,Pacific,17
+Paraguay,Carreria,1,America,16
+Philippines,Manila,7,Asia,17
+Poland,Warsaw,1,Europe,17
+Portugal,Lisbon,1,Europe,16
+Qatar,Doha,1,Asia,17
+Romania,Bucharest,1,Europe,17
+Russia,Moscow,1,Europe,17
+Rwanda,Kigali,1,Africa,17
+Saint Kitts and Nevis,Basseterre,6,America,16
+Saint Lucia,Castries,7,America,16
+Saint Vincent and the Grenadines,Kingstown,7,America,16
+Samoa,Apia,6,Pacific,17
+San Marino,San Marino,1,Europe,17
+Belgium,'S-Gravenwezel,1,Europe,17
+Saudi Arabia,Riyadh,1,Asia,17
+Senegal,Dakar,1,Africa,16
+Serbia,Belgrade,1,Europe,17
+Seychelles Islands,Victoria,1,Indian,17
+Sierra Leone,Freetown,1,Africa,16
+Singapore,Singapore,1,Asia,17
+Slovakia,Bratislava,1,Europe,17
+Slovenia,Ljubljana,1,Europe,17
+Solomon Islands,Honiara,6,Pacific,17
+Somalia,Mogadishu,1,Africa,17
+South Africa,Pretoria,1,Africa,17
+South Korea,Seoul,5,Asia,17
+Sudan,Juba,1,Africa,17
+Spain,Madrid,1,Europe,17
+Sri Lanka,Colombo,1,Asia,17
+Sudan,Khartoum,1,Africa,17
+Suriname,Paramaribo,1,America,16
+Sweden,Stockholm,1,Europe,17
+Switzerland,Bern,1,Europe,17
+Syria,Damascus,1,Asia,17
+Tajikistan,Dushanbe,1,Asia,17
+Tanzania,Dodoma,1,Africa,17
+Thailand,Bangkok,1,Asia,17
+Timor-Leste,Dili,7,Asia,17
+Bulgaria,Lom,1,Europe,17
+Tonga,Nuku`Aloia,5,Pacific,17
+Trinidad and Tobago,Port Of Spain,7,America,16
+Tunisia,Tunis,1,Africa,16
+Turkey,Ankara,1,Europe,17
+Turkmenistan,Ashgabat,1,Asia,17
+Tuvalu,Funafuti,7,Pacific,17
+Uganda,Kampala,1,Africa,17
+Ukraine,Kyiv,1,Europe,17
+United Arab Emirates,Abu Dhabi,1,Asia,17
+United Kingdom,London,1,Europe,16
+United States of America,Washington Park,8,America,16
+Uruguay,Montevideo,1,America,16
+Uzbekistan,Tashkent,1,Asia,17
+Vanuatu,Port Vila,5,Pacific,17
+Venezuela,Caracas,5,America,16
+Vietnam,Hanoi,1,Asia,17
+Yemen,Sanaa,1,Asia,17
+Zambia,Lusaka,1,Africa,17
+Zimbabwe,Harare,1,Africa,17
+Afghanistan,Kabul,1,Asia,18
+Albania,Tirana,1,Europe,18
+Algeria,Algiers,1,Africa,17
+Andorra,Andorra La Vella,1,Europe,18
+Angola,Luanda,1,Africa,17
+Antigua and Barbuda,Saint John's,6,America,17
+Argentina,Buenos Aires,1,America,17
+Armenia,Yerevan,1,Asia,18
+Australia,Canberra,4,Australia,18
+Austria,Vienna,1,Europe,18
+Azerbaijan,Baku,1,Asia,18
+Bahamas,Nassau,7,America,17
+Bahrain,Manama,1,Asia,18
+Bangladesh,Dhaka,1,Asia,18
+Barbados,Bridgetown,1,America,17
+Belarus,Minsk,1,Europe,18
+Belgium,Brussels,1,Europe,18
+Belize,Belmopan,8,America,17
+Benin,Porto-Novo,1,Africa,17
+Bhutan,Thimphu,1,Asia,18
+Bolivia,Sucre,6,America,17
+Bosnia and Herzegovina,Sarajevo,1,Europe,18
+Botswana,Gaborone,1,Africa,18
+Brazil,Bras,1,America,17
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,18
+Bulgaria,Sofia,1,Europe,18
+Burkina Faso,Ouagadougou,1,Africa,17
+Burundi,Bujumbura,1,Africa,18
+Madagascar,Ivory,1,Indian,18
+Cape Verde,Praia,1,Atlantic,17
+Cambodia,Phnom Penh,1,Asia,18
+Cameroon,Bafoussam,1,Africa,17
+Canada,Ottawa,5,America,17
+Central African Republic,Bangui,1,Africa,17
+Chad,N'djamena,1,Africa,17
+Chile,Santiago,4,America,17
+China,Beijing,5,Asia,18
+Bulgaria,Bogot,1,Europe,18
+Comoros,Moroni,1,Indian,18
+Congo,Brazzaville,1,Africa,17
+Costa Rica,San Juan,4,America,17
+Croatia,Zagreb,1,Europe,18
+Cuba,Havana,8,America,17
+Cyprus,Nicosia,1,Asia,18
+Czech Republic,Prague,1,Europe,18
+Democratic Republic of Congo,Kinshasa,1,Africa,17
+Denmark,Copenhagen,1,Europe,18
+Djibouti,Djibouti,1,Africa,18
+Dominica,Roseau,6,America,17
+Dominican Republic,Santo Domingo,7,America,17
+Ecuador,Quito,4,America,17
+Egypt,Cairo,1,Africa,18
+El Salvador,San Salvador,6,America,17
+Equatorial Guinea,Malabo,1,Africa,17
+Eritrea,Asmara,1,Africa,18
+Estonia,Tallinn,1,Europe,18
+Swaziland,Mbabane,1,Africa,18
+Ethiopia,Addis Ababa,1,Africa,18
+Fiji Islands,Suva,6,Pacific,18
+Finland,Helsinki,1,Europe,18
+France,Paris,1,Europe,18
+Gabon,Libreville,1,Africa,17
+Gambia,Banjul,1,Africa,17
+Georgia,Tbilisi,1,Asia,18
+Germany,Berlin,1,Europe,18
+Ghana,Accra,1,Africa,17
+Greece,Athens,1,Europe,18
+Grenada,Saint George's,7,America,17
+Guatemala,Guatemala City,5,America,17
+Guinea,Conakry,1,Africa,17
+Guinea-Bissau,Bissau,1,Africa,17
+Guyana,Georgetown,1,America,17
+Haiti,Port-Au-Prince,7,America,17
+Vatican City,Vatican City,1,Europe,18
+Honduras,Tegucigalpa,6,America,17
+Hungary,Budapest,1,Europe,18
+Iceland,Hella,1,Atlantic,17
+India,New Delhi,1,Asia,18
+Indonesia,Jakarta,1,Asia,18
+Iran,Tehran,1,Asia,18
+Iraq,Baghdad,1,Asia,18
+Ireland,Dublin,1,Europe,17
+Israel,Jerusalem,1,Asia,18
+Italy,Rome,1,Europe,18
+Jamaica,Norman Gardens,6,America,17
+Japan,Tokyo,7,Asia,18
+Jordan,Amman,1,Asia,18
+Kazakhstan,Astana,1,Asia,18
+Kenya,Nairobi,1,Africa,18
+Kiribati,Tarawa,6,Pacific,18
+Kuwait,Kuwait City,1,Asia,18
+Kyrghyzstan,Bishkek,1,Asia,18
+Indonesia,Laos,1,Asia,18
+Latvia,Riga,1,Europe,18
+Lebanon,Beirut,1,Asia,18
+Lesotho,Maseru,1,Africa,18
+Liberia,Monrovia,1,Africa,17
+Thailand,Nan,1,Asia,18
+Liechtenstein,Vaduz,1,Europe,18
+Lithuania,Vilnius,1,Europe,18
+Luxembourg,Luxembourg,1,Europe,18
+Madagascar,Antananarivo,1,Indian,18
+Malawi,Lilongwe,1,Africa,18
+Malaysia,Kuala Lumpur,1,Asia,18
+Maldives,Farukolhufunadhoo,1,Indian,18
+Mali,Bamako,1,Africa,17
+Malta,Valletta,1,Europe,18
+Marshall Islands,Majuro,6,Pacific,18
+Mauritania,Nouakchott,1,Africa,17
+Mauritius,Port Louis,1,Indian,18
+Mexico,Mexico City,6,America,17
+Micronesia,Palikir,6,Pacific,18
+Russia,Chi-Chi-Erh,1,Asia,18
+Monaco,Monaco,1,Europe,18
+Mongolia,Ulaanbaatar,1,Asia,18
+Montenegro,Podgorica,1,Europe,18
+Morocco,Rabat,1,Africa,17
+Mozambique,Maputo,1,Africa,18
+Myanmar,Pathein,1,Asia,18
+Namibia,Windhoek,1,Africa,18
+Turkey,Yaren,1,Europe,18
+Nepal,Kathmandu,1,Asia,18
+Netherlands,Amsterdam,1,Europe,18
+New Zealand,Wellington,4,Pacific,18
+Nicaragua,Managua,7,America,17
+Niger,Niamey,1,Africa,17
+Nigeria,Abuja,1,Africa,17
+North Korea,Pyongyang,4,Asia,18
+Macedonia,Skopje,1,Europe,18
+Norway,Oslo,1,Europe,18
+Oman,Muscat,1,Asia,18
+Pakistan,Islamabad,1,Asia,18
+Palau,Adkip,1,Pacific,18
+Bolivia,National,8,America,17
+Panama,Panama City,6,America,17
+Papua New Guinea,Port Moresby,6,Pacific,18
+Paraguay,Carreria,1,America,17
+Peru,Lima,5,America,17
+Philippines,Manila,7,Asia,18
+Poland,Warsaw,1,Europe,18
+Portugal,Lisbon,1,Europe,17
+Qatar,Doha,1,Asia,18
+Romania,Bucharest,1,Europe,18
+Russia,Moscow,1,Europe,18
+Rwanda,Kigali,1,Africa,18
+Saint Kitts and Nevis,Basseterre,6,America,17
+Saint Lucia,Castries,6,America,17
+Saint Vincent and the Grenadines,Kingstown,7,America,17
+Samoa,Apia,6,Pacific,18
+San Marino,San Marino,1,Europe,18
+Belgium,'S-Gravenwezel,1,Europe,18
+Saudi Arabia,Riyadh,1,Asia,18
+Senegal,Dakar,1,Africa,17
+Serbia,Belgrade,1,Europe,18
+Seychelles Islands,Victoria,1,Indian,18
+Sierra Leone,Freetown,1,Africa,17
+Singapore,Singapore,1,Asia,18
+Slovakia,Bratislava,1,Europe,18
+Slovenia,Ljubljana,1,Europe,18
+Solomon Islands,Honiara,7,Pacific,18
+Somalia,Mogadishu,1,Africa,18
+South Africa,Pretoria,1,Africa,18
+South Korea,Seoul,6,Asia,18
+Sudan,Juba,1,Africa,18
+Spain,Madrid,1,Europe,18
+Sri Lanka,Colombo,1,Asia,18
+Sudan,Khartoum,1,Africa,18
+Suriname,Paramaribo,1,America,17
+Sweden,Stockholm,1,Europe,18
+Switzerland,Bern,1,Europe,18
+Syria,Damascus,1,Asia,18
+Tajikistan,Dushanbe,1,Asia,18
+Tanzania,Dodoma,1,Africa,18
+Thailand,Bangkok,1,Asia,18
+Timor-Leste,Dili,6,Asia,18
+Bulgaria,Lom,1,Europe,18
+Tonga,Nuku`Aloia,5,Pacific,18
+Trinidad and Tobago,Port Of Spain,7,America,17
+Tunisia,Tunis,1,Africa,17
+Turkey,Ankara,1,Europe,18
+Turkmenistan,Ashgabat,1,Asia,18
+Tuvalu,Funafuti,6,Pacific,18
+Uganda,Kampala,1,Africa,18
+Ukraine,Kyiv,1,Europe,18
+United Arab Emirates,Abu Dhabi,1,Asia,18
+United Kingdom,London,1,Europe,17
+United States of America,Washington Park,6,America,17
+Uruguay,Montevideo,1,America,17
+Uzbekistan,Tashkent,1,Asia,18
+Vanuatu,Port Vila,5,Pacific,18
+Venezuela,Caracas,5,America,17
+Vietnam,Hanoi,1,Asia,18
+Yemen,Sanaa,1,Asia,18
+Zambia,Lusaka,1,Africa,18
+Zimbabwe,Harare,1,Africa,18
+Afghanistan,Kabul,1,Asia,19
+Albania,Tirana,1,Europe,19
+Algeria,Algiers,1,Africa,18
+Andorra,Andorra La Vella,1,Europe,19
+Angola,Luanda,1,Africa,18
+Antigua and Barbuda,Saint John's,6,America,18
+Argentina,Buenos Aires,1,America,18
+Armenia,Yerevan,1,Asia,19
+Australia,Canberra,5,Australia,19
+Austria,Vienna,1,Europe,19
+Azerbaijan,Baku,1,Asia,19
+Bahamas,Nassau,7,America,18
+Bahrain,Manama,1,Asia,19
+Bangladesh,Dhaka,1,Asia,19
+Barbados,Bridgetown,1,America,18
+Belarus,Minsk,1,Europe,19
+Belgium,Brussels,1,Europe,19
+Belize,Belmopan,8,America,18
+Benin,Porto-Novo,1,Africa,18
+Bhutan,Thimphu,1,Asia,19
+Bolivia,Sucre,4,America,18
+Bosnia and Herzegovina,Sarajevo,1,Europe,19
+Botswana,Gaborone,1,Africa,19
+Brazil,Bras,1,America,18
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,19
+Bulgaria,Sofia,1,Europe,19
+Burkina Faso,Ouagadougou,1,Africa,18
+Burundi,Bujumbura,1,Africa,19
+Madagascar,Ivory,1,Indian,19
+Cape Verde,Praia,1,Atlantic,18
+Cambodia,Phnom Penh,1,Asia,19
+Cameroon,Bafoussam,1,Africa,18
+Canada,Ottawa,5,America,18
+Central African Republic,Bangui,1,Africa,18
+Chad,N'djamena,1,Africa,18
+Chile,Santiago,3,America,18
+China,Beijing,5,Asia,19
+Bulgaria,Bogot,1,Europe,19
+Comoros,Moroni,1,Indian,19
+Congo,Brazzaville,1,Africa,18
+Costa Rica,San Juan,5,America,18
+Croatia,Zagreb,1,Europe,19
+Cuba,Havana,8,America,18
+Cyprus,Nicosia,1,Asia,19
+Czech Republic,Prague,1,Europe,19
+Democratic Republic of Congo,Kinshasa,1,Africa,18
+Denmark,Copenhagen,1,Europe,19
+Djibouti,Djibouti,1,Africa,19
+Dominica,Roseau,6,America,18
+Dominican Republic,Santo Domingo,8,America,18
+Ecuador,Quito,4,America,18
+Egypt,Cairo,1,Africa,19
+El Salvador,San Salvador,6,America,18
+Equatorial Guinea,Malabo,1,Africa,18
+Eritrea,Asmara,1,Africa,19
+Estonia,Tallinn,1,Europe,19
+Swaziland,Mbabane,1,Africa,19
+Ethiopia,Addis Ababa,1,Africa,19
+Fiji Islands,Suva,5,Pacific,19
+Finland,Helsinki,1,Europe,19
+France,Paris,1,Europe,19
+Gabon,Libreville,1,Africa,18
+Gambia,Banjul,1,Africa,18
+Georgia,Tbilisi,1,Asia,19
+Germany,Berlin,1,Europe,19
+Ghana,Accra,1,Africa,18
+Greece,Athens,1,Europe,19
+Grenada,Saint George's,7,America,18
+Guatemala,Guatemala City,5,America,18
+Guinea,Conakry,1,Africa,18
+Guinea-Bissau,Bissau,1,Africa,18
+Guyana,Georgetown,1,America,18
+Haiti,Port-Au-Prince,6,America,18
+Vatican City,Vatican City,1,Europe,19
+Honduras,Tegucigalpa,7,America,18
+Hungary,Budapest,1,Europe,19
+Iceland,Hella,1,Atlantic,18
+India,New Delhi,1,Asia,19
+Indonesia,Jakarta,1,Asia,19
+Iran,Tehran,1,Asia,19
+Iraq,Baghdad,1,Asia,19
+Ireland,Dublin,1,Europe,18
+Israel,Jerusalem,1,Asia,19
+Italy,Rome,1,Europe,19
+Jamaica,Norman Gardens,6,America,18
+Japan,Tokyo,7,Asia,19
+Jordan,Amman,1,Asia,19
+Kazakhstan,Astana,1,Asia,19
+Kenya,Nairobi,1,Africa,19
+Kiribati,Tarawa,6,Pacific,19
+Kuwait,Kuwait City,1,Asia,19
+Kyrghyzstan,Bishkek,1,Asia,19
+Indonesia,Laos,1,Asia,19
+Latvia,Riga,1,Europe,19
+Lebanon,Beirut,1,Asia,19
+Lesotho,Maseru,1,Africa,19
+Liberia,Monrovia,1,Africa,18
+Liechtenstein,Vaduz,1,Europe,19
+Lithuania,Vilnius,1,Europe,19
+Luxembourg,Luxembourg,1,Europe,19
+Madagascar,Antananarivo,1,Indian,19
+Malawi,Lilongwe,1,Africa,19
+Malaysia,Kuala Lumpur,1,Asia,19
+Maldives,Farukolhufunadhoo,1,Indian,19
+Mali,Bamako,1,Africa,18
+Malta,Valletta,1,Europe,19
+Marshall Islands,Majuro,6,Pacific,19
+Mauritania,Nouakchott,1,Africa,18
+Mauritius,Port Louis,1,Indian,19
+Mexico,Mexico City,6,America,18
+Micronesia,Palikir,5,Pacific,19
+Russia,Chi-Chi-Erh,1,Asia,19
+Monaco,Monaco,1,Europe,19
+Mongolia,Ulaanbaatar,1,Asia,19
+Montenegro,Podgorica,1,Europe,19
+Morocco,Rabat,1,Africa,18
+Mozambique,Maputo,1,Africa,19
+Myanmar,Pathein,1,Asia,19
+Namibia,Windhoek,1,Africa,19
+Turkey,Yaren,1,Europe,19
+Nepal,Kathmandu,1,Asia,19
+Netherlands,Amsterdam,1,Europe,19
+New Zealand,Wellington,4,Pacific,19
+Nicaragua,Managua,8,America,18
+Niger,Niamey,1,Africa,18
+Nigeria,Abuja,1,Africa,18
+North Korea,Pyongyang,5,Asia,19
+Macedonia,Skopje,1,Europe,19
+Norway,Oslo,1,Europe,19
+Oman,Muscat,1,Asia,19
+Pakistan,Islamabad,1,Asia,19
+Palau,Adkip,1,Pacific,19
+Bolivia,National,7,America,18
+Panama,Panama City,6,America,18
+Papua New Guinea,Port Moresby,7,Pacific,19
+Paraguay,Carreria,1,America,18
+Peru,Lima,4,America,18
+Philippines,Manila,7,Asia,19
+Poland,Warsaw,1,Europe,19
+Portugal,Lisbon,1,Europe,18
+Qatar,Doha,1,Asia,19
+Romania,Bucharest,1,Europe,19
+Russia,Moscow,1,Europe,19
+Rwanda,Kigali,1,Africa,19
+Saint Kitts and Nevis,Basseterre,7,America,18
+Saint Lucia,Castries,7,America,18
+Saint Vincent and the Grenadines,Kingstown,7,America,18
+Samoa,Apia,6,Pacific,19
+San Marino,San Marino,1,Europe,19
+Belgium,'S-Gravenwezel,1,Europe,19
+Saudi Arabia,Riyadh,1,Asia,19
+Senegal,Dakar,1,Africa,18
+Serbia,Belgrade,1,Europe,19
+Seychelles Islands,Victoria,1,Indian,19
+Sierra Leone,Freetown,1,Africa,18
+Singapore,Singapore,1,Asia,19
+Slovakia,Bratislava,1,Europe,19
+Slovenia,Ljubljana,1,Europe,19
+Solomon Islands,Honiara,7,Pacific,19
+Somalia,Mogadishu,1,Africa,19
+South Africa,Pretoria,1,Africa,19
+South Korea,Seoul,6,Asia,19
+Sudan,Juba,1,Africa,19
+Spain,Madrid,1,Europe,19
+Sri Lanka,Colombo,1,Asia,19
+Sudan,Khartoum,1,Africa,19
+Suriname,Paramaribo,1,America,18
+Sweden,Stockholm,1,Europe,19
+Switzerland,Bern,1,Europe,19
+Syria,Damascus,1,Asia,19
+Tajikistan,Dushanbe,1,Asia,19
+Tanzania,Dodoma,1,Africa,19
+Thailand,Bangkok,1,Asia,19
+Timor-Leste,Dili,6,Asia,19
+Bulgaria,Lom,1,Europe,19
+Tonga,Nuku`Aloia,5,Pacific,19
+Trinidad and Tobago,Port Of Spain,7,America,18
+Tunisia,Tunis,1,Africa,18
+Turkey,Ankara,1,Europe,19
+Turkmenistan,Ashgabat,1,Asia,19
+Tuvalu,Funafuti,6,Pacific,19
+Uganda,Kampala,1,Africa,19
+Ukraine,Kyiv,1,Europe,19
+United Arab Emirates,Abu Dhabi,1,Asia,19
+United Kingdom,London,1,Europe,18
+United States of America,Washington Park,6,America,18
+Uruguay,Montevideo,1,America,18
+Uzbekistan,Tashkent,1,Asia,19
+Vanuatu,Port Vila,6,Pacific,19
+Venezuela,Caracas,5,America,18
+Vietnam,Hanoi,1,Asia,19
+Yemen,Sanaa,1,Asia,19
+Zambia,Lusaka,1,Africa,19
+Zimbabwe,Harare,1,Africa,19
+Afghanistan,Kabul,1,Asia,20
+Albania,Tirana,1,Europe,20
+Algeria,Algiers,1,Africa,19
+Andorra,Andorra La Vella,1,Europe,20
+Angola,Luanda,1,Africa,19
+Antigua and Barbuda,Saint John's,7,America,19
+Argentina,Buenos Aires,1,America,19
+Armenia,Yerevan,1,Asia,20
+Australia,Canberra,5,Australia,20
+Austria,Vienna,1,Europe,20
+Azerbaijan,Baku,1,Asia,20
+Bahamas,Nassau,8,America,19
+Bahrain,Manama,1,Asia,20
+Bangladesh,Dhaka,1,Asia,20
+Barbados,Bridgetown,1,America,19
+Belarus,Minsk,1,Europe,20
+Belgium,Brussels,1,Europe,20
+Belize,Belmopan,8,America,19
+Benin,Porto-Novo,1,Africa,19
+Bhutan,Thimphu,1,Asia,20
+Bolivia,Sucre,4,America,19
+Bosnia and Herzegovina,Sarajevo,1,Europe,20
+Botswana,Gaborone,1,Africa,20
+Brazil,Bras,1,America,19
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,20
+Bulgaria,Sofia,1,Europe,20
+Burkina Faso,Ouagadougou,1,Africa,19
+Burundi,Bujumbura,1,Africa,20
+Madagascar,Ivory,1,Indian,20
+Cape Verde,Praia,1,Atlantic,19
+Cambodia,Phnom Penh,1,Asia,20
+Cameroon,Bafoussam,1,Africa,19
+Canada,Ottawa,5,America,19
+Central African Republic,Bangui,1,Africa,19
+Chad,N'djamena,1,Africa,19
+Chile,Santiago,4,America,19
+China,Beijing,5,Asia,20
+Bulgaria,Bogot,1,Europe,20
+Comoros,Moroni,1,Indian,20
+Congo,Brazzaville,1,Africa,19
+Costa Rica,San Juan,5,America,19
+Croatia,Zagreb,1,Europe,20
+Cuba,Havana,6,America,19
+Cyprus,Nicosia,1,Asia,20
+Czech Republic,Prague,1,Europe,20
+Democratic Republic of Congo,Kinshasa,1,Africa,19
+Denmark,Copenhagen,1,Europe,20
+Djibouti,Djibouti,1,Africa,20
+Dominica,Roseau,6,America,19
+Dominican Republic,Santo Domingo,8,America,19
+Ecuador,Quito,4,America,19
+Egypt,Cairo,1,Africa,20
+El Salvador,San Salvador,6,America,19
+Equatorial Guinea,Malabo,1,Africa,19
+Eritrea,Asmara,1,Africa,20
+Estonia,Tallinn,1,Europe,20
+Swaziland,Mbabane,1,Africa,20
+Ethiopia,Addis Ababa,1,Africa,20
+Fiji Islands,Suva,5,Pacific,20
+Finland,Helsinki,1,Europe,20
+France,Paris,1,Europe,20
+Gabon,Libreville,1,Africa,19
+Gambia,Banjul,1,Africa,19
+Georgia,Tbilisi,1,Asia,20
+Germany,Berlin,1,Europe,20
+Ghana,Accra,1,Africa,19
+Greece,Athens,1,Europe,20
+Grenada,Saint George's,7,America,19
+Guatemala,Guatemala City,5,America,19
+Guinea,Conakry,1,Africa,19
+Guinea-Bissau,Bissau,1,Africa,19
+Guyana,Georgetown,1,America,19
+Haiti,Port-Au-Prince,7,America,19
+Vatican City,Vatican City,1,Europe,20
+Honduras,Tegucigalpa,7,America,19
+Hungary,Budapest,1,Europe,20
+Iceland,Hella,1,Atlantic,19
+India,New Delhi,1,Asia,20
+Indonesia,Jakarta,1,Asia,20
+Iran,Tehran,1,Asia,20
+Iraq,Baghdad,1,Asia,20
+Ireland,Dublin,1,Europe,19
+Israel,Jerusalem,1,Asia,20
+Italy,Rome,1,Europe,20
+Jamaica,Norman Gardens,7,America,19
+Japan,Tokyo,7,Asia,20
+Jordan,Amman,1,Asia,20
+Kazakhstan,Astana,1,Asia,20
+Kenya,Nairobi,1,Africa,20
+Kiribati,Tarawa,7,Pacific,20
+Kuwait,Kuwait City,1,Asia,20
+Kyrghyzstan,Bishkek,1,Asia,20
+Indonesia,Laos,1,Asia,20
+Latvia,Riga,1,Europe,20
+Lebanon,Beirut,1,Asia,20
+Lesotho,Maseru,1,Africa,20
+Liberia,Monrovia,1,Africa,19
+Thailand,Nan,1,Asia,20
+Liechtenstein,Vaduz,1,Europe,20
+Lithuania,Vilnius,1,Europe,20
+Luxembourg,Luxembourg,1,Europe,20
+Madagascar,Antananarivo,1,Indian,20
+Malawi,Lilongwe,1,Africa,20
+Malaysia,Kuala Lumpur,1,Asia,20
+Maldives,Farukolhufunadhoo,1,Indian,20
+Mali,Bamako,1,Africa,19
+Malta,Valletta,1,Europe,20
+Marshall Islands,Majuro,6,Pacific,20
+Mauritania,Nouakchott,1,Africa,19
+Mauritius,Port Louis,1,Indian,20
+Mexico,Mexico City,7,America,19
+Micronesia,Palikir,6,Pacific,20
+Russia,Chi-Chi-Erh,1,Asia,20
+Monaco,Monaco,1,Europe,20
+Mongolia,Ulaanbaatar,1,Asia,20
+Montenegro,Podgorica,1,Europe,20
+Morocco,Rabat,1,Africa,19
+Mozambique,Maputo,1,Africa,20
+Myanmar,Pathein,1,Asia,20
+Namibia,Windhoek,1,Africa,20
+Turkey,Yaren,1,Europe,20
+Nepal,Kathmandu,1,Asia,20
+Netherlands,Amsterdam,1,Europe,20
+New Zealand,Wellington,3,Pacific,20
+Nicaragua,Managua,7,America,19
+Niger,Niamey,1,Africa,19
+Nigeria,Abuja,1,Africa,19
+North Korea,Pyongyang,4,Asia,20
+Macedonia,Skopje,1,Europe,20
+Norway,Oslo,1,Europe,20
+Oman,Muscat,1,Asia,20
+Pakistan,Islamabad,1,Asia,20
+Palau,Adkip,1,Pacific,20
+Bolivia,National,7,America,19
+Panama,Panama City,6,America,19
+Papua New Guinea,Port Moresby,7,Pacific,20
+Paraguay,Carreria,1,America,19
+Peru,Lima,5,America,19
+Philippines,Manila,7,Asia,20
+Poland,Warsaw,1,Europe,20
+Portugal,Lisbon,1,Europe,19
+Qatar,Doha,1,Asia,20
+Romania,Bucharest,1,Europe,20
+Russia,Moscow,1,Europe,20
+Rwanda,Kigali,1,Africa,20
+Saint Kitts and Nevis,Basseterre,6,America,19
+Saint Lucia,Castries,6,America,19
+Saint Vincent and the Grenadines,Kingstown,6,America,19
+Samoa,Apia,7,Pacific,20
+San Marino,San Marino,1,Europe,20
+Belgium,'S-Gravenwezel,1,Europe,20
+Saudi Arabia,Riyadh,1,Asia,20
+Senegal,Dakar,1,Africa,19
+Serbia,Belgrade,1,Europe,20
+Seychelles Islands,Victoria,1,Indian,20
+Sierra Leone,Freetown,1,Africa,19
+Singapore,Singapore,1,Asia,20
+Slovakia,Bratislava,1,Europe,20
+Slovenia,Ljubljana,1,Europe,20
+Solomon Islands,Honiara,7,Pacific,20
+Somalia,Mogadishu,1,Africa,20
+South Africa,Pretoria,1,Africa,20
+South Korea,Seoul,4,Asia,20
+Sudan,Juba,1,Africa,20
+Spain,Madrid,1,Europe,20
+Sri Lanka,Colombo,1,Asia,20
+Sudan,Khartoum,1,Africa,20
+Suriname,Paramaribo,1,America,19
+Sweden,Stockholm,1,Europe,20
+Switzerland,Bern,1,Europe,20
+Syria,Damascus,1,Asia,20
+Tajikistan,Dushanbe,1,Asia,20
+Tanzania,Dodoma,1,Africa,20
+Thailand,Bangkok,1,Asia,20
+Timor-Leste,Dili,7,Asia,20
+Bulgaria,Lom,1,Europe,20
+Tonga,Nuku`Aloia,5,Pacific,20
+Trinidad and Tobago,Port Of Spain,7,America,19
+Tunisia,Tunis,1,Africa,19
+Turkey,Ankara,1,Europe,20
+Turkmenistan,Ashgabat,1,Asia,20
+Tuvalu,Funafuti,6,Pacific,20
+Uganda,Kampala,1,Africa,20
+Ukraine,Kyiv,1,Europe,20
+United Arab Emirates,Abu Dhabi,1,Asia,20
+United Kingdom,London,1,Europe,19
+United States of America,Washington Park,6,America,19
+Uruguay,Montevideo,1,America,19
+Uzbekistan,Tashkent,1,Asia,20
+Vanuatu,Port Vila,6,Pacific,20
+Venezuela,Caracas,6,America,19
+Vietnam,Hanoi,1,Asia,20
+Yemen,Sanaa,1,Asia,20
+Zambia,Lusaka,1,Africa,20
+Zimbabwe,Harare,1,Africa,20
+Afghanistan,Kabul,1,Asia,21
+Albania,Tirana,1,Europe,21
+Algeria,Algiers,1,Africa,20
+Andorra,Andorra La Vella,1,Europe,21
+Angola,Luanda,1,Africa,20
+Antigua and Barbuda,Saint John's,6,America,20
+Argentina,Buenos Aires,1,America,20
+Armenia,Yerevan,1,Asia,21
+Australia,Canberra,4,Australia,21
+Austria,Vienna,1,Europe,21
+Azerbaijan,Baku,1,Asia,21
+Bahamas,Nassau,8,America,20
+Bahrain,Manama,1,Asia,21
+Bangladesh,Dhaka,1,Asia,21
+Barbados,Bridgetown,1,America,20
+Belarus,Minsk,1,Europe,21
+Belgium,Brussels,1,Europe,21
+Belize,Belmopan,8,America,20
+Benin,Porto-Novo,1,Africa,20
+Bhutan,Thimphu,1,Asia,21
+Bolivia,Sucre,5,America,20
+Bosnia and Herzegovina,Sarajevo,1,Europe,21
+Botswana,Gaborone,1,Africa,21
+Brazil,Bras,1,America,20
+Brunei Darussalam,Bandar Seri Begawan,1,Asia,21
+Bulgaria,Sofia,1,Europe,21
+Burkina Faso,Ouagadougou,1,Africa,20
+Burundi,Bujumbura,1,Africa,21
+Madagascar,Ivory,1,Indian,21
+Cape Verde,Praia,1,Atlantic,20
+Cambodia,Phnom Penh,1,Asia,21
+Cameroon,Bafoussam,1,Africa,20
+Canada,Ottawa,4,America,20
+Central African Republic,Bangui,1,Africa,20
+Chad,N'djamena,1,Africa,20
+Chile,Santiago,4,America,20
+China,Beijing,1,Asia,21
+Bulgaria,Bogot,1,Europe,21
+Comoros,Moroni,1,Indian,21
+Congo,Brazzaville,1,Africa,20
+Costa Rica,San Juan,5,America,20
+Croatia,Zagreb,1,Europe,21
+Cuba,Havana,6,America,20
+Cyprus,Nicosia,1,Asia,21
+Czech Republic,Prague,1,Europe,21
+Democratic Republic of Congo,Kinshasa,1,Africa,20
+Denmark,Copenhagen,1,Europe,21
+Djibouti,Djibouti,1,Africa,21
+Dominica,Roseau,6,America,20
+Dominican Republic,Santo Domingo,6,America,20
+Ecuador,Quito,4,America,20
+Egypt,Cairo,1,Africa,21
+El Salvador,San Salvador,6,America,20
+Equatorial Guinea,Malabo,1,Africa,20
+Eritrea,Asmara,1,Africa,21
+Estonia,Tallinn,1,Europe,21
+Swaziland,Mbabane,1,Africa,21
+Ethiopia,Addis Ababa,1,Africa,21
+Fiji Islands,Suva,5,Pacific,21
+Finland,Helsinki,1,Europe,21
+France,Paris,1,Europe,21
+Gabon,Libreville,1,Africa,20
+Gambia,Banjul,1,Africa,20
+Georgia,Tbilisi,1,Asia,21
+Germany,Berlin,1,Europe,21
+Ghana,Accra,1,Africa,20
+Greece,Athens,1,Europe,21
+Grenada,Saint George's,6,America,20
+Guatemala,Guatemala City,5,America,20
+Guinea,Conakry,1,Africa,20
+Guinea-Bissau,Bissau,1,Africa,20
+Guyana,Georgetown,1,America,20
+Haiti,Port-Au-Prince,6,America,20
+Vatican City,Vatican City,1,Europe,21
+Honduras,Tegucigalpa,6,America,20
+Hungary,Budapest,1,Europe,21
+Iceland,Hella,1,Atlantic,20
+India,New Delhi,1,Asia,21
+Indonesia,Jakarta,1,Asia,21
+Iran,Tehran,1,Asia,21
+Iraq,Baghdad,1,Asia,21
+Ireland,Dublin,1,Europe,20
+Israel,Jerusalem,1,Asia,21
+Italy,Rome,1,Europe,21
+Jamaica,Norman Gardens,7,America,20
+Japan,Tokyo,6,Asia,21
+Jordan,Amman,1,Asia,21
+Kazakhstan,Astana,1,Asia,21
+Kenya,Nairobi,1,Africa,21
+Kiribati,Tarawa,7,Pacific,21
+Kuwait,Kuwait City,1,Asia,21
+Kyrghyzstan,Bishkek,1,Asia,21
+Indonesia,Laos,1,Asia,21
+Latvia,Riga,1,Europe,21
+Lebanon,Beirut,1,Asia,21
+Lesotho,Maseru,1,Africa,21
+Liberia,Monrovia,1,Africa,20
+Thailand,Nan,1,Asia,21
+Liechtenstein,Vaduz,1,Europe,21
+Lithuania,Vilnius,1,Europe,21
+Luxembourg,Luxembourg,1,Europe,21
+Madagascar,Antananarivo,1,Indian,21
+Malawi,Lilongwe,1,Africa,21
+Malaysia,Kuala Lumpur,1,Asia,21
+Maldives,Farukolhufunadhoo,1,Indian,21
+Mali,Bamako,1,Africa,20
+Malta,Valletta,1,Europe,21
+Marshall Islands,Majuro,6,Pacific,21
+Mauritania,Nouakchott,1,Africa,20
+Mauritius,Port Louis,1,Indian,21
+Mexico,Mexico City,7,America,20
+Micronesia,Palikir,6,Pacific,21
+Russia,Chi-Chi-Erh,1,Asia,21
+Monaco,Monaco,1,Europe,21
+Mongolia,Ulaanbaatar,1,Asia,21
+Montenegro,Podgorica,1,Europe,21
+Morocco,Rabat,1,Africa,20
+Mozambique,Maputo,1,Africa,21
+Myanmar,Pathein,1,Asia,21
+Namibia,Windhoek,1,Africa,21
+Turkey,Yaren,1,Europe,21
+Nepal,Kathmandu,1,Asia,21
+Netherlands,Amsterdam,1,Europe,21
+New Zealand,Wellington,3,Pacific,21
+Nicaragua,Managua,7,America,20
+Niger,Niamey,1,Africa,20
+Nigeria,Abuja,1,Africa,20
+North Korea,Pyongyang,5,Asia,21
+Macedonia,Skopje,1,Europe,21
+Norway,Oslo,1,Europe,21
+Oman,Muscat,1,Asia,21
+Pakistan,Islamabad,1,Asia,21
+Palau,Adkip,1,Pacific,21
+Bolivia,National,7,America,20
+Panama,Panama City,6,America,20
+Papua New Guinea,Port Moresby,7,Pacific,21
+Paraguay,Carreria,1,America,20
+Peru,Lima,5,America,20
+Philippines,Manila,7,Asia,21
+Poland,Warsaw,1,Europe,21
+Portugal,Lisbon,1,Europe,20
+Qatar,Doha,1,Asia,21
+Romania,Bucharest,1,Europe,21
+Russia,Moscow,1,Europe,21
+Rwanda,Kigali,1,Africa,21
+Saint Kitts and Nevis,Basseterre,6,America,20
+Saint Lucia,Castries,7,America,20
+Saint Vincent and the Grenadines,Kingstown,6,America,20
+Samoa,Apia,6,Pacific,21
+San Marino,San Marino,1,Europe,21
+Belgium,'S-Gravenwezel,1,Europe,21
+Saudi Arabia,Riyadh,1,Asia,21
+Senegal,Dakar,1,Africa,20
+Serbia,Belgrade,1,Europe,21
+Seychelles Islands,Victoria,1,Indian,21
+Sierra Leone,Freetown,1,Africa,20
+Singapore,Singapore,1,Asia,21
+Slovakia,Bratislava,1,Europe,21
+Slovenia,Ljubljana,1,Europe,21
+Solomon Islands,Honiara,7,Pacific,21
+Somalia,Mogadishu,1,Africa,21
+South Africa,Pretoria,1,Africa,21
+South Korea,Seoul,4,Asia,21
+Sudan,Juba,1,Africa,21
+Spain,Madrid,1,Europe,21
+Sri Lanka,Colombo,1,Asia,21
+Sudan,Khartoum,1,Africa,21
+Suriname,Paramaribo,1,America,20
+Sweden,Stockholm,1,Europe,21
+Switzerland,Bern,1,Europe,21
+Syria,Damascus,1,Asia,21
+Tajikistan,Dushanbe,1,Asia,21
+Tanzania,Dodoma,1,Africa,21
+Thailand,Bangkok,1,Asia,21
+Timor-Leste,Dili,6,Asia,21
+Bulgaria,Lom,1,Europe,21
+Tonga,Nuku`Aloia,6,Pacific,21
+Trinidad and Tobago,Port Of Spain,7,America,20
+Tunisia,Tunis,1,Africa,20
+Turkey,Ankara,1,Europe,21
+Turkmenistan,Ashgabat,1,Asia,21
+Tuvalu,Funafuti,6,Pacific,21
+Uganda,Kampala,1,Africa,21
+Ukraine,Kyiv,1,Europe,21
+United Arab Emirates,Abu Dhabi,1,Asia,21
+United Kingdom,London,1,Europe,20
+United States of America,Washington Park,5,America,20
+Uruguay,Montevideo,1,America,20
+Uzbekistan,Tashkent,1,Asia,21
+Vanuatu,Port Vila,6,Pacific,21
+Venezuela,Caracas,5,America,20
+Vietnam,Hanoi,1,Asia,21
+Yemen,Sanaa,1,Asia,21
+Zambia,Lusaka,1,Africa,21
+Zimbabwe,Harare,1,Africa,21
