@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/Q-g2/3179/main/data/pm2_5.csv"},
+  "title":{"text":"EPA_Index VS PM_2.5", "align": "center","anchor": "middle", "fontSize": 20,"fontWeight":"bolder", "color":"brown" },
+  "width":"container",
+  "height": 300,
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "bin": {"maxbins": 10},
+      "field": "air_quality_us_epa_index"
+    },
+    "y": {
+      "bin": {"maxbins": 10},
+      "field": "air_quality_PM2_5"
+    },
+    "size": {"aggregate": "count"},
+    "color": {
+      "aggregate":"count",
+      "type": "quantitative"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Average Wind Speed across all continent comparison between August and September in 2023.",
+  "data": { "url": "https://raw.githubusercontent.com/Q-g2/3179/main/data/wind_df.csv"},
+  "title":{"text":"Continent's Wind Speed", "align": "center","anchor": "middle", "fontSize": 20,"fontWeight":"bolder", "color":"brown" },
+  "width": "container",
+  "height": 300,
+  "spacing": 0,
+  "background":null,
+  "hconcat": [{
+    "transform": [{
+      "filter": {"field": "month_name", "equal": "August"}
+    }],
+    "title": "August",
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Continent", "axis": null
+      },
+      "x": {
+        "aggregate": "average", "field": "wind_kph",
+        "title": "Average Wind Speed (mph)",
+        "axis": {"format": ".3s"},
+        "sort": "descending"
+      },
+      "color": {
+        "field": "month_name",
+        "scale": {"range": ["#87c1f5","#f5bb87"]},
+        "legend": null
+      }
+    }
+  }, {
+    "width": 20,
+    "view": {"stroke": null},
+    "mark": {
+      "type": "text",
+      "align": "center"
+    },
+    "encoding": {
+      "y": {"field": "Continent", "type": "ordinal", "axis": null, "sort": "descending"},
+      "text": {"field": "Continent", "type": "norminal"}
+    }
+  }, {
+    "transform": [{
+      "filter": {"field": "month_name", "equal": "September"}
+    }],
+    "title": "September",
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Continent", "title": null,
+        "axis": null
+      },
+      "x": {
+        "aggregate": "average", "field": "wind_kph",
+        "title": "Average wind speed (mph)",
+        "axis": {"format": ".3s"}
+      },
+      "color": {
+        "field": "month_name",
+        "legend": null
+      }
+    }
+  }],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+    
+  }
+}
